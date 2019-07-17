@@ -1,0 +1,2 @@
+sim5-sim15.csv 	不同simhash阈值的匹配结果
+test.xls		在实验样本的xls中直接插入新表，记录simhash距离为0的匹配结果

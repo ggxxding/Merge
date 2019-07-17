@@ -1,0 +1,1882 @@
+ID,Syn
+"DOID: 60000,BlockL1-DB1","['appendix disease'],['Diseases of appendix']"
+"DOID: 13185,Mesh:D045723","['esophageal diverticulosis'],['Diverticulosis, Esophageal','Esophageal Diverticulosis']"
+"DOID: 11151,Mesh:D041761","['cholecystolithiasis'],['Cholecystolithiasis']"
+"Mesh:D002769,DC11,DOID: 10211","['Cholelithiasis'],['Cholelithiasis'],['cholelithiasis']"
+"DC10.1,DOID: 9717","['Hydrops of gallbladder'],['hydrops of gallbladder']"
+"Mesh:D001660,DOID: 9741","['Biliary Tract Diseases'],['biliary tract disease']"
+"Mesh:D002761,DC13,DOID: 9446","['Cholangitis'],['Cholangitis'],['cholangitis']"
+"DB96.2,DOID: 0060643","['Primary sclerosing cholangitis'],['primary sclerosing cholangitis']"
+"DOID: 0070227,DOID: 1852","['intrahepatic cholestasis of pregnancy'],['intrahepatic cholestasis of pregnancy','intrahepatic cholestasis']"
+"Mesh:D003137,DOID: 4137","['Common Bile Duct Diseases'],['common bile duct disease']"
+"DOID: 12237,Mesh:D001655","['bile reflux'],['Bile Reflux']"
+"DC14.1,DOID: 9740","['Postcholecystectomy syndrome'],['postcholecystectomy syndrome']"
+"DB99.2,DOID: 11823,Mesh:D006530","['Hepatorenal syndrome'],['hepatorenal syndrome'],['Hepatorenal Syndrome']"
+"Mesh:D007410,DOID: 5295","['Intestinal Diseases'],['intestinal disease']"
+"Mesh:D003109,DOID: 3877","['Colonic Diseases, Functional','Functional Colonic Diseases'],['functional colonic disease']"
+"Mesh:D008532,DOID: 1770,DB32.20","['Megacolon, Toxic','Toxic Megacolon'],['toxic megacolon'],['Toxic megacolon']"
+"Mesh:D004238,DOID: 7475","['Diverticulitis'],['diverticulitis']"
+"Mesh:D004380,DOID: 3558","['Duodenal Obstruction'],['duodenal obstruction']"
+"DOID: 0050589,BlockL1-DD7,Mesh:D015212","['inflammatory bowel disease'],['Inflammatory bowel diseases'],['Bowel Diseases, Inflammatory','Inflammatory Bowel Diseases']"
+"DOID: 0060180,Mesh:D003092","['colitis'],['Colitis']"
+"DB33.3,DOID: 0060187","['Diversion colitis'],['diversion colitis']"
+"DOID: 0060181,Mesh:D017091","['ischemic colitis'],['Ischemic Colitis','Colitis, Ischemic']"
+"Mesh:D046728,DOID: 0060182,DB33.1","['Microscopic Colitis','Colitis, Microscopic'],['microscopic colitis'],['Microscopic colitis']"
+"DB33.10,DOID: 0060183,Mesh:D046729","['Collagenous colitis'],['collagenous colitis'],['Colitis, Collagenous','Collagenous Colitis']"
+"DB33.11,Mesh:D046730,DOID: 0060184","['Lymphocytic colitis'],['Colitis, Lymphocytic','Lymphocytic Colitis'],['lymphocytic colitis']"
+"DOID: 8577,DD71.1","['ulcerative colitis','Left-sided ulcerative colitis'],['Left sided ulcerative colitis']"
+"DD51,DOID: 0060320","['Inguinal hernia'],['inguinal hernia']"
+"Mesh:D007415,DOID: 8437","['Intestinal Obstruction'],['intestinal obstruction']"
+"DOID: 8442,DA93.0","['paralytic ileus'],['Paralytic ileus']"
+"Mesh:D007416,DOID: 2074","['Intestinal Perforation'],['intestinal perforation','Perforation of intestine']"
+"DOID: 13419,Mesh:D055496","['neurogenic bowel'],['Neurogenic Bowel']"
+"DOID: 0060328,DB50.1","['anal fistula'],['Anal fistula']"
+"DOID: 11374,DB72.0","['anal spasm'],['Anal spasm']"
+"DOID: 3127,Mesh:D011349","['proctitis'],['Proctitis']"
+"DOID: 0060321,DD53","['umbilical hernia'],['Umbilical hernia']"
+"Mesh:D009059,DOID: 403","['Mouth Diseases'],['mouth disease']"
+"Mesh:D008047,DOID: 9297","['Lip Diseases'],['lip disease','disease of lips']"
+"Mesh:D002613,DA00.0,DOID: 1762","['Cheilitis'],['Cheilitis'],['cheilitis']"
+"DOID: 0060315,Mesh:D017733","['hairy leukoplakia','oral hairy leukoplakia'],['Leukoplakia, Hairy, Oral','Leukoplakia, Hairy','Oral Hairy Leukoplakia']"
+"Mesh:D010305,DOID: 10302","['Parotid Diseases'],['parotid disease']"
+"Mesh:D013364,DOID: 12897","['Submandibular Gland Diseases'],['submandibular gland disease']"
+"DOID: 9672,Mesh:D009625","['Gangrenous stomatitis','Cancrum oris','noma'],['Stomatitis, Gangrenous','Cancrum Oris','Noma']"
+"DOID: 10944,DA03","['tongue disease'],['Diseases of tongue']"
+"DOID: 1456,DA03.0,Mesh:D005928","['glossitis'],['Glossitis'],['Glossitis']"
+"DA09.4,DOID: 11189","['Pulp degeneration'],['pulp degeneration']"
+"DA09.0,DOID: 11121","['Pulpitis'],['pulpitis']"
+"DA0B,DOID: 1483","['Gingival diseases'],['gingival disease']"
+"Mesh:D010497,DA0B.6,DOID: 3671","['Pericoronitis'],['Pericoronitis'],['pericoronitis']"
+"DOID: 9893,DA0C.2","['periodontosis'],['Periodontosis']"
+"DOID: 214,DA08","['teeth hard tissue disease'],['Diseases of hard tissues of teeth']"
+"DOID: 701,Mesh:D003805","['dentin dysplasia','Dentinal dysplasia'],['Dentin Dysplasia']"
+"Mesh:D014091,DOID: 13240","['Tooth Resorption'],['tooth resorption']"
+"Mesh:D012391,DOID: 14550","['Root Resorption'],['root resorption']"
+"DOID: 0080178,Mesh:D052016","['mucositis'],['Mucositis']"
+"Mesh:D013271,DOID: 3229","['Stomach Dilatation','Gastric Dilation','Stomach Dilation','Gastric Dilatation'],['gastric dilatation','stomach dilatation']"
+"DOID: 12639,Mesh:D011707","['pyloric stenosis'],['Pyloric Stenosis','Stenosis, Pyloric']"
+"DOID: 4030,DA42.2","['eosinophilic gastritis'],['Eosinophilic gastritis']"
+"DA42.3,DOID: 4035","['Lymphocytic gastritis'],['lymphocytic gastritis']"
+"Mesh:D002054,DA0F.0","['Burning Mouth Syndrome'],['Burning mouth syndrome']"
+"Mesh:D004066,13.0","['Digestive System Diseases'],['Diseases of the digestive system']"
+"Mesh:D004377,DE11","['Dumping Syndrome'],['Dumping syndrome']"
+"DA63.0,Mesh:D004382","['Duodenal erosion'],['Erosive Duodenitis','Duodenitis']"
+"DA42,Mesh:D005756","['Gastritis'],['Gastritis']"
+"DB94,Mesh:D008108","['Alcoholic liver disease'],['Alcoholic Liver Diseases','Liver Diseases, Alcoholic']"
+"Mesh:D008260,DA03.5","['Macroglossia'],['Macroglossia']"
+"Mesh:D008311,DA0E.51","['Malocclusion, Angle Class I','Angle Class I'],['Angle class I malocclusion']"
+"Mesh:D008531,DB32.2","['Megacolon'],['Megacolon']"
+"DA02.2,Mesh:D009914","['Oral submucous fibrosis'],['Oral Submucous Fibrosis']"
+"DB98.1,Mesh:D010382","['Peliosis hepatis'],['Peliosis Hepatis']"
+"DA04,Mesh:D012466","['Diseases of salivary glands'],['Salivary Gland Diseases']"
+"Mesh:D012778,KB89.1","['Short Bowel Syndrome'],['Short bowel syndrome']"
+"Mesh:D017219,DA40.0","['Gastric Outlet Obstruction'],['Gastric outlet obstruction']"
+"Mesh:D041881,DC12.0","['Cholecystitis, Acute','Acute Cholecystitis'],['Acute cholecystitis']"
+"Mesh:D050500,DC32","['Pancreatitis, Chronic','Chronic Pancreatitis'],['Chronic pancreatitis']"
+"Mesh:D051261,DA01.21","['Orofacial Granulomatosis','Granulomatosis, Orofacial'],['Orofacial granulomatosis']"
+"BlockL1-DB9,DB99.Y","['Diseases of liver'],['Other diseases of liver']"
+"DB91.1,DB91","['Other acute or subacute hepatic failure'],['Acute or subacute hepatic failure']"
+"DD00.0,DD00.0Z","['Diverticulitis of unspecified part of intestine with complication'],['Diverticulitis of unspecified part of intestine with complication, unspecified']"
+"DD01,DD01.Z","['Diverticulosis of unspecified part of intestine'],['Diverticulosis of unspecified part of intestine, unspecified']"
+"DD02.Z,DD02","['Diverticulum of unspecified part of intestine, unspecified'],['Diverticulum of unspecified part of intestine']"
+DOID: 77,"['gastrointestinal system disease','gastrointestinal disease','digestive system disorder','gastrointestinal disorder','alimentary system disease','Gastroenteropathy','GIT disease']"
+DOID: 13250,"['diarrhea of presumed infectious origin','diarrhoea']"
+DOID: 0050140,"['acute diarrhea','acute Noninfective neonatal diarrhea']"
+DOID: 0060774,['congenital diarrhea']
+DOID: 0060776,"['congenital diarrhea 5 with tufting enteropathy','DIAR5','congenital tufting enteropathy','congenital familial intractable diarrhea with epithelial or epithelium abnormalities']"
+DOID: 0060780,"['chronic diarrhea due to guanylate cyclase 2C overactivity','congenital diarrhea 6']"
+DOID: 0060778,"['congenital chronic diarrhea with exudative enteropathy','congenital diarrhea 7 with exudative enteropathy','congenital chronic diarrhea with protein-losing enteropathy']"
+DOID: 0060779,"['congenital malabsorptive diarrhea 4','congenital malabsorptive diarrhea due to paucity of enteroendocrine cells','enteric anendocrinosis']"
+DOID: 0060775,"['Davidson disease','congenital microvillus atrophy','diarrhea 2 with microvillus atrophy','congenital familial protracted diarrhea with enterocyte brush-border abnormalities','intractable diarrhea of infancy','MVD','microvillus inclusion disease']"
+DOID: 0050132,['inflammatory diarrhea']
+DOID: 0050131,['motility-related diarrhea']
+DOID: 0050130,['osmotic diarrhea']
+DOID: 0050129,['secretory diarrhea']
+DOID: 0060296,"['congenital chloride diarrhea finnish type','congenital chloridorrhea','congenital secretory chloride diarrhea 1']"
+DOID: 0060781,"['congenital secretory sodium diarrhea 3 with or without other congenital anomalies','congenital secretory sodium diarrhea 3 syndromic','congenital secretory sodium diarrhea 3']"
+DOID: 0060777,"['DIAR8','congenital secretory sodium diarrhea 8']"
+DOID: 0080171,"['esophageal atresia/tracheoesophageal fistula','tracheoesophageal fistula with or without esohageal atresia','esophageal atresia and/or tracheoesophageal fistula']"
+DOID: 6050,"['esophageal disease','esophageal Ulcer']"
+DOID: 9206,"['Barrett's ulcer of esophagus','Barrett esophagus','(ulcerative esophagitis) or (Barrett's esophagus)','Barretts syndrome','Barrett's oesophagus','CLE','Barrett's esophagus','Barrett's esophagus with esophagitis']"
+DOID: 9164,"['hypertensive lower esophageal sphincter','achalasia','esophageal achalasia','achalasia of cardia','achalasia of esophagus','Lack of reflex relaxation of lower oesophageal sphincter','cardiospasm']"
+DOID: 13921,['bacterial esophagitis']
+DOID: 13922,['eosinophilic esophagitis']
+DOID: 13147,['fungal esophagitis']
+DOID: 6297,['viral esophagitis']
+DOID: 13186,['megaesophagus']
+DOID: 0060262,['gallbladder disease']
+DOID: 4140,"['sphincter of oddi dysfunction','biliary dyskinesia']"
+DOID: 9714,"['Obstruction of gallbladder','occlusion of gallbladder']"
+DOID: 10254,"['strawberry gallbladder','Cholesterolosis of gallbladder']"
+DOID: 2326,"['infectious colitis, enteritis and gastroenteritis','gastroenteritis','cholera morbus']"
+DOID: 13622,"['Campylobacteriosis (disorder)','campylobacteriosis','(Campylobacter GIT infection (& [diarrhea] or [enteritis]) or (helicobacter gastritis)']"
+DOID: 4031,"['Eosinophilic gastroenteritis','Eosinophilic Gastroenteritis','eosinophilic gastroenteritis','Eosinophilic gastroenteritis (disorder)']"
+DOID: 8534,"['Gastro-esophageal reflux','gastroesophageal reflux disease','Acid reflux','Gastroesophageal reflux','GERD - Gastro-esophageal reflux disease','GERD','Gastresophageal reflux','Gastroesophageal reflux disease']"
+DOID: 3118,"['liver and biliary tract disease','hepatobiliary disease']"
+DOID: 4138,"['bile duct disorder NOS (disorder)','bile duct disease','disorder of bile duct (disorder)']"
+DOID: 0050876,['Caroli disease']
+DOID: 14271,"['acute cholangitis (disorder)','acute cholangitis','acute Cholangitis']"
+DOID: 14270,"['Ascending Cholangitis','ascending cholangitis','Ascending cholangitis (disorder)']"
+DOID: 1949,"['acute and chronic cholecystitis (disorder)','acute cholecystitis unspecified (disorder)','acute and chronic cholecystitis','acute cholecystitis (disorder)','acute cholecystitis','acute cholecystitis NOS (disorder)','chronic cholecystitis','acute on chronic cholecystitis','chronic cholecystitis (disorder)','cholecystitis']"
+DOID: 2828,"['acalculous cholecystitis','cholecystitis without calculus (disorder)','acute cholecystitis without calculus (disorder)','acute acalculous cholecystitis']"
+DOID: 9765,"['emphysematous cholecystitis','Gaseous pericholecystitis']"
+DOID: 9766,['xanthogranulomatous cholecystitis']
+DOID: 9439,['chronic cholangitis']
+DOID: 14272,['pericholangitis']
+DOID: 14268,"['sclerosing cholangitis','fibrosing cholangitis']"
+DOID: 14269,"['Suppurative cholangitis (disorder)','suppurative cholangitis','Suppurative Cholangitis']"
+DOID: 899,"['choledochal cyst','Congenital choledochal cyst (disorder)','Congenital choledochal cyst']"
+DOID: 13580,"['cholestasis','Obstruction of bile duct','bile occlusion']"
+DOID: 13608,"['Congenital biliary atresia (disorder)','biliary atresia','Atresia of bile duct','biliary atresia, congenital']"
+DOID: 13619,"['extrahepatic biliary Stasis','extrahepatic cholestasis (finding)','extrahepatic cholestasis','extrahepatic obstructive biliary disease (disorder)']"
+DOID: 0070230,['benign recurrent intrahepatic cholestasis']
+DOID: 0070231,['benign recurrent intrahepatic cholestasis 1']
+DOID: 0070232,['benign recurrent intrahepatic cholestasis 2']
+DOID: 0070228,['intrahepatic cholestasis of pregnancy 1']
+DOID: 0070229,['intrahepatic cholestasis of pregnancy 3']
+DOID: 0070221,['progressive familial intrahepatic cholestasis']
+DOID: 0070226,['progressive familial intrahepatic cholestasis 1']
+DOID: 0070222,['progressive familial intrahepatic cholestasis 2']
+DOID: 0070223,['progressive familial intrahepatic cholestasis 3']
+DOID: 0070224,['progressive familial intrahepatic cholestasis 4']
+DOID: 0070225,['progressive familial intrahepatic cholestasis 5']
+DOID: 13603,"['Cholestatic jaundice syndrome (disorder)','obstructive jaundice','Obstructive jaundice NOS (disorder)','Obstructive hyperbilirubinemia','Obstructive jaundice NOS','Obstructive hyperbilirubinemia (disorder)','Cholestatic Jaundice']"
+DOID: 13409,"['perforation of bile duct','Perforation of bile duct (disorder)']"
+DOID: 409,"['disorder of liver (disorder)','hepatic disorder','liver disease']"
+DOID: 9245,"['Alagille-Watson syndrome','Arteriohepatic dysplasia (disorder)','Alagille syndrome']"
+DOID: 893,"['Westphal pseudosclerosis','Wilson disease','hepatolenticular degeneration','Cerebral pseudosclerosis','Wilson's disease','Westphal-Strumpell syndrome']"
+DOID: 2237,"['acute/subac. necrosis of liver','chronic persistent hepatitis','animal hepatitis','acute hepatitis','acute and subacute liver necrosis','hepatitis','chronic hepatitis']"
+DOID: 12351,"['acute alcoholic liver disease','acute alcoholic hepatitis','Alcoholic Hepatitis','acute Alcoholic Hepatitis','alcoholic hepatitis','Alcoholic hepatitis (disorder)','acute alcoholic liver disease (disorder)','Alcoholic hepatitis']"
+DOID: 2044,"['Drug-induced chronic hepatitis (disorder)','drug-induced hepatitis']"
+DOID: 2239,"['granulomatous hepatitis','Granulomatous hepatitis (disorder)']"
+DOID: 1884,"['animal viral hepatitis','viral hepatitis','human viral hepatitis','Viral hepatitis with hepatic coma (disorder)','Unspecified viral hepatitis with hepatic coma','viral hepatitis with hepatic coma']"
+DOID: 0050204,['Epstein-Barr virus hepatitis']
+DOID: 900,"['Hepatopulmonary syndrome (disorder)','hepatopulmonary syndrome']"
+DOID: 5082,"['liver cirrhosis','cirrhosis of liver','Cirrhosis']"
+DOID: 14018,"['Laennec's cirrhosis, alcoholic','Alcoholic Cirrhosis','Laennec's cirrhosis','Alcoholic cirrhosis of liver','alcoholic liver cirrhosis','Portal cirrhosis']"
+DOID: 12236,"['biliary liver cirrhosis','cholestatic cirrhosis','chronic nonsuppurative destructive cholangitis','primary biliary cirrhosis']"
+DOID: 918,"['liver inflammatory pseudotumor','Inflammatory Pseudotumor of the Liver']"
+DOID: 3852,"['Peutz Jeghers polyp','peutz-jeghers small bowel hamartoma','gastric Peutz-Jeghers polyp','Peutz Jeghers colon polyp','Peutz-Jeghers syndrome','Colonic hamartomatous polyp','Peutz-Jeghers polyp of small Intestine']"
+DOID: 8476,"['Whipple disease','intestinal lipodystrophy','Whipple's disease','Whipple's disease (disorder)']"
+DOID: 8590,"['acute intestinal vascular insufficiency','acute vascular insufficiency of intestine','acute gastrointestinal tract vascular insuffic. (disorder)','acute GIT vascular insuffic.','acute intestinal Ischemia']"
+DOID: 10846,['angiodysplasia of intestine']
+DOID: 10606,"['Blind loop syndrome (disorder)','Bacterial overgrowth syndrome (disorder)','Blind loop syndrome','blind loop syndrome']"
+DOID: 9779,['bowel dysfunction']
+DOID: 2089,['constipation']
+DOID: 2088,['outlet dysfunction constipation']
+DOID: 1518,"['cecal disease','disorder of cecum (disorder)']"
+DOID: 8337,"['acute appendicitis','acute appendicitis with peritoneal abscess','acute appendicitis with generalized peritonitis (disorder)','appendicitis','acute appendicitis with generalized peritonitis','acute appendicitis with peritoneal abscess (disorder)']"
+DOID: 8633,"['CMI - chronic mesenteric ischaemia','chronic mesenteric ischemia','chronic intestinal vascular insufficiency']"
+DOID: 5353,"['colonic disease','colon disorder']"
+DOID: 10656,"['Colonic leiomyoma','colon leiomyoma']"
+DOID: 13254,"['colonic diverticular disease','diverticulitis of colon']"
+DOID: 11371,"['Functional diarrhea (disorder)','functional diarrhea']"
+DOID: 11372,"['megacolon','Dilatation of colon']"
+DOID: 10487,"['macrocolon','Hirschsprung disease','aganglionic megacolon','pelvirectal achalasia','congenital megacolon','total intestinal aganglionosis','Hirschsprung's disease']"
+DOID: 0080072,['neuronal intestinal dysplasia']
+DOID: 1897,['sigmoid disease']
+DOID: 8408,"['Meckel's diverticulitis (disorder)','Meckel's diverticulitis','Meckel diverticulitis']"
+DOID: 8643,"['duodenitis','Hemorrhagic duodenitis']"
+DOID: 4072,"['duodenal disease','duodenum disorder']"
+DOID: 8778,"['Crohn's disease','Crohn's disease of large bowel','Pediatric Crohn's disease','Granulomatous Colitis','Crohn disease','Crohn's disease of colon (disorder)']"
+DOID: 0060192,['Crohn's colitis']
+DOID: 0060191,"['upper GI Crohn's disease','gastroduodenal Crohn's disease']"
+DOID: 0060189,"['ileitis','Crohn's ileitis']"
+DOID: 0060190,['ileocolitis']
+DOID: 0060188,['jejunoileitis']
+DOID: 0060185,"['Clostridium difficile colitis','Pseudomembranous colitis']"
+DOID: 0060186,['chemical colitis']
+DOID: 0110892,"['inflammatory bowel disease 1','IBD1']"
+DOID: 0110885,"['inflammatory bowel disease (Crohn disease) 10','IBD10','inflammatory bowel disease 10']"
+DOID: 0110894,"['inflammatory bowel disease 11','IBD11']"
+DOID: 0110887,"['inflammatory bowel disease 12','IBD12']"
+DOID: 0110893,"['inflammatory bowel disease 13','IBD13']"
+DOID: 0110895,"['IBD14','inflammatory bowel disease 14']"
+DOID: 0110897,"['IBD15','inflammatory bowel disease 15']"
+DOID: 0110896,"['IBD16','inflammatory bowel disease 16']"
+DOID: 0110883,"['inflammatory bowel disease 17','IBD17']"
+DOID: 0110888,"['IBD18','inflammatory bowel disease 18']"
+DOID: 0110890,"['inflammatory bowel disease 19','inflammatory bowel disease (Crohn disease) 19','IBD19']"
+DOID: 0110900,"['IBD2','inflammatory bowel disease 2']"
+DOID: 0110898,"['inflammatory bowel disease 20','IBD20']"
+DOID: 0110906,"['IBD21','inflammatory bowel disease 21']"
+DOID: 0110905,"['inflammatory bowel disease 22','IBD22']"
+DOID: 0110884,"['inflammatory bowel disease 23','IBD23']"
+DOID: 0110908,"['inflammatory bowel disease 24','IBD24']"
+DOID: 0110909,"['IBD25','inflammatory bowel disease 25','early onset autosomal recessive inflammatory bowel disease 25']"
+DOID: 0110901,"['inflammatory bowel disease 26','IBD26']"
+DOID: 0110902,"['IBD27','inflammatory bowel disease 27']"
+DOID: 0110899,"['IBD28','early onset autosomal recessive inflammatory bowel disease 28','inflammatory bowel disease 28']"
+DOID: 0110891,"['inflammatory bowel disease 3','IBD3']"
+DOID: 0110903,"['inflammatory bowel disease 4','IBD4']"
+DOID: 0110889,"['inflammatory bowel disease 5','IBD5']"
+DOID: 110907,['inflammatory bowel disease 6']
+DOID: 0110882,"['inflammatory bowel disease 7','IBD7']"
+DOID: 0110904,"['IBD8','inflammatory bowel disease 8']"
+DOID: 0110886,"['IBD9','inflammatory bowel disease 9']"
+DOID: 10486,['intestinal atresia']
+DOID: 0080216,['	duodenal atresia']
+DOID: 100,"['bacterial enteritis','intestinal infectious disease']"
+DOID: 12384,"['Infectious diarrhea','dysentery']"
+DOID: 14397,['protozoal dysentery']
+DOID: 13687,"['chronic duodenal ileus','chronic duodenal ileus (disorder)']"
+DOID: 3557,"['Superior mesenteric artery syndrome','superior mesenteric artery syndrome','Superior mesenteric artery syndrome (disorder)']"
+DOID: 8440,"['Ileus of intestine','ileus']"
+DOID: 3878,"['Pseudo-obstruction of intestine (disorder)','intestine pseudoobstruction','intestinal Pseudo-obstruction','intestinal pseudo-obstruction']"
+DOID: 8448,['intestinal impaction']
+DOID: 8445,"['Twist of intestine, bowel, or colon','Volvulus','intestinal volvulus']"
+DOID: 8446,"['Invagination of intestine or colon','Intussusception of intestine (disorder)','Intussusception (morphologic abnormality)','Intussusception NOS (disorder)','intussusception']"
+DOID: 2073,"['Perinatal intestinal perforation (disorder)','perinatal intestinal perforation']"
+DOID: 13248,"['Mucocele of appendix (disorder)','Appendicele Mucocele','mucocele of appendix']"
+DOID: 13249,"['Pneumatosis cystoides intestinalis (disorder)','pneumatosis cystoides intestinalis']"
+DOID: 10611,"['protein-losing enteropathy','Protein-losing enteropathy (disorder)','Enteropathy, exudative','Exudative enteropathy (disorder)']"
+DOID: 1285,['rectal disease']
+DOID: 3128,"['fissure in ano','anal disease','Nontraumatic tear of anus','anus disease','Ulcer of anus','anal ulcer','anal fissure','anal fissure and fistula','Solitary anal ulcer']"
+DOID: 11014,"['Stenosis of rectum and anus (disorder)','anorectal stricture','Stenosis of rectum and anus NOS (disorder)','Anorectal stricture (disorder)','Stenosis of rectum and anus']"
+DOID: 1283,"['enterocele','vaginal enterocele']"
+DOID: 9307,"['Procidentia, rectum','rectal prolapse']"
+DOID: 13662,"['ulcer of anus and rectum','anal and rectal ulcer NOS (disorder)']"
+DOID: 10605,"['short gut syndrome','acquired short bowel syndrome','short bowel syndrome']"
+DOID: 0090019,"['sitosterolemia','phytosterolemia']"
+DOID: 11223,"['Diverticulosis of small intestine with hemorrhage','small intestine diverticulitis']"
+DOID: 10602,"['steatorrhea','Fatty stool (finding)']"
+DOID: 10607,"['Tropical steatorrhea','Sprue - tropical','tropical sprue']"
+DOID: 4331,"['Orodynia','burning mouth syndrome','Stomatopyrosis']"
+DOID: 1761,"['Melkersson's syndrome','Cheilitis granulomatosa of Mescher-Melkersson-Rosenthal','Melkersson-Rosenthal syndrome']"
+DOID: 0060312,"['angular cheilitis','commissural cheilitis','angular stomatitis','angular cheilosis']"
+DOID: 4557,"['oral leukoedema','Leukedema of mouth']"
+DOID: 9655,['oral mucosa leukoplakia']
+DOID: 5773,"['Oral submucosal fibrosis, including of tongue','oral submucous fibrosis','Oral submucosal fibrosis (disorder)','Oral cavity Submucous Fibrosis']"
+DOID: 10854,"['Salivary gland disease','salivary gland disease','Non-neoplastic Salivary gland disease']"
+DOID: 12899,"['benign lymphoepithelial lesion of salivary gland (disorder)','Godwin tumor','benign lymphoepithelial lesion of salivary gland']"
+DOID: 12904,"['Salivary gland mucocele','Mucous retention cyst of salivary gland','mucocele of salivary gland','Salivary Cyst','Ranula']"
+DOID: 12901,"['Necrotizing sialometaplasia (disorder)','necrotizing sialometaplasia']"
+DOID: 10301,['parotitis']
+DOID: 10303,"['Sialoadenitis','sialadenitis']"
+DOID: 12905,"['Stone of salivary gland or duct','sialolithiasis','Sialolith','Salivary gland Stone']"
+DOID: 9637,['stomatitis']
+DOID: 9663,"['Canker sore','Aphthous ulceration (disorder)','Oral aphthae','aphthous stomatitis','Oral aphthous ulcer','Aphtha','oral ulcer']"
+DOID: 11875,"['denture stomatitis','Denture sore mouth']"
+DOID: 9673,['ulcerative stomatitis']
+DOID: 0060604,"['tongue-tie','ankyloglossia']"
+DOID: 11514,"['Fissure of tongue, congenital','fissured tongue','geographic tongue and fissured tongue','Furrowed tongue','Fissure of tongue','Plicated tongue','Congenital fissure of tongue','Tongue, Fissured','scrotal tongue','Congenital plicated tongue','lingua plicata']"
+DOID: 1453,"['Glossitis, Hunter's','smooth atrophic tongue','Atrophy of tongue papillae','atrophic glossitis','Hunter's glossitis']"
+DOID: 1455,"['Glossitis areata exfoliativa','geographic tongue','benign migratory glossitis','Pityriasis linguae']"
+DOID: 14111,"['Persistent tuberculum impar (disorder)','median rhomboid glossitis']"
+DOID: 13500,"['Hairy Tongue','hairy tongue','Overgrowth of filiform papillae (disorder)']"
+DOID: 13333,"['Tongue papillary hypertrophy NOS (disorder)','hypertrophy of tongue papillae (disorder)','hypertrophy of tongue papillae']"
+DOID: 1091,"['tooth disease','dental disorder']"
+DOID: 13714,"['Complete absence of teeth','anodontia','Developmental absence of tooth','Total anodontia of permanent and deciduous teeth']"
+DOID: 0060324,['dental abscess']
+DOID: 13711,"['Mottling of enamel','Intrinsic enamel discolouration of fluorosis','dental fluorosis','Mottled teeth']"
+DOID: 5330,"['disorder of pulp of tooth (disorder)','Dental pulp disorder','pulp disorder','dental pulp disease']"
+DOID: 5608,"['pulp calcification','pulp calcifications','pulpal calcifications','dental pulp calcification']"
+DOID: 11623,"['pulp necrosis','necrosis of the pulp NOS (disorder)','dental pulp necrosis','necrosis of the pulp','necrotic pulp']"
+DOID: 4154,['dentinogenesis imperfecta']
+DOID: 3388,"['periodontal disease','periodontium disorder','disease of supporting structures of teeth, NOS','Periodontal disease (disorder)','Periodontal disease']"
+DOID: 3389,"['Papillon Lefevre syndrome','Papillon-Lefevre disease','Papillon-Lefvre syndrome (disorder)']"
+DOID: 3086,"['Gingival enlargement NOS (disorder)','Gingival enlargement NOS','gingival overgrowth','Gingival enlargement (disorder)']"
+DOID: 5337,"['polyp of Gum','epulis','Gingival polyp','epulides']"
+DOID: 7280,"['congenital epulis','Congenital Epulis','Congenital Epulides']"
+DOID: 0060466,"['gingival fibromatosis','hereditary gingival fibromatosis','hereditary gingival hyperplasia']"
+DOID: 0080280,['gingival fibromatosis 5']
+DOID: 5338,"['hypertrophy of gingivae','gingival hypertrophy']"
+DOID: 1134,"['Gingival recession (disorder)','Gingival recession','moderate gingival recession','localized gingival recession (disorder)','minimal gingival recession','Gingival recession NOS (disorder)','localized gingival recession','Gingival recession, unspecified','gingival recession','severe gingival recession','Gingival recession, localized']"
+DOID: 3087,"['gingivitis','acute gingivitis','chronic gingivitis']"
+DOID: 13924,"['acute ulceromembranous gingivitis','Vincent angina','Vincent's angina NOS','Trench mouth','Vincent's angina','acute necrotising ulcerative gingivostomatitis','acute necrotising ulcerative gingivitis','Vincent's disease','acute necrotising ulcerative gingivostomatitis [Ambiguous]','Vincent's infection, any site','early acute necrotising gingivitis','acute necrotizing ulcerative gingivitis','Vincent's Angina','Angina - Vincents','ANUG','(Vincent's angina) or (trench mouth)','Vincent's angina - pharyngitis (disorder)','acute necrotising ulcerative gingivitis [Ambiguous]','acute necrotizing ulcerative gingivostomatitis (disorder)','necrotizing ulcerative gingivitis']"
+DOID: 824,"['chronic pericementitis','periodontitis']"
+DOID: 10423,"['acute periodontitis (disorder)','acute periodontitis','acute periodontitis NOS (disorder)','acute pericementitis (disorder)','acute pericementitis','acute Periodontitis']"
+DOID: 1474,"['juvenile periodontitis','aggressive periodontitis']"
+DOID: 823,"['periapical periodontitis','Apical periodontitis NOS','Apical periodontitis (disorder)']"
+DOID: 11693,"['acute apical periodontitis of pulpal origin','acute apical periodontitis','acute apical periodontitis of pulpal origin (disorder)']"
+DOID: 11269,"['chronic apical periodontitis NOS (disorder)','chronic apical periodontitis (disorder)','chronic apical periodontitis']"
+DOID: 4617,"['periapical granuloma','Apical granuloma (disorder)','Periapical granuloma']"
+DOID: 2562,"['Periapical abscess (disorder)','Suppurative apical periodontitis','suppurative periapical periodontitis','Dentoalveolar abscess','Apical abscess']"
+DOID: 216,"['Dental caries of smooth surface','Dental caries extending into pulp','Dental caries pit and fissure','dental caries']"
+DOID: 10461,"['Dental caries extending into dentine','Dentin caries, NOS','Compound dental caries (disorder)','dentin caries']"
+DOID: 217,"['enamel caries','primary dental caries','simple dental cavity','Dental caries limited to enamel']"
+DOID: 11736,['odontoclasia']
+DOID: 14089,"['Root caries','Dental caries of root surface','Cementum caries','root caries']"
+DOID: 693,"['Enamel Hypoplasia','Enamel hypoplasia (disorder)','Enamel hypoplasia','dental enamel hypoplasia']"
+DOID: 2187,['amelogenesis imperfecta']
+DOID: 0110059,"['amelogenesis imperfecta 3 hypoplastic type','X-linked amelogenesis imperfecta hypoplastic/hypomaturation 2','amelogenesis imperfecta  type IE X-linked 2 ','X-linked enamel hypoplasia','AIH3']"
+DOID: 0110060,"['amelogenesis imperfecta hypomaturation type IIA2','amelogenesis imperfecta type IIA2','AI2A2','amelogenesis imperfecta pigmented hypomaturation type 2','amelogenesis imperfecta hypomaturation type 2A2']"
+DOID: 0110061,"['amelogenesis imperfecta hypomaturation type 2A3','amelogenesis imperfecta type IIA3','amelogenesis imperfecta hypomaturation type IIA3','AI2A3']"
+DOID: 0110062,"['amelogenesis imperfecta type IIA4','amelogenesis imperfecta hypomaturation type IIA4','AI2A4','amelogenesis imperfecta hypomaturation type 2A4']"
+DOID: 0110063,"['amelogenesis imperfecta hypomaturation type 2A5','amelogenesis imperfecta type IIA5','amelogenesis imperfecta hypomaturation type IIA5','AI2A5']"
+DOID: 0110054,"['amelogenesis imperfecta type IA','amelogenesis imperfecta type 1A','amelogenesis imperfecta hypoplastic type IA','AI1A']"
+DOID: 0110052,"['amelogenesis imperfecta type IB','hereditary localized enamel hypoplasia','AI1B','AIH2','autosomal dominant hypoplastic local amelogenesis imperfecta','amelogenesis imperfecta type 1B']"
+DOID: 0110056,"['amelogenesis imperfecta type 1C','autosomal recessive amelogenesis imperfecta local hypoplastic type','autosomal recessive amelogenesis imperfecta hypoplastic with or without openbite malocclusion','amelogenesis imperfecta type IC','AI1C']"
+DOID: 0110058,"['amelogenesis imperfecta type IE','amelogenesis imperfecta hypomaturationtype with snow-capped teeth','X-linked amelogenesis imperfecta 1','X-linked enamel hypoplasia','AIH1','amelogenesis imperfecta type 1E','X-linked amelogenesis imperfecta hypoplastic/hypomaturation 1']"
+DOID: 0110065,"['AI1F','amelogenesis imperfecta type 1F','amelogenesis imperfecta type IF','amelogenesis imperfecta hypoplastic type IF']"
+DOID: 0110066,"['ERS','AIGFS','amelogenesis imperfecta and gingival fibromatosis syndrome','AI1G','enamel-renal-gingival syndrome','enamel-renal syndrome','amelogenesis imperfecta type IG','amelogenesis imperfecta type 1G','amelogenesis imperfecta hypoplastic with nephrocalcinosis']"
+DOID: 0110064,"['AI1H','amelogenesis imperfecta type IH','amelogenesis imperfecta type 1H']"
+DOID: 0110057,"['amelogenesis imperfecta type IIA1','amelogenesis imperfecta pigmented hypomaturation type 1','AI2A1','amelogenesis imperfecta type 2A1']"
+DOID: 0110055,"['AI3','autosomal dominant amelogenesis imperfecta hypocalcification type','amelogenesis imperfecta type III','ADHCAI','amelogenesis imperfecta hypomineralization type','amelogenesis imperfecta type 3']"
+DOID: 0080243,['amelogenesis imperfecta type 3B']
+DOID: 0110053,"['AI4','AIHHT','amelogenesis imperfecta type 4','amelogenesis imperfecta hypomaturation-hypoplastic type with taurodontism']"
+DOID: 698,"['dentin sensitivity','Sensitive dentin']"
+DOID: 12733,"['Cementation hyperplasia','hypercementosis']"
+DOID: 12661,"['tooth ankylosis','Ankylosis of tooth (disorder)','Ankylosis of teeth']"
+DOID: 2498,"['generalized erosion','tooth erosion','localized erosion']"
+DOID: 13629,['dentine erosion']
+DOID: 2497,['enamel erosion']
+DOID: 14140,['pulp erosion']
+DOID: 14529,['external pathological resorption']
+DOID: 13239,['internal pathological resorption']
+DOID: 0050591,"['familial tooth agenesis','oligodontia','tooth agenesis','selective tooth agenesis','hypodontia']"
+DOID: 750,"['acute peptic ulcer without hemorrhage and without perforation','acute peptic ulcer with hemorrhage','acute peptic ulcer without hemorrhage AND without perforation (disorder)','acute peptic ulcer with hemorrhage and perforation','peptic ulcer disease']"
+DOID: 749,"['GI Bleeding','active peptic ulcer disease']"
+DOID: 1724,"['Curling Ulcer','Curling's ulcers','Stress Ulcer','duodenal ulcer']"
+DOID: 10808,"['chronic gastric ulcer without hemorrhage AND without perforation but with obstruction','chronic gastric ulcer without hemorrhage AND without perforation','acute gastric ulcer with hemorrhage AND perforation [dup] (disorder)','acute gastric ulcer with hemorrhage, with obstruction','acute gastric ulcer with hemorrhage AND with perforation but without obstruction (disorder)','acute gastric ulcer without hemorrhage and without perforation','acute gastric ulcer with hemorrhage and perforation, without mention of obstruction','bleeding acute gastric ulcer','chronic gastric ulcer without mention of hemorrhage or perforation, with obstruction','chronic gastric ulcer without hemorrhage AND without perforation but with obstruction (disorder)','acute gastric ulcer with hemorrhage and perforation, with obstruction','acute gastric ulcer with perforation, with obstruction','acute gastric ulcer without hemorrhage, without perforation AND without obstruction (disorder)','acute gastric ulcer with hemorrhage AND perforation (disorder)','acute gastric ulcer with hemorrhage and obstruction','acute gastric ulcer without mention of hemorrhage or perforation, without mention of obstruction','acute gastric ulcer without hemorrhage, without perforation AND without obstruction','acute gastric ulcer with hemorrhage AND with perforation but without obstruction','acute gastric ulcer with hemorrhage, with perforation AND with obstruction (disorder)','gastric ulcer','acute gastric ulcer with hemorrhage AND obstruction (disorder)','acute gastric ulcer with perforation','acute gastric ulcer with haemorrhage and perforation','acute gastric ulcer with perforation AND obstruction (disorder)','acute gastric ulcer with hemorrhage AND perforation','acute gastric ulcer with hemorrhage and perforation','acute gastric ulcer with perforation AND obstruction']"
+DOID: 8644,['gastroduodenitis']
+DOID: 10927,"['acute gastrojejunal ulcer with hemorrhage AND obstruction','acute gastrojejunal ulcer with hemorrhage AND perforation','acute gastrojejunal ulcer with perforation','chronic gastrojejunal ulcer without mention of hemorrhage or perforation, without mention of obstruction','acute gastrojejunal ulcer with perforation AND obstruction (disorder)','acute gastrojejunal ulcer with perforation AND obstruction','gastrojejunal ulcer','acute gastrojejunal ulcer, with hemorrhage, with obstruction','acute gastrojejunal ulcer with hemorrhage, with perforation AND with obstruction (disorder)','acute gastrojejunal ulcer without mention of hemorrhage or perforation, without mention of obstruction','acute gastrojejunal ulcer with hemorrhage','acute gastrojejunal ulcer without hemorrhage, without perforation AND without obstruction (disorder)','chronic gastrojejunal ulcer without hemorrhage, without perforation AND without obstruction','acute gastrojejunal ulcer without hemorrhage AND without perforation','acute gastrojejunal ulcer with hemorrhage and perforation, with obstruction','chronic gastrojejunal ulcer without hemorrhage, without perforation AND without obstruction (disorder)','acute gastrojejunal ulcer without hemorrhage, without perforation AND without obstruction','acute gastrojejunal ulcer with perforation, with obstruction','chronic gastrojejunal ulcer without hemorrhage AND without perforation','acute gastrojejunal ulcer with hemorrhage AND obstruction (disorder)']"
+DOID: 752,"['Perforated peptic ulcer','peptic ulcer perforation','Unspecified peptic ulcer with perforation (disorder)','acute peptic ulcer with perforation','Peptic ulcer with perforation (disorder)']"
+DOID: 8677,"['Perinatal necrotising enterocolitis','Pseudomembranous enterocolitis in newborn','perinatal necrotizing enterocolitis','necrotizing enterocolitis','Perinatal necrotizing enterocolitis (disorder)','ENTEROCOLITIS NECROTIZING','Necrotizing enterocolitis in fetus OR newborn (disorder)']"
+DOID: 8283,"['peritonitis','Retractile mesenteritis (disorder)','acute generalized peritonitis (disorder)','Retractile mesenteritis','acute generalized peritonitis','primary bacterial peritonitis (disorder)','sclerosing mesenteritis']"
+DOID: 13310,['diphtheritic peritonitis']
+DOID: 76,"['stomach disease','Gastropathy','stomach disorder','gastric disease']"
+DOID: 6225,"['gastric Cronkhite Canada polyposis','Cronkhite-Canada syndrome']"
+DOID: 12070,"['dieulafoy lesion (hemorrhagic) of stomach and duodenum','Dieulafoy lesion','Dieulafoy lesion (hemorrhagic) of intestine']"
+DOID: 12234,"['Hourglass stricture or stenosis of stomach','cascade stomach']"
+DOID: 1159,['functional gastric disease']
+DOID: 2321,"['dyspepsia','indigestion','Dyspepsia, indigestion NOS']"
+DOID: 11914,"['Gastroparesis syndrome','Gastroparalysis','gastroparesis','gastric atonia']"
+DOID: 3122,"['gastric outlet obstruction','gastric outflow obstruction']"
+DOID: 14099,"['acquired hypertrophic pyloric stenosis','acquired gastric outlet stenosis','adult hypertrophic pyloric stenosis']"
+DOID: 12638,"['hypertrophic pyloric stenosis','congenital or infantile stricture of pylorus','congenital hypertrophic pyloric stenosis']"
+DOID: 4029,"['gastritis','acute gastric mucosal erosion','Erosive gastropathy','Erosive Gastritis']"
+DOID: 8680,"['Alcoholic gastritis, with hemorrhage','Alcoholic gastritis, without mention of hemorrhage','Alcoholic gastritis (disorder)','Alcoholic Gastritis','alcoholic gastritis']"
+DOID: 8929,"['atrophic gastritis','gastric atrophy']"
+DOID: 4033,['bacterial gastritis']
+DOID: 4034,['fungal gastritis']
+DOID: 8757,"['familial giant hypertrophic gastritis','Giant rugal hypertrophy of stomach','hypertrophic gastropathy (disorder)','gastric mucosal hypertrophy','MENETRIER DISEASE','hypertrophic gastritis']"
+DOID: 4038,['granulomatous gastritis']
+DOID: 4037,['necrotizing gastritis']
+DOID: 2327,['viral gastritis']
+DOID: 6102,['herpetic gastritis']
+DOID: 12642,"['Diaphragmatic - hiatus -hernia','hiatus hernia','hiatal hernia']"
+DOID: 12641,"['displacement of cardia through esophageal hiatus','Congenital hiatus hernia (disorder)','Congenital hiatus hernia']"
+DOID: 12072,['pylorospasm']
+DOID: 4370,['stomach diverticulosis']
+Mesh:D000039,"['Peritonsillar Abscess','Abscess, Peritonsillar']"
+Mesh:D000069592,"['Round Ligament of Liver','Ligamentum Teres Hepatis','Hepatic Round Ligament']"
+Mesh:D000071041,"['Esophageal Mucosa','Oesophageal Mucosa','Esophagus Mucosa']"
+Mesh:D000071056,"['Anorectal Malformations','Anorectal Stenosis','Anorectal Anomalies','Anorectal Atresia','Anorectal Malformation']"
+Mesh:D000072676,"['Partial Ankyloglossia','Tongue Tie','Ankyloglossia']"
+Mesh:D000074270,['Meconium Ileus']
+Mesh:D000074742,"['Median Arcuate Ligament Syndrome','Celiac Artery Stenosis from Compression by Median Arcuate Ligament of Diaphragm','Celiac Artery Compression Syndrome','Dunbar Syndrome','Celiac Trunk Compression Syndrome']"
+Mesh:D000076385,"['Diverticular Bleeding','Diverticular Diseases']"
+Mesh:D000126,"['Achylia Gastrica','Achlorhydria','Hypochlorhydria']"
+Mesh:D000343,['Afferent Loop Syndrome']
+Mesh:D000567,"['Amelogenesis Imperfecta','Congenital Enamel Hypoplasia']"
+Mesh:D000694,"['Perianal Gland Neoplasms','Anal Gland Neoplasms','Neoplasms, Perianal Gland','Neoplasms, Circumanal Gland','Neoplasms, Anal Gland','Circumanal Gland Neoplasms']"
+Mesh:D000848,"['Anodontia','Tooth Agenesis, Familial','Hypodontia Oligodontia 1','Tooth Agenesis, Selective, 1','Hypodontia']"
+Mesh:D001003,"['Anal Sphincter','External Anal Sphincter','Anal Glands, Human','Internal Anal Sphincter','Anus','Anal Canal','Detrusor External Sphincter','Anal Gland, Human','Anal Gland']"
+Mesh:D001004,['Anus Diseases']
+Mesh:D001005,"['Anus Neoplasms','Anal Cancer','Neoplasms, Anus','Cancer of Anus','Cancer of the Anus','Neoplasms, Anal','Anal Neoplasms']"
+Mesh:D001006,"['Atresia, Anal','Anus, Imperforate','Anal Atresia']"
+Mesh:D001065,"['Appendix','Vermiform Appendix']"
+Mesh:D001064,"['Appendicitis','Ruptured Appendicitis','Perforated Appendicitis']"
+Mesh:D001063,"['Appendiceal Cancer','Cancer of Appendix','Cancer of the Appendix','Appendiceal Neoplasms','Neoplasms, Appendiceal','Appendix Cancer','Cancer, Appendiceal']"
+Mesh:D001447,"['Balantidiasis','Balantidium coli Infection','Balantidium Infection','B. coli Infection']"
+Mesh:D001471,"['Barrett Epithelium','Barrett Metaplasia','Barrett's Esophagus','Barrett Esophagus','Barrett's Syndrome','Esophagus, Barrett','Barrett Syndrome']"
+Mesh:D001478,"['Gorlin-Goltz Syndrome','NBCCS','Nevoid Basal Cell Carcinoma Syndrome','Basal Cell Nevus Syndrome','Gorlin Syndrome','Multiple Basal Cell Nevi, Odontogenic Keratocysts, and Skeletal Anomalies','Nevus Syndrome, Basal Cell','Fifth Phacomatosis']"
+Mesh:D001528,"['Triple-Symptom Complex','Beh莽et Disease','Behcet Syndrome','Behcet's Syndrome','Triple Symptom Complex','Behcet Triple Symptom Complex','Behcet Disease','Old Silk Route Disease','Adamantiades-Behcet Disease']"
+Mesh:D001649,['Bile Duct Diseases']
+Mesh:D001648,['Bile Canaliculi']
+Mesh:D001650,"['Cancer of Bile Duct','Bile Duct Cancer','Bile Duct Neoplasms','Neoplasms, Bile Duct','Cancer of the Bile Duct']"
+Mesh:D001653,"['Bile Ducts, Intrahepatic']"
+Mesh:D001651,"['Extrahepatic Cholestasis','Biliary Stasis, Extrahepatic','Cholestasis, Extrahepatic','Bile Duct Obstruction, Extrahepatic']"
+Mesh:D001652,['Bile Ducts']
+Mesh:D001657,"['Gallbladder Dyskinesia','Biliary Dyskinesia']"
+Mesh:D001658,['Biliary Fistula']
+Mesh:D001656,"['Idiopathic Extrahepatic Biliary Atresia','Familial Extrahepatic Biliary Atresia','Biliary Atresia','Atresia, Biliary','Biliary Atresia, Extrahepatic']"
+Mesh:D001659,"['Biliary Tree','Biliary System','Biliary Tract']"
+Mesh:D001661,"['Biliary Tract Neoplasms','Cancer of Biliary Tract','Neoplasms, Biliary Tract','Biliary Tract Cancer','Cancer of the Biliary Tract']"
+Mesh:D001765,"['Blind Loop Syndrome','Bacterial Overgrowth Syndrome','Stagnant Loop Syndrome']"
+Mesh:D002011,"['Brunner Glands','Brunner Gland','Brunner's Glands']"
+Mesh:D002012,"['Teeth Grinding Disorder','Bruxism']"
+Mesh:D002180,"['Candidiasis, Oral','Moniliasis, Oral','Thrush']"
+Mesh:D002299,['Cardia']
+Mesh:D002429,['Cecal Diseases']
+Mesh:D002432,['Cecum']
+Mesh:D002430,"['Neoplasms, Cecal','Cecal Neoplasms','Cancer of the Cecum','Cancer of Cecum','Cancer, Cecal','Cecal Cancer']"
+Mesh:D002446,"['Celiac Disease','Gluten Enteropathy','Gluten-Sensitive Enteropathy','Sprue, Celiac','Celiac Sprue','Sprue','Sprue, Nontropical']"
+Mesh:D002636,"['Familial Multilocular Cystic Disease of the Jaws','Familial Benign Giant-Cell Tumor of the Jaw','Familial Fibrous Dysplasia of Jaw','Cherubism']"
+Mesh:D002764,"['Empyema, Gall Bladder','Cholecystitis','Empyema, Gallbladder','Gallbladder Inflammation']"
+Mesh:D002779,"['Cholestasis','Bile Duct Obstruction','Biliary Stasis']"
+Mesh:D002780,"['Biliary Stasis, Intrahepatic','Intrahepatic Cholestasis','Cholestasis, Intrahepatic','Bile Duct Obstruction, Intrahepatic']"
+Mesh:D002915,"['Chylous Ascites','Chyloperitoneum','Peritonitis, Chylous','Ascites, Chylous','Chylous Peritonitis']"
+Mesh:D002972,"['Cleft Palate, Isolated','Cleft Palate']"
+Mesh:D002971,"['Harelip','Cleft Lip']"
+Mesh:D003093,"['Colitis, Ulcerative','Ulcerative Colitis','Inflammatory Bowel Disease, Ulcerative Colitis Type','Colitis Gravis','Idiopathic Proctocolitis']"
+Mesh:D003106,"['Colon','Omental Appendices','Appendix Epiploica','Taenia Coli','Omental Appendix']"
+Mesh:D003108,['Colonic Diseases']
+Mesh:D003110,"['Cancer of Colon','Colonic Neoplasms','Colonic Cancer','Colon Cancer','Neoplasms, Colonic','Cancer of the Colon','Colon Neoplasms']"
+Mesh:D003112,"['Colonic Pseudo-Obstruction','Pseudoobstruction, Colonic','Ogilvie's Syndrome','Pseudo-Obstruction, Colonic','Ogilvie Disease','Ogilvie Syndrome']"
+Mesh:D003123,"['Familial Nonpolyposis Colon Cancer','Lynch Syndrome I','Hereditary Nonpolyposis Colorectal Neoplasms','Colorectal Neoplasms, Hereditary Nonpolyposis','Colorectal Cancer Hereditary Nonpolyposis','Hereditary Nonpolyposis Colorectal Cancer','Colon Cancer, Familial Nonpolyposis','Lynch Cancer Family Syndrome I','Hereditary Nonpolyposis Colon Cancer','Lynch Syndrome']"
+Mesh:D003135,"['Common Bile Duct','Choledochus']"
+Mesh:D003138,['Common Bile Duct Neoplasms']
+Mesh:D003387,['Cracked Tooth Syndrome']
+Mesh:D003424,"['Enteritis, Regional','Regional Enteritis','Crohn Disease','Ileocolitis','Enteritis, Granulomatous','Crohn's Enteritis','Crohn's Disease','Colitis, Granulomatous','Ileitis, Regional','Inflammatory Bowel Disease 1','Ileitis, Terminal']"
+Mesh:D003457,"['Cryptosporidium Infection','Cryptosporidiosis']"
+Mesh:D003549,['Cystic Duct']
+Mesh:D003550,"['Fibrocystic Disease of Pancreas','Cystic Fibrosis','Pulmonary Cystic Fibrosis','Cystic Fibrosis of Pancreas','Mucoviscidosis','Pancreatic Cystic Fibrosis']"
+Mesh:D003680,"['Esophageal Dysphagia','Dysphagia','Oropharyngeal Dysphagia','Swallowing Disorders','Deglutition Disorders']"
+Mesh:D003699,"['Amazon Black Fever','Superinfection, Delta','Delta Hepatitis','Hepatitis D','Delta Superinfection','Infection, Delta','Labrea Disease','Black Fever, Amazon','Delta Infection','Hepatitis, Delta']"
+Mesh:D003719,['Dens in Dente']
+Mesh:D003728,"['Tartar','Calculus, Dental','Dental Calculus']"
+Mesh:D003731,"['Dental White Spots','Carious Dentin','Dental Decay','White Spots, Dental','White Spot, Dental','Decay, Dental','Caries, Dental','Dental White Spot','Dental Caries','White Spots']"
+Mesh:D003741,"['Dental Deposit','Deposit, Dental','Deposits, Dental','Materia Alba','Dental Deposits']"
+Mesh:D003744,"['Enamel Agenesis','Enamel Hypoplasia','Molar Incisor Hypomineralization','Hypoplasia, Dental Enamel','Enamel Hypoplasia, Dental','Hypoplastic Enamel','Dental Enamel Hypoplasia']"
+Mesh:D003750,"['Dental Fissures','Dental Fissure','Fissure, Dental','Fissures, Dental']"
+Mesh:D003751,"['Dental Fistula','Dental Fistulas','Fistulas, Dental','Gingival Fistula','Fistula, Dental']"
+Mesh:D003763,"['Leakages, Dental','Dental Leakages','Dental Leakage','Leakage, Dental']"
+Mesh:D003769,"['Occlusion, Dental, Traumatic','Occlusion, Traumatic Dental','Traumatic Dental Occlusion','Dental Occlusion, Traumatic']"
+Mesh:D003773,"['Dental Plaque','Plaque, Dental']"
+Mesh:D003784,"['Pulpal Dysplasia','Denticle','Dentin Dysplasia, Shields Type II','Dental Pulp Calcification','Dentin Dysplasia, Coronal','Pulp Stones, Dental','Stones, Dental Pulp','Pulp Calcification, Dental','Anomalous Dysplasia of Dentin','Pulp Stone, Dental','Dentin Dysplasia, Type II','Dental Pulp Stone','Pulp Stones','Dental Pulp Stones','Coronal Dentin Dysplasia','Stone, Dental Pulp','Dentin Dyspalsia, Shields Type 2','Denticles','Calcification, Dental Pulp']"
+Mesh:D003788,"['Diseases, Dental Pulp','Dental Pulp Disease','Dental Pulp Diseases','Pulp Diseases, Dental','Disease, Dental Pulp','Pulp Disease, Dental']"
+Mesh:D003789,"['Pulp Exposure, Dental','Exposure, Dental Pulp','Dental Pulp Exposure']"
+Mesh:D003790,"['Pulp Autolysis, Dental','Necroses, Pulp','Autolysis, Dental Pulp','Dental Pulp Gangrene','Necrosis, Dental Pulp','Dental Pulp Autolysis','Pulp Gangrene','Pulp Necrosis, Dental','Gangrene, Dental Pulp','Pulp Mummification','Pulp Necroses','Pulp Gangrene, Dental','Pulp Necrosis','Dental Pulp Necrosis']"
+Mesh:D003803,['Dentigerous Cyst']
+Mesh:D003809,"['Secondary Dentin','Dentin, Secondary']"
+Mesh:D003807,"['Dentin Hypersensitivity','Tooth Sensitivity','Dentine Sensitivity','Dentin Sensitivity','Dentine Hypersensitivity']"
+Mesh:D003817,['Dentition']
+Mesh:D003811,"['Capdepont Teeth','Opalescent Teeth without Osteogenesis Imperfecta','Hereditary Opalescent Dentin','Opalescent Dentin','Dentinogenesis Imperfecta, Shields Type 2','Dentinogenesis Imperfecta 1','Dentinogenesis Imperfecta without Osteogenesis Imperfecta','Dentinogenesis Imperfecta','Dentinogenesis Imperfecta, Shields Type II']"
+Mesh:D003965,"['Eventration of Diaphragm','Diaphragmatic Eventration']"
+Mesh:D003970,"['Diastema','Diastemata']"
+Mesh:D003969,"['WDHA Syndrome','VIP-Secreting Tumor (VIPoma)','Verner-Morrison Syndrome','WDHA','Vipoma','Diarrheogenic Tumor','Pancreatic Cholera','Vipoma Syndrome','Watery Diarrhea, Hypokalemia, and Achlorhydria Syndrome','Diarrheogenic Islet Cell Tumor','Pancreatic VIPoma','Watery Diarrhea with Hypokalemic Alkalosis','Vasoactive Intestinal Peptide (VIP) Tumor','Vasoactive Intestinal Peptide-Producing Tumor','Watery Diarrhea Syndrome','WDHH']"
+Mesh:D004030,"['Dientamoebiasis','Dientamoeba Infection','Dientamoeba fragilis Infection']"
+Mesh:D004064,"['Ailmentary System','Digestive System','Alimentary System']"
+Mesh:D004065,"['Abnormalities, Digestive System','Digestive System Abnormalities']"
+Mesh:D004067,"['Cancer of Digestive System','Neoplasms, Digestive System','Digestive System Neoplasms','Cancer of the Digestive System','Digestive System Cancer']"
+Mesh:D004239,"['Colonic Diverticulitis','Diverticulitis, Colonic']"
+Mesh:D004240,"['Diverticulum','Diverticula','Diverticulosis']"
+Mesh:D004241,"['Colonic Diverticula','Colon Diverticula','Diverticula, Colon','Diverticulum, Colon','Colonic Diverticulum']"
+Mesh:D004368,"['Alveolar Periostitis','Periostitis, Alveolar','Dry Socket','Osteitis, Alveolar','Alveolar Osteitis','Alveolitis Sicca Dolorosa','Alveolalgia']"
+Mesh:D004378,['Duodenal Diseases']
+Mesh:D004379,"['Duodenal Neoplasms','Cancer of Duodenum','Cancer of the Duodenum','Duodenal Cancer']"
+Mesh:D004381,"['Curling Ulcer','Duodenal Ulcer','Curling's Ulcer']"
+Mesh:D004383,"['Duodeno-Gastric Reflux','Duodenal Reflux','Duodenogastric Reflux']"
+Mesh:D004386,['Duodenum']
+Mesh:D004403,"['Infectious Diarrheal Disease','Dysentery']"
+Mesh:D004404,"['Colitis, Amebic','Amoebic Colitis','Amoebic Dysentery','Entamoebiasis, Intestinal','Intestinal Entamoeba histolytica Infection','Intestinal Amebiasis','Dysentery, Amebic','Amoebiasis, Intestinal','Amebic Dysentery','Amebiasis, Intestinal','Intestinal Amoebiasis']"
+Mesh:D004405,"['Shigellosis','Dysentery, Shigella boydii','Dysentery, Bacillary','Shigella Infection','Dysentery, Shigella dysenteriae','Dysentery, Shigella dysenteriae type 1','Dysentery, Shigella flexneri','Dysentery, Shiga bacillus','Shigella Dysentery','Dysentery, Shigella sonnei']"
+Mesh:D004444,"['Hydatid Cyst, Hepatic','Alveolar Echinococcis, Hepatic','Echinococcosis, Hepatic','Hydatidosis, Hepatic','Echinococcosis, Hepatic Alveolar']"
+Mesh:D004751,['Enteritis']
+Mesh:D004759,"['Argentaffin Cells','Enterochromaffin Cells','Serotonin-Containing Enterochromaffin Cells','5-HT-Containing Enterochromaffin Cells']"
+Mesh:D004760,['Enterocolitis']
+Mesh:D004761,"['Clostridium Enterocolitis','Pseudomembranous Enteritis','Pseudomembranous Colitis','Enteritis, Pseudomembranous','Antibiotic-Associated Colitis','Pseudomembranous Enterocolitis','Enterocolitis, Pseudomembranous','Colitis, Pseudomembranous']"
+Mesh:D004933,"['Atresia, Esophageal','Esophageal Atresia']"
+Mesh:D004931,"['Megaesophagus','Achalasia, Esophageal','Cardiospasm','Achalasia','Esophageal Achalasia']"
+Mesh:D004932,"['Esophageal Varix','Gastric Varices','Esophageal and Gastric Varices','Gastric Varix','Esophageal Varices']"
+Mesh:D004934,['Esophageal Cyst']
+Mesh:D004935,['Esophageal Diseases']
+Mesh:D004937,['Esophageal Fistula']
+Mesh:D004936,"['Esophageal Diverticulum','Diverticula, Esophageal','Esophageal Diverticula','Diverticulum, Esophageal']"
+Mesh:D004938,"['Esophageal Cancer','Cancer of Esophagus','Esophagus Cancer','Neoplasms, Esophageal','Cancer of the Esophagus','Esophageal Neoplasms','Esophagus Neoplasm']"
+Mesh:D004939,['Esophageal Perforation']
+Mesh:D004941,['Esophagitis']
+Mesh:D004940,"['Esophageal Stenosis','Esophageal Stricture','Stenosis, Esophageal']"
+Mesh:D004942,"['Esophagitis, Peptic','Esophagitis, Reflux']"
+Mesh:D004943,"['Gastroesophageal Junction','Esophagogastric Junction']"
+Mesh:D004947,['Esophagus']
+Mesh:D005150,"['Parry-Romberg Disease','Facial Hemiatrophy of Romberg','Romberg Hemi-Facial Atrophy','Hemifacial Atrophy, Progressive','Parry-Romberg Syndrome','Progressive Facial Hemiatrophy','Progressive Hemifacial Atrophy','Romberg Disease','Facial Hemiatrophy','Romberg's Disease','Hemifacial Atrophy']"
+Mesh:D005156,"['Craniofacial Pain Syndromes','Facial Neuralgia','Facial Pain Syndromes','Sphenopalatine Neuralgia','Myofacial Pain Syndromes']"
+Mesh:D005155,"['Facial Nerve Disorders','Seventh Cranial Nerve Diseases','Geniculate Ganglionitis','Facial Neuropathy','Cranial Nerve VII Diseases','Sensory Disorders, Facial Nerve','Motor Disorders, Facial Nerve','Facial Nerve Motor Disorders','Cranial Nerve VII Disorders','Facial Nerve Diseases','Acquired Facial Neuropathy','Facial Myokymia','Facial Neuritis','Facial Nerve Sensory Disorders','Familial Facial Neuropathy']"
+Mesh:D005158,"['Upper Motor Neuron Facial Palsy','Facial Paralysis, Peripheral','Facial Paralysis, Central','Facial Paresis','Facial Palsy, Lower Motor Neuron','Facial Palsy','Facial Palsy, Upper Motor Neuron','Lower Motor Neuron Facial Palsy','Hemifacial Paralysis','Facial Paralysis']"
+Mesh:D005211,"['Fasciola Infection','Fascioliasis']"
+Mesh:D005234,"['Steatohepatitis','Liver Steatosis','Steatosis of Liver','Visceral Steatosis','Fatty Liver']"
+Mesh:D005235,"['Fatty Liver, Alcoholic','Alcoholic Steatohepatitis','Alcoholic Fatty Liver']"
+Mesh:D005242,['Fecal Incontinence']
+Mesh:D005244,"['Fecal Impaction','Fecalith','Feces, Impacted']"
+Mesh:D005351,"['Fibromatosis Gingivae','Gingival Fibromatosis','Fibromatosis, Gingival']"
+Mesh:D005401,"['Anal Fissure','Anal Ulcer','Fissure in Ano']"
+Mesh:D005491,"['Infection, Dental Focal','Focal Infections, Dental','Infections, Dental Focal','Dental Focal Infection','Dental Focal Infections','Focal Infection, Dental']"
+Mesh:D005671,"['Double Tooth','Incisors, Fused Mandibular','Fused Mandibular Incisors','Fused Teeth','Teeth, Fused']"
+Mesh:D005704,['Gallbladder']
+Mesh:D005705,"['Gallbladder Diseases','Gall Bladder Diseases']"
+Mesh:D005706,"['Gall Bladder Cancer','Cancer of Gallbladder','Cancer of the Gallbladder','Gallbladder Neoplasms','Gallbladder Cancer','Neoplasms, Gallbladder']"
+Mesh:D005736,"['Gardner Syndrome','Gardner's Syndrome']"
+Mesh:D005748,['Gastric Fundus']
+Mesh:D005747,"['Gastric Fistula','Stomach Fistula']"
+Mesh:D005753,"['Cardiac Glands','Pyloric Glands','Gastric Glands','Gastric Mucosa']"
+Mesh:D005757,"['Gastritis, Atrophic']"
+Mesh:D005758,"['Gastritis, Familial Giant Hypertrophic','Gastritis, Hypertrophic','Menetrier Disease','Menetrier's Disease','Giant Hypertrophic Gastritis']"
+Mesh:D005759,['Gastroenteritis']
+Mesh:D005764,"['Esophageal Reflux','Gastric Acid Reflux Disease','Gastroesophageal Reflux Disease','Gastric Acid Reflux','Gastro-oesophageal Reflux','Gastro-Esophageal Reflux','GERD','Reflux, Gastroesophageal','Gastroesophageal Reflux']"
+Mesh:D005767,"['Cholera Infantum','Gastrointestinal Diseases','Gastrointestinal Disorders, Functional','Functional Gastrointestinal Disorders']"
+Mesh:D005770,"['Gastrointestinal Cancer','Cancer of Gastrointestinal Tract','Neoplasms, Gastrointestinal','Gastrointestinal Neoplasms','Cancer of the Gastrointestinal Tract']"
+Mesh:D005873,"['Giardiasis','Lambliasis','Giardia duodenalis Infection','Giardia intestinalis Infection','Giardia Infection','Giardia lamblia Infection']"
+Mesh:D005882,"['Gingival Diseases','Epulis','Epulides','Gingivosis']"
+Mesh:D005884,"['Hemorrhage, Gingival','Gingival Hemorrhage']"
+Mesh:D005885,['Gingival Hyperplasia']
+Mesh:D005886,['Gingival Hypertrophy']
+Mesh:D005887,"['Epulides, Congenital','Epulis, Congenital','Congenital Epulides','Gingival Neoplasms','Congenital Epulis','Neoplasms, Gingival']"
+Mesh:D005888,"['Gingival Pocket','Pocket, Gingival']"
+Mesh:D005889,"['Gingival Atrophy','Gingival Recession','Atrophy of Gingiva']"
+Mesh:D005891,['Gingivitis']
+Mesh:D005892,"['Vincent Infection','Vincent Angina','Fusospirillary Gingivitis','Acute Membranous Gingivitis','Acute Necrotizing Ulcerative Gingivitis','Vincent's Stomatitis','Fusospirillosis','Vincent's Infection','Trench Mouth','Gingivitis, Necrotizing Ulcerative','Stomatitis, Ulcerative','Vincent's Gingivitis','Phagedenic Gingivitis']"
+Mesh:D005926,"['Glossopyrosis','Glossodynia','Glossalgia']"
+Mesh:D005929,"['Erythema Migrans, Lingual','Glossitis, Benign Migratory','Geographic Tongue','Glossitis Areata Exfoliativa','Tongue, Geographic']"
+Mesh:D005935,"['Glucagonoma Syndrome','Adenoma, alpha-Cell','alpha-Cell Tumor','Glucagonoma']"
+Mesh:D006101,"['Epulis, Giant Cell','Granuloma, Giant Cell Reparative','Peripheral Giant Cell Granuloma','Giant Cell Granuloma','Epulides, Giant Cell','Granuloma, Giant Cell']"
+Mesh:D006396,['Hematemesis']
+Mesh:D006465,['Hemoperitoneum']
+Mesh:D006471,"['Gastrointestinal Hemorrhage','Hematochezia','Hemorrhage, Gastrointestinal']"
+Mesh:D006472,"['Oral Hemorrhage','Hemorrhage, Oral']"
+Mesh:D006484,['Hemorrhoids']
+Mesh:D006500,"['Hepatic Duct, Common','Common Hepatic Duct','Hepatic Duct']"
+Mesh:D006502,"['Chiari's Syndrome','Hepatic Venous Outflow Obstruction','Hepatic Vein Thrombosis','Budd-Chiari Syndrome']"
+Mesh:D006501,"['Hepatic Encephalopathy','Encephalopathy, Portosystemic','Hepatic Coma','Fulminant Hepatic Failure with Cerebral Edema','Encephalopathy, Hepatic','Encephalopathy, Portal-Systemic','Hepatic Stupor','Portosystemic Encephalopathy','Hepatocerebral Encephalopathy','Encephalopathy, Hepatocerebral','Portal-Systemic Encephalopathy']"
+Mesh:D006504,"['Veno-Occlusive Disease, Hepatic','Sinusoidal Obstruction Syndrome','Hepatic Veno Occlusive Disease','Hepatic Veno-Occlusive Disease']"
+Mesh:D006505,['Hepatitis']
+Mesh:D006506,"['Hepatitis, Infectious','Infectious Hepatitis','Hepatitis A']"
+Mesh:D006509,"['Hepatitis B Virus Infection','Hepatitis B']"
+Mesh:D006519,"['Hepatitis, Alcoholic, Chronic','Chronic Alcoholic Hepatitis','Hepatitis, Alcoholic','Alcoholic Hepatitis']"
+Mesh:D006520,"['Hepatitis, Animal']"
+Mesh:D006521,"['Cryptogenic Chronic Hepatitis','Chronic Hepatitis','Hepatitis, Chronic Persistent','Hepatitis, Chronic Active','Hepatitis, Chronic','Hepatitis, Chronic, Cryptogenic']"
+Mesh:D006522,"['Canine Infectious Hepatitis','Hepatitis, Canine Infectious','Infectious Canine Hepatitis','Hepatitis, Infectious Canine']"
+Mesh:D006524,"['Viral Hepatitis, Animal','Hepatitis, Viral, Animal']"
+Mesh:D006525,"['Viral Hepatitis, Human','Hepatitis, Viral, Human']"
+Mesh:D006526,"['Hepatitis C','Hepatitis, Viral, Non-A, Non-B, Parenterally-Transmitted','PT-NANBH','Parenterally-Transmitted Non-A, Non-B Hepatitis']"
+Mesh:D006527,"['Copper Storage Disease','Hepatocerebral Degeneration','Wilson Disease','Hepato-Neurologic Wilson Disease','Wilson Disease, Hepatic Form','Hepatic Form of Wilson Disease','Westphal-Strumpell Syndrome','Kinnier-Wilson Disease','Pseudosclerosis','Neurohepatic Degeneration','Wilson's Disease','Progressive Lenticular Degeneration','Cerebral Pseudosclerosis','Hepatolenticular Degeneration Syndrome','Hepatolenticular Degeneration']"
+Mesh:D006529,"['Hepatomegaly','Enlarged Liver']"
+Mesh:D006528,"['Carcinoma, Hepatocellular','Hepatocellular Carcinoma','Liver Cell Carcinoma, Adult','Liver Cell Carcinoma','Hepatoma','Liver Cancer, Adult']"
+Mesh:D006560,"['Herpes Labialis','Cold Sore','Fever Blister','Herpes Simplex, Labial']"
+Mesh:D006627,"['Hirschsprung Disease','Colonic Aganglionosis','Congenital Megacolon','Hirschsprung's Disease','Megacolon, Aganglionic','Aganglionosis, Colonic','Congenital Intestinal Aganglionosis','Aganglionosis, Total Colonic','Aganglionosis, Rectosigmoid Colon','Aganglionic Megacolon','Total Colonic Aganglionosis','Rectosigmoid Aganglionosis','Megacolon, Congenital']"
+Mesh:D006936,['Hypercementosis']
+Mesh:D006975,"['Hypertension, Portal','Cruveilhier-Baumgarten Syndrome']"
+Mesh:D007012,"['Hypopharyngeal Cancer','Neoplasms, Hypopharyngeal','Hypopharyngeal Neoplasms']"
+Mesh:D007077,['Ileal Diseases']
+Mesh:D007080,['Ileocecal Valve']
+Mesh:D007079,['Ileitis']
+Mesh:D007078,"['Ileal Cancer','Cancer, Ileal','Ileal Neoplasms','Cancer of ILEUM','Cancer of the ILEUM']"
+Mesh:D007082,['Ileum']
+Mesh:D007161,"['Heavy Chain Disease, IgA Type','alpha-Chain Disease','Immunoproliferative Small Intestinal Disease','Lymphoma, Mediterranean','IPSID']"
+Mesh:D007340,"['Insuloma','beta-Cell Tumor','Adenoma, beta-Cell','Insulinoma']"
+Mesh:D007411,"['Intestinal Diseases, Parasitic','Parasitic Intestinal Diseases']"
+Mesh:D007409,"['Apple-Peel Intestinal Atresia','Apple Peel Syndrome','Familial Apple Peel Jejunal Atresia','Atresia, Intestinal','Jejunal Atresia','Congenital Intestinal Atresia','Intestinal Atresia','Apple Peel Small Bowel Syndrome']"
+Mesh:D007413,"['Intestinal Glands','Intestinal Epithelium','Intestinal Mucosa']"
+Mesh:D007412,"['Intestinal Fistula','Enterocutaneous Fistula','Cholecystoduodenal Fistula','Colovesical Fistula']"
+Mesh:D007414,"['Neoplasms, Intestinal','Intestines Neoplasms','Intestinal Neoplasms','Intestinal Cancer','Cancer of Intestines','Cancer of the Intestines','Intestines Cancer']"
+Mesh:D007418,"['Enteric Neuropathy','Intestinal Pseudo-Obstruction, Idiopathic','Intestinal Pseudoobstruction','Paralytic Ileus','Pseudoobstructive Syndrome','Pseudointestinal Obstruction Syndrome','Pseudo-Obstruction, Intestinal','Congenital Short Bowel Syndrome','Chronic Idiopathic Intestinal Pseudo-Obstruction','Visceral Myopathy','Intestinal Pseudo-Obstruction']"
+Mesh:D007420,"['Large Intestine','Intestine, Large']"
+Mesh:D007421,"['Small Intestine','Intestine, Small']"
+Mesh:D007422,['Intestines']
+Mesh:D007443,"['Intususception','Invagination, Intestinal','Intussusception']"
+Mesh:D007515,"['Pancreatic Islets','Islet Cells','Nesidioblasts','Islets of Langerhans','Pancreas, Endocrine','Islands of Langerhans']"
+Mesh:D007516,"['Nesidioblastoma','Island Cell Tumor','Adenoma, Islet Cell','Islet Cell Tumor']"
+Mesh:D007569,"['Jaw Abnormalities','Abnormalities, Jaw']"
+Mesh:D007570,['Jaw Cysts']
+Mesh:D007571,['Jaw Diseases']
+Mesh:D007573,"['Jaw Cancer','Cancer of Jaw','Jaw Neoplasms','Cancer of the Jaw','Neoplasms, Jaw']"
+Mesh:D007575,"['Jaw, Edentulous']"
+Mesh:D007576,"['Jaw, Edentulous, Partially']"
+Mesh:D007579,['Jejunal Diseases']
+Mesh:D007580,"['Jejunal Neoplasms','Cancer of the Jejunum','Jejunal Cancer','Cancer of Jejunum','Cancer, Jejunal']"
+Mesh:D007583,['Jejunum']
+Mesh:D007787,"['Alactasia','Milk Sugar Intolerance','Dairy Product Intolerance','Lactose Malabsorption','Lactose Intolerance','Hypolactasia']"
+Mesh:D007967,"['Leukoedema, Oral']"
+Mesh:D007972,"['Leukokeratosis, Oral','Leukoplakia, Oral','Keratosis, Oral']"
+Mesh:D008035,"['Lingual Frenum','Frenum, Lingual','Lingual Frenulum']"
+Mesh:D008048,"['Cancer of the Lip','Lip Neoplasms','Neoplasms, Lip','Lip Cancer','Cancer of Lip']"
+Mesh:D008061,"['Whipple's Disease','Whipple Disease','Lipodystrophy, Intestinal']"
+Mesh:D008099,"['Livers','Liver']"
+Mesh:D008100,"['Liver Abscess','Abscess, Hepatic']"
+Mesh:D008101,"['Hepatic Amebiasis','Entamoebiasis, Hepatic','Hepatic Abscess, Amoebic','Abscess, Amebic, Hepatic','Hepatic Amoebiasis','Abscess, Liver, Amebic','Liver Abscess, Amoebic','Amebiasis, Hepatic','Amoebiasis, Hepatic','Abscess, Hepatic, Amebic','Hepatic Entamoebiasis','Liver Abscess, Amebic']"
+Mesh:D008103,"['Liver Fibrosis','Cirrhosis, Liver','Fibrosis, Liver','Hepatic Cirrhosis','Liver Cirrhosis']"
+Mesh:D008104,"['Liver Cirrhosis, Alcoholic','Hepatic Cirrhosis, Alcoholic','Alcoholic Cirrhosis']"
+Mesh:D008105,"['Biliary Cirrhosis','Secondary Biliary Cirrhosis','Biliary Cirrhosis, Primary, 1','Primary Biliary Cirrhosis','Liver Cirrhosis, Obstructive','Biliary Cirrhosis, Primary','Liver Cirrhosis, Biliary','Cholangitis, Chronic Nonsuppurative Destructive','Biliary Cirrhosis, Secondary']"
+Mesh:D008106,"['Experimental Liver Cirrhosis','Hepatic Cirrhosis, Experimental','Cirrhoses, Experimental Liver','Experimental Liver Cirrhoses','Liver Cirrhosis, Experimental','Liver Cirrhoses, Experimental','Cirrhosis, Experimental Liver']"
+Mesh:D008107,"['Liver Diseases','Liver Dysfunction']"
+Mesh:D008109,"['Parasitic Liver Diseases','Liver Diseases, Parasitic']"
+Mesh:D008113,"['Liver Cancer','Hepatocellular Cancer','Hepatic Neoplasms','Cancer of the Liver','Liver Neoplasms','Cancer, Hepatocellular','Neoplasms, Hepatic','Cancer of Liver','Neoplasms, Liver','Hepatic Cancer']"
+Mesh:D008114,"['Hepatoma, Novikoff','Experimental Hepatomas','Experimental Liver Neoplasms','Hepatomas, Experimental','Experimental Hepatoma','Neoplasms, Experimental Liver','Hepatoma, Experimental','Liver Neoplasms, Experimental','Hepatoma, Morris']"
+Mesh:D008158,['Ludwig's Angina']
+Mesh:D008265,['Macrostomia']
+Mesh:D008286,['Malabsorption Syndromes']
+Mesh:D008309,"['Mallory-Weiss Syndrome','Mallory-Weiss Laceration','Gastroesophageal Laceration-Hemorrhage','Mallory-Weiss Tear','Mucosal Lacerations-Gastroesophageal Junction']"
+Mesh:D008310,"['Crossbite','Cross Bite','Angle's Classification','Tooth Crowding','Malocclusion']"
+Mesh:D008312,"['Angle Class II, Division 2','Class II Malocclusion, Division 2','Angle Class II, Division 1','Class II Malocclusion, Division 1','Malocclusion, Angle Class II, Division 1','Angle Class II','Malocclusion, Angle Class II','Malocclusion, Angle Class II, Division 2']"
+Mesh:D008313,"['Habsburg Jaw','Malocclusion, Angle Class III','Prognathism, Mandibular','Hapsburg Jaw','Underbite','Angle Class III']"
+Mesh:D008336,['Mandibular Diseases']
+Mesh:D008339,['Mandibular Neoplasms']
+Mesh:D008439,['Maxillary Diseases']
+Mesh:D008441,['Maxillary Neoplasms']
+Mesh:D008467,"['Meckel's Diverticulum','Diverticulum, Meckel','Meckel Diverticulum']"
+Mesh:D008551,['Melena']
+Mesh:D008556,"['Orofacial Edema, Facial Neuropathy, Cheilitis Granulomatosa','Granulomatous Cheilitis','Facial Neuropathy, Orofacial Edema, Cheilitis Granulomatosa','Melkersson Syndrome','Cheilitis Granulomatosa','Miescher-Melkersson-Rosenthal Granulomatous Cheilitis','Cheilitis Granulomatosa, Orofacial Edema, Facial Neuropathy','Syndrome, Melkerson Rosenthal','Rosenthal-Melkerson Syndrome','Melkersson-Rosenthal Syndrome','Macrocheilia, Facial Palsy, Edema','Melkerson-Rosenthal Syndrome','Cheilitis Granulomatosa, Facial Neuropathy, Orofacial Edema','Rosenthal-Melkersson Syndrome','Facial Neuropathy, Cheilitis Granulomatosa, Orofacial Edema','Melkersson-Rosenthal-Miescher Syndrome','Orofacial Edema, Cheilitis Granulomatosa, Facial Neuropathy']"
+Mesh:D008639,['Mesenteric Cyst']
+Mesh:D008640,['Mesenteric Lymphadenitis']
+Mesh:D008641,['Mesenteric Vascular Occlusion']
+Mesh:D008644,"['Mesial Migration of Teeth','Mesial Movement of Teeth','Mesial Drift of Teeth']"
+Mesh:D008844,"['Congenital Micrognathia','Micrognathia','Congenital Micrognathism','Mandibular Micrognathism','Micrognathism','Mandibular Micrognathia']"
+Mesh:D008865,['Microstomia']
+Mesh:D008882,"['Mikulicz' Disease','Mikulicz Disease']"
+Mesh:D009050,"['Mottled Enamel','Fluorosis, Dental','Fluoroses, Dental','Dental Fluoroses','Dental Fluorosis']"
+Mesh:D009055,"['Cavitas oris propria','Cavitas Oris','Vestibule of the Mouth','Mouth','Mouth Cavity Proper','Vestibule Oris','Oral Cavity Proper','Oral Cavity']"
+Mesh:D009056,"['Abnormalities, Mouth','Mouth Abnormalities']"
+Mesh:D009057,"['Dental Diseases','Mouth and Tooth Diseases','Stomatognathic Diseases']"
+Mesh:D009062,"['Oral Neoplasms','Neoplasms, Oral','Cancer of Mouth','Mouth Neoplasms','Neoplasms, Mouth','Mouth Cancer','Cancer of the Mouth','Oral Cancer']"
+Mesh:D009066,"['Mouth, Edentulous','Mouth, Toothless']"
+Mesh:D009107,"['Mumps','Parotitis, Epidemic']"
+Mesh:D009302,"['Diseases of Nasopharynx','Nasopharyngeal Diseases']"
+Mesh:D009304,['Nasopharyngitis']
+Mesh:D009303,"['Cancer of Nasopharynx','Nasopharyngeal Cancer','Neoplasms, Nasopharyngeal','Nasopharynx Neoplasms','Nasopharynx Cancer','Cancer of the Nasopharynx','Nasopharyngeal Neoplasms']"
+Mesh:D009631,['Nonodontogenic Cysts']
+Mesh:D009803,"['Oddi's Sphincter','Sphincter of Oddi']"
+Mesh:D009807,"['Keratocysts','Odontogenic Cysts']"
+Mesh:D009912,['Oral Manifestations']
+Mesh:D009957,['Oroantral Fistula']
+Mesh:D009959,"['Oropharynx Neoplasms','Oropharyngeal Neoplasms','Cancer of Oropharnyx','Cancer of the Oropharynx','Oropharynx Cancer','Neoplasms, Oropharyngeal','Oropharyngeal Cancer']"
+Mesh:D010157,['Palatal Neoplasms']
+Mesh:D010179,['Pancreas']
+Mesh:D010181,['Pancreatic Cyst']
+Mesh:D010182,['Pancreatic Diseases']
+Mesh:D010183,"['Duct of Wirsung','Accessory Pancreatic Duct of Santorini','Wirsung's Duct','Pancreatic Ducts','Santorini's Duct','Duodenal Papilla, Minor','Accessory Pancreatic Duct','Main Pancreatic Duct','Duct of Santorini']"
+Mesh:D010185,['Pancreatic Fistula']
+Mesh:D010188,"['Exocrine Pancreatic Insufficiency','Pancreatic Insufficiency']"
+Mesh:D010190,"['Pancreatic Neoplasms','Pancreatic Cancer','Neoplasms, Pancreatic','Pancreas Neoplasms','Cancer of Pancreas','Cancer of the Pancreas','Pancreas Cancer']"
+Mesh:D010192,['Pancreatic Pseudocyst']
+Mesh:D010195,['Pancreatitis']
+Mesh:D010295,"['Parietal Cells, Gastric','Oxyntic Cells','Gastric Parietal Cells']"
+Mesh:D010306,['Parotid Gland']
+Mesh:D010309,"['Parotiditis','Parotitis']"
+Mesh:D010307,"['Cancer of the Parotid','Parotid Cancer','Parotid Neoplasms','Cancer of Parotid','Neoplasms, Parotid']"
+Mesh:D010437,"['Marginal Ulcer','Peptic Ulcer','Gastroduodenal Ulcer']"
+Mesh:D010438,"['Hemorrhage, Peptic Ulcer','Peptic Ulcer Hemorrhage']"
+Mesh:D010439,['Peptic Ulcer Perforation']
+Mesh:D010482,"['Abscess, Periapical','Periapical Periodontitis, Suppurative','Periodontitis, Apical, Suppurative','Periapical Abscess','Alveolar Abscess, Apical','Dentoalveolar Abscess, Apical']"
+Mesh:D010483,['Periapical Diseases']
+Mesh:D010484,"['Granuloma, Periapical','Granulomas, Dental','Dental Granuloma','Periodontitis, Apical, Chronic Nonsuppurative','Periapical Granuloma','Dental Granulomas','Periapical Periodontitis, Chronic Nonsuppurative','Granuloma, Dental']"
+Mesh:D010485,"['Periodontitis, Apical','Periodontitis, Acute Nonsuppurative','Periapical Periodontitis']"
+Mesh:D010508,"['Periodontal Abscess','Abscess, Periodontal']"
+Mesh:D010510,"['Periodontal Diseases','Pyorrhea Alveolaris','Parodontosis']"
+Mesh:D010509,"['Periodontal Cyst','Dental Root Cyst','Lateral Cyst','Cyst, Dental Root','Dentoalveolar Cyst','Root Cyst, Dental','Cysts, Dental Root','Dental Root Cysts','Root Cysts, Dental']"
+Mesh:D010514,"['Pocket, Periodontal','Periodontal Pocket']"
+Mesh:D010518,"['Periodontitis','Pericementitis']"
+Mesh:D010520,"['Early-Onset Periodontitis','Periodontitis, Circumpubertal','Periodontitis, Prepubertal','Periodontitis, Aggressive, 1','Juvenile Periodontitis','Prepubertal Periodontitis','Periodontosis','Periodontitis, Juvenile','Aggressive Periodontitis']"
+Mesh:D010532,['Peritoneal Diseases']
+Mesh:D010534,"['Peritoneal Surface Malignancy','Peritoneal Carcinomatosis','Peritoneal Neoplasms']"
+Mesh:D010538,"['Secondary Peritonitis','Peritonitis','Primary Peritonitis']"
+Mesh:D010580,"['Polyposis, Hamartomatous Intestinal','Periorificial Lentiginosis Syndrome','Lentiginosis, Perioral','Peutz-Jeghers Polyposis','Polyps-and-Spots Syndrome','Peutz-Jegher's Syndrome','Peutz-Jeghers Syndrome']"
+Mesh:D010608,"['Pharynx Diseases','Pharyngeal Diseases','Diseases of Pharynx']"
+Mesh:D010610,"['Neoplasms, Pharynx','Neoplasms, Pharyngeal','Pharyngeal Neoplasms','Cancer of the Pharynx','Pharnyx Cancer','Pharynx Neoplasms','Cancer of Pharynx','Pharyngeal Cancer']"
+Mesh:D010614,"['Pharynx','Throat']"
+Mesh:D010612,"['Sore Throat','Pharyngitis']"
+Mesh:D010855,"['Pierre Robin's Sequence','Robin Sequence','Pierre Robin Syndrome','Pierre-Robin Syndrome','Pierre Robin Sequence','Glossoptosis, Micrognathia, and Cleft Palate']"
+Mesh:D011004,"['Kelly's Syndrome','Patterson-Brown-Kelly Syndrome','Plummer-Vinson Syndrome','Syndrome, Plummer-Vinson','Patterson's Syndrome','Patterson-Kelly Syndrome']"
+Mesh:D011006,['Pneumatosis Cystoides Intestinalis']
+Mesh:D011027,['Pneumoperitoneum']
+Mesh:D011125,"['Adenomatous Polyposis Coli','Adenomatous Polyposis Coli, Familial','Familial Multiple Polyposis Syndrome','Familial Intestinal Polyposis','Polyposis, Adenomatous Intestinal','Polyposis Syndrome, Familial','Familial Adenomatous Polyposis Coli','Hereditary Polyposis Coli','Familial Adenomatous Polyposis of the Colon','Familial Multiple Polyposi','Polyposis Coli','Familial Polyposis of the Colon','Adenomatous Polyposis of the Colon','Familial Adenomatous Polyposis','Familial Polyposis Coli','Myh-Associated Polyposis','Familial Polyposis Syndrome','Polyposis Coli, Familial','Familial Multiple Polyposis']"
+Mesh:D011178,['Postgastrectomy Syndromes']
+Mesh:D011350,"['Proctocolitis, Ulcerative','Rectocolitis, Hemorrhagic','Rectosigmoiditis','Ulcerative Proctocolitis','Hemorrhagic Proctocolitis','Proctosigmoiditis','Proctocolitis','Rectocolitis','Rectocolitis, Ulcerative','Proctocolitis, Hemorrhagic']"
+Mesh:D011378,['Prognathism']
+Mesh:D011504,"['Enteropathy, Exudative','Protein-Losing Enteropathies','Enteropathy, Protein-Losing','Idiopathic Hypercatabolic Hypoproteinemia','Protein-Losing Enteropathy']"
+Mesh:D011538,['Pruritus Ani']
+Mesh:D011671,"['Pulpitis','Inflammation, Endodontic']"
+Mesh:D011706,"['Antrum, Pyloric','Pyloric Antrum','Gastric Antrum']"
+Mesh:D011708,"['Pyloric Sphincter','Pylorus']"
+Mesh:D011842,"['Periodontal Cyst, Apical','Radicular Cyst','Periapical Cyst']"
+Mesh:D011900,['Ranula']
+Mesh:D012003,"['Rectal Fistula','Anal Fistula']"
+Mesh:D012002,"['Rectal Diseases','Anorectal Disorders','Anorectal Diseases','Rectal Disorders']"
+Mesh:D012004,"['Neoplasms, Rectal','Rectal Tumors','Rectal Neoplasms','Cancer of the Rectum','Rectum Cancer','Rectal Cancer','Rectum Neoplasms','Cancer of Rectum']"
+Mesh:D012007,['Rectum']
+Mesh:D012005,"['Rectal Prolapse','Anus Prolapse']"
+Mesh:D012006,['Rectovaginal Fistula']
+Mesh:D012202,"['Reye's Syndrome, Adult','Reye-Like Syndrome','Fatty Liver with Encephalopathy','Reye's-Like Syndrome','Reye's Syndrome','Reye Syndrome','Reye Syndrome, Adult','Reye-Johnson Syndrome']"
+Mesh:D012295,['Rift Valley Fever']
+Mesh:D012465,"['Salivary Duct Calculi','Parotid Duct Calculi','Submandibular Duct Calculi','Salivary Duct Stones','Sialolithiasis, Ductal']"
+Mesh:D012467,['Salivary Gland Fistula']
+Mesh:D012468,"['Salivary Gland Neoplasms','Salivary Gland Cancer','Cancer of the Salivary Gland','Cancer of Salivary Gland','Neoplasms, Salivary Gland']"
+Mesh:D012469,['Salivary Glands']
+Mesh:D012470,"['Salivary Glands, Minor']"
+Mesh:D012793,"['Irradiation-Induced Sialadenitis','Sialoadenitis','Salivary Gland Inflammation','Chronic Sialadenitis','Sialitis','Adenitis, Salivary Gland','Sialadenitis']"
+Mesh:D012797,"['Sialometaplasia, Necrotizing','Necrotizing Sialometaplasia']"
+Mesh:D012798,"['Drooling','Hypersalivation','Sialorrhea']"
+Mesh:D012809,"['Sigmoid','Colon, Sigmoid','Sigmoid Colon']"
+Mesh:D012810,"['Sigmoid Diseases','Sigmoid Colon Diseases']"
+Mesh:D012811,"['Cancer of Sigmoid','Neoplasms, Sigmoid','Cancer of the Sigmoid','Sigmoid Colon Cancer','Sigmoid Colon Neoplasms','Sigmoidal Cancer','Sigmoid Neoplasms','Sigmoid Cancer']"
+Mesh:D012859,"['Sjogren Syndrome','Sjogren's Syndrome','Sicca Syndrome']"
+Mesh:D013005,['Somatostatinoma']
+Mesh:D013182,"['Sprue, Tropical','Idiopathic Tropical Malabsorption Syndrome']"
+Mesh:D013262,"['Nonstaphylococcal Scalded Skin Syndrome','Toxic Epidermal Necrolysis Stevens-Johnson Syndrome Spectrum','Epidermal Necrolysis, Toxic','Toxic Epidermal Necrolysis Stevens Johnson Syndrome','Stevens-Johnson Syndrome','Mycoplasma-Induced Stevens Johnson Syndrome','Stevens Johnson Syndrome Toxic Epidermal Necrolysis','Stevens-Johnson Syndrome Toxic Epidermal Necrolysis Spectrum','Toxic Epidermal Necrolysis','Scalded Skin Syndrome, Nonstaphylococcal','Toxic Epidermal Necrolysis Stevens Johnson Syndrome Spectrum','Drug-Induced Stevens-Johnson Syndrome','Stevens Johnson Syndrome Toxic Epidermal Necrolysis Spectrum','Drug-Induced Stevens Johnson Syndrome','Mycoplasma-Induced Stevens-Johnson Syndrome','Stevens-Johnson Syndrome Toxic Epidermal Necrolysis','Lyell's Syndrome','Toxic Epidermal Necrolysis Stevens-Johnson Syndrome']"
+Mesh:D013270,['Stomach']
+Mesh:D013272,"['Stomach Diseases','Gastric Diseases']"
+Mesh:D013273,"['Diverticula, Stomach','Diverticulum, Stomach','Stomach Diverticulum','Gastric Diverticula','Diverticulum, Gastric']"
+Mesh:D013274,"['Neoplasms, Gastric','Stomach Neoplasms','Neoplasms, Stomach','Gastric Cancer','Cancer of the Stomach','Cancer of Stomach','Gastric Cancer, Familial Diffuse','Stomach Cancer','Gastric Neoplasms']"
+Mesh:D013275,"['Gastric Rupture','Stomach Rupture']"
+Mesh:D013276,"['Stomach Ulcer','Gastric Ulcer']"
+Mesh:D013277,"['Gastric Volvulus','Stomach Volvulus','Volvulus, Stomach']"
+Mesh:D013280,"['Oromucositis','Oral Mucositis','Stomatitis','Mucositis, Oral']"
+Mesh:D013281,"['Canker Sore','Stomatitis, Aphthous','Aphthae','Ulcer, Aphthous','Periadenitis Mucosa Necrotica Recurrens']"
+Mesh:D013282,"['Stomatitis, Denture']"
+Mesh:D013283,"['Herpes Simplex, Oral','Gingivostomatitis, Herpetic','Stomatitis, Herpetic']"
+Mesh:D013361,['Sublingual Gland']
+Mesh:D013363,"['Submaxillary Gland','Submandibular Gland']"
+Mesh:D013362,['Sublingual Gland Neoplasms']
+Mesh:D013365,['Submandibular Gland Neoplasms']
+Mesh:D013369,"['Abscess, Subphrenic','Subdiaphragmatic Abscess','Subphrenic Abscess','Abscess, Subdiaphragmatic']"
+Mesh:D013478,"['Mesenteric Duodenal Compression Syndrome','Wilkie Syndrome','Duodenal Compression Syndrome, Mesenteric','Cast Syndrome','Superior Mesenteric Artery Syndrome']"
+Mesh:D013650,['Taste Buds']
+Mesh:D013706,"['Myofascial Pain Dysfunction Syndrome, Temporomandibular Joint','Costen's Syndrome','Temporomandibular Joint Syndrome','TMJ Syndrome','Temporomandibular Joint Dysfunction Syndrome']"
+Mesh:D013705,"['TMJ Disorders','TMJ Diseases','Temporomandibular Disorders','Temporomandibular Joint Diseases','Temporomandibular Joint Disorders']"
+Mesh:D014059,['Tongue']
+Mesh:D014060,"['Tongue Diseases','Microglossia']"
+Mesh:D014062,"['Neoplasms, Tongue','Cancer of the Tongue','Tongue Neoplasms','Tongue Cancer','Cancer of Tongue']"
+Mesh:D014063,"['Tongue, Furrowed','Scrotal Tongue','Lingua Plicata','Tongue, Fissured']"
+Mesh:D014064,"['Tongue, Hairy']"
+Mesh:D014069,['Tonsillitis']
+Mesh:D014067,"['Tonsillar Neoplasms','Neoplasms, Tonsil','Tonsil Neoplasms','Cancer of Tonsil','Tonsil Cancer','Neoplasms, Tonsillar','Tonsillar Cancer','Cancer of the Tonsil']"
+Mesh:D014071,"['Tooth Abnormalities','Abnormalities, Teeth','Odontome','Teeth Abnormalities','Abnormalities, Tooth']"
+Mesh:D014072,"['Abrasion, Dental','Dental Abrasion','Tooth Abrasion']"
+Mesh:D014075,['Tooth Discoloration']
+Mesh:D014077,['Tooth Erosion']
+Mesh:D014076,['Tooth Diseases']
+Mesh:D014079,"['Tooth Eruption, Ectopic']"
+Mesh:D014082,['Tooth Fractures']
+Mesh:D014084,"['Avulsed Tooth','Tooth Luxation','Tooth Avulsion','Dislocation, Tooth']"
+Mesh:D014085,"['Tooth Drifting','Tooth Drift','Tooth Migration']"
+Mesh:D014086,['Tooth Mobility']
+Mesh:D014095,"['Tooth, Impacted','Teeth, Impacted']"
+Mesh:D014096,"['Teeth, Supernumerary','Molar, Fourth','Tooth, Supernumerary']"
+Mesh:D014097,"['Teeth, Unerupted','Tooth, Unerupted']"
+Mesh:D014098,"['Toothache','Odontalgia']"
+Mesh:D014138,"['Esophagotracheal Fistula','Tracheoesophageal Fistula']"
+Mesh:D014277,"['Tic Douloureux','Trigeminal Neuralgia, Secondary','Trigeminal Neuralgia, Idiopathic','Fothergill Disease','Secondary Trigeminal Neuralgia','Trigeminal Neuralgia','Epileptiform Neuralgia','Trifacial Neuralgia']"
+Mesh:D014385,"['Gastrointestinal Tuberculosis','Tuberculosis, Gastrointestinal']"
+Mesh:D014386,"['Tuberculosis, Hepatic']"
+Mesh:D014393,"['Tuberculosis, Oral']"
+Mesh:D014395,"['Peritonitis, Tuberculous','Tuberculosis, Peritoneal']"
+Mesh:D014670,"['Hepatopancreatic Ampulla','Greater Duodenal Papilla','Ampulla of Vater','Duodenal Papilla, Major','Vater's Ampulla']"
+Mesh:D014681,"['Palatopharyngeal Incompetence','Inadequate Velopharyngeal Closure','Velopharyngeal Insufficiency','Velopharyngeal Incompetence']"
+Mesh:D014782,"['Visceroptosis','Splanchnoptosis','Visceral Prolapse']"
+Mesh:D014987,"['Hyposalivation','Mouth Dryness','Xerostomia','Asialia']"
+Mesh:D015043,['Zollinger-Ellison Syndrome']
+Mesh:D015154,"['Esophageal Motility Disorders','Nutcracker Esophagus','Esophageal Dysmotility']"
+Mesh:D015155,"['Esophageal Spasm','Spasm, Esophageal','Esophageal Spasm, Diffuse']"
+Mesh:D015179,"['Colorectal Neoplasms','Colorectal Cancer','Colorectal Carcinoma','Colorectal Tumors','Neoplasms, Colorectal']"
+Mesh:D015209,"['Cholangitis, Primary Sclerosing','Primary Sclerosing Cholangitis','Cholangitis, Sclerosing','Cholangiitis, Sclerosing','Sclerosing Cholangitis']"
+Mesh:D015211,"['Peroxisome Biogenesis Disorders, Zellweger Syndrome Spectrum','Zellweger Syndrome Spectrum','Zellweger-Like Syndrome','Zellweger Disease','Zellweger Spectrum','PBD, ZSS','Zellweger Syndrome','Cerebro-Hepato-Renal Syndrome','Cerebrohepatorenal Syndrome','Zellweger's Syndrome']"
+Mesh:D015408,"['Gastrin-Producing Tumor','Ulcerogenic Islet Cell Tumor','Gastrinoma','Islet Cell Tumor, Ulcerogenic']"
+Mesh:D015436,"['Retractile Mesenteritis','Mesenteric Weber-Christian Disease','Liposclerotic Mesenteritis','Mesenteric Lipodystrophy','Mesenteric Panniculitis','Panniculitis, Peritoneal','Omental Panniculitis','Sclerosing Mesenteritis']"
+Mesh:D015494,"['Sialoliths','Salivary Gland Stones','Sialolithiasis','Salivary Gland Calculi']"
+Mesh:D015529,"['Choledochal Cyst, Type II','Cyst, Common Bile Duct','Multiple Choledochal Cysts','Choledochal Cyst, Diverticulum','Bile Duct Cysts','Intrahepatic Choledochal Cyst','Choledochal Cyst, Type V','Choledochal Diverticulum','Choledochocele','Choledochal Cyst, Type I','Common Bile Duct Cyst','Choledochal Cyst, Type IV','Choledochal Cyst','Cysts, Common Bile Duct','Congenital Choledochal Cyst','Choledochal Cyst, Type III']"
+Mesh:D016154,['Digestive System Fistula']
+Mesh:D016155,['Oral Fistula']
+Mesh:D016301,"['Bone Loss, Periodontal','Alveolar Resorption','Alveolar Bone Loss','Alveolar Bone Atrophy','Bone Loss, Alveolar','Alveolar Process Atrophy','Periodontal Bone Loss','Periodontal Resorption']"
+Mesh:D016369,['Smear Layer']
+Mesh:D016388,['Tooth Loss']
+Mesh:D016672,"['Pharyngeal Diverticulum','Zenker's Diverticula','Pharyngoesophageal Pulsion Diverticulum','Esophago-Pharyngeal Diverticula','Esophagopharyngeal Diverticulum','Pharyngeal Diverticula','Pharyngoesophageal Pulsion Diverticula','Zenker's Diverticulum','Zenker Diverticulum','Pharyngo-Esophageal Diverticula','Pharyngoesophageal Diverticulum','Esophago-Pharyngeal Diverticulum','Pharyngo-Esophageal Diverticulum','Pharyngoesophageal Diverticula']"
+Mesh:D016697,"['Geniculate Herpes Zoster','Herpes Zoster Auricularis','Herpes Zoster Oticus','Auricular Syndrome of Ramsay Hunt','Ramsay Hunt Syndrome','Herpetic Geniculate Ganglionitis','Herpes Zoster Cephalicus','Neuralgia, Geniculate','Ramsay Hunt Auricular Syndrome']"
+Mesh:D016738,"['Watson-Miller syndrome','Cholestasis with Peripheral Pulmonary Stenosis','Cardiovertebral Syndrome','Arteriohepatic Dysplasia (AHD)','Paucity of Interlobular Bile Ducts','Alagille Syndrome','Alagille Syndrome 1','Hepatic Ductular Hypoplasia, Syndromatic','Hepatofacioneurocardiovertebral Syndrome','Arteriohepatic Dysplasia','Watson Alagille Syndrome','Alagille Watson Syndrome','Dysplasia, Arteriohepatic','Watson Miller Syndrome','Alagille-Watson Syndrome','Hepatic Ductular Hypoplasia','Alagille Syndrome 2','Alagille's Syndrome']"
+Mesh:D016751,"['Enterically-Transmitted Non-A, Non-B Hepatitis','Hepatitis E','ET-NANBH','Hepatitis, Water-Borne','Epidemic Non-A, Non-B Hepatitis','Hepatitis, Viral, Non-A, Non-B, Enterically-Transmitted']"
+Mesh:D016767,"['Caroli's Disease','Caroli Disease','Caroli's Syndrome']"
+Mesh:D016776,"['Blastocystis hominis Infections','Infections, Blastocystis','Blastocystis Infections']"
+Mesh:D017001,"['Hypomineralization, Tooth','Demineralization, Tooth','Tooth Hypomineralization','Tooth Demineralization']"
+Mesh:D017093,"['Liver Failure','Hepatic Failure']"
+Mesh:D017094,"['Porphyrias, Hepatic','Porphyria, Hepatic','Hepatic Porphyria']"
+Mesh:D017114,"['Acute Liver Failure','Hepatic Failure, Fulminant','Liver Failure, Acute','Hepatic Failure, Acute','Fulminating Liver Failure','Fulminating Hepatic Failure','Liver Failure, Fulminant']"
+Mesh:D017119,['Porphyria Cutanea Tarda']
+Mesh:D017118,"['Acute Porphyria','Porphyria, Acute Intermittent','UPS Deficiency','Porphyria, Swedish Type','PBGD Deficiency','Hydroxymethylbilane Synthase Deficiency','Uroporphyrinogen Synthase Deficiency','Porphobilinogen Deaminase Deficiency']"
+Mesh:D017121,"['Porphyria, Hepatoerythropoietic','Porphyria, Erythrohepatic','Hepatoerythropoietic Porphyria']"
+Mesh:D017129,"['Anisakis Infection','Anisakiasis']"
+Mesh:D017213,"['Caries, Cervical','Cervical Caries','Root Caries','Caries, Root']"
+Mesh:D017271,"['Craniomandibular Disorders','Craniomandibular Diseases']"
+Mesh:D017562,"['Postcholedochoduodenostomy Syndrome','Post-Choledochojejunostomy Syndrome','Postcholedochostomy Syndrome','Postcholedochojejunostomy Syndrome','Post-Choledochostomy Syndrome','Postcholecystectomy Syndrome','Post-Cholecystectomy Syndrome','Post-Choledochoduodenostomy Syndrome','Sump Syndrome']"
+Mesh:D017573,"['Focal Epithelial Hyperplasia','Heck Disease','Focal Epithelial Hyperplasia, Oral','Hyperplasia, Focal Epithelial','Heck's Disease']"
+Mesh:D017622,"['Periodontal Attachment Loss','Attachment Loss, Periodontal']"
+Mesh:D017675,"['CRST Syndrome','Calcinosis, Raynaud's phenomenon, Esophageal dismobility, Sclerodactyly, Telangiectasia Syndrome','CREST Syndrome','Calcinosis-Raynaud Phenomenon-Sclerodactyly-Telangiectasia']"
+Mesh:D017676,"['Lichen Planus, Oral']"
+Mesh:D017688,"['Cholera Morbus','Cholera, Summer']"
+Mesh:D017703,"['Retropharyngeal Abscess','Abscess, Retropharyngeal']"
+Mesh:D017734,"['Bile Ducts, Extrahepatic','Extrahepatic Biliary System']"
+Mesh:D017823,['Furcation Defects']
+Mesh:D018126,"['Ghost Teeth','Odontogenesis Imperfecta','Odontodysplasia','Ghost Tooth','Odontogenic Dysplasia']"
+Mesh:D018248,"['Adenoma, Liver Cell','Adenoma, Hepatocellular','Hepatoma, Benign']"
+Mesh:D018273,"['Islet Cell Tumor, Malignant','Carcinoma, Islet Cell']"
+Mesh:D018333,"['Odontogenic Cyst, Calcifying']"
+Mesh:D018530,"['Gastric Remnant','Remnant Stomach','Residual Stomach','Gastric Stump']"
+Mesh:D018589,"['Gastroparesis','Gastric Stasis']"
+Mesh:D018640,"['Abnormalities, Stomatognathic System','Stomatognathic System Abnormalities']"
+Mesh:D018677,"['Teeth Injuries','Injuries, Teeth','Injuries, Tooth','Tooth Injuries']"
+Mesh:D018987,"['Salivary Ducts','Stensen's Duct','Wharton's Duct']"
+Mesh:D019053,"['HIV Enteropathy','Enteropathy, HIV','AIDS-Associated Enteropathy','Idiopathic AIDS Enteropathy','Enteropathy, HIV-Associated','AIDS Enteropathy','Enteropathy, AIDS-Associated','HIV-Associated Enteropathy']"
+Mesh:D019214,['Gingival Overgrowth']
+Mesh:D019217,"['Attrition, Dental','Dental Attrition','Tooth Attrition','Occlusal Wear']"
+Mesh:D019226,"['Oral Ulcer','Mouth Ulcer']"
+Mesh:D019283,"['Acute Necrotizing Pancreatitis','Necrotizing Pancreatitis, Acute','Pancreatitis, Acute Necrotizing']"
+Mesh:D019449,"['Pouchitis','Pouch Ileitis']"
+Mesh:D019512,"['Alcoholic Pancreatitis','Pancreatitis, Alcoholic']"
+Mesh:D019553,"['Tooth, Endodontically-Treated','Tooth, Pulpless','Teeth, Nonvital','Teeth, Devitalized','Teeth, Endodontically-Treated','Teeth, Pulpless','Tooth, Devitalized','Tooth, Nonvital']"
+Mesh:D019569,"['Spasm, Hemifacial','Hemifacial Spasm','Hemifacial Myokymia','Facial Spasm, Unilateral']"
+Mesh:D019693,"['Hepatitis, Autoimmune','Autoimmune Chronic Hepatitis','Autoimmune Hepatitis']"
+Mesh:D019694,"['Hepatitis B Virus Infection, Chronic','Hepatitis B, Chronic','Chronic Hepatitis B Virus Infection','Chronic Hepatitis B']"
+Mesh:D019698,"['Chronic Hepatitis C','Hepatitis C, Chronic']"
+Mesh:D019701,"['Chronic Delta Hepatitis','Delta Hepatitis, Chronic','Chronic Hepatitis D','Hepatitis D, Chronic']"
+Mesh:D019767,"['Abnormalities, Maxillofacial','Maxillofacial Abnormalities']"
+Mesh:D019863,"['Gastrin-Secreting Cells','G Cells','Gastrin Cells']"
+Mesh:D019864,"['D Cells','delta Cells','Pancreatic D Cells','Somatostatin-Secreting Cells','Gastric D Cells','Pancreatic delta Cells','Somatostatin Cells','Gastric delta Cells']"
+Mesh:D019872,"['Chief Cells, Gastric','Gastric Zymogenic Cells','Gastric Chief Cells']"
+Mesh:D019879,['Paneth Cells']
+Mesh:D019896,['alpha 1-Antitrypsin Deficiency']
+Mesh:D020047,"['Proctocele','Rectocele']"
+Mesh:D020065,"['Hepato-Pulmonary Syndrome','Hepatopulmonary Syndrome']"
+Mesh:D020186,"['Sleep Bruxism, Adult','Sleep-Related Bruxism','Sleep Bruxism','Nocturnal Teeth Grinding Disorder','Sleep Bruxism, Childhood','Bruxism, Nocturnal','Teeth Grinding Disorder, Nocturnal']"
+Mesh:D020220,"['Facial Nerve Trauma','Facial Nerve Avulsion','Nerve Injury, Facial','Seventh Cranial Nerve Injuries','Facial Neuropathy, Traumatic','Cranial Nerve VII Injuries','Injury, Facial Nerve','Facial Nerve Injuries','Injuries, Seventh Cranial Nerve','Injuries, Cranial Nerve VII']"
+Mesh:D020252,"['Antral Vascular Ectasia','Watermelon Stomach','Gastric Antral Vascular Ectasia']"
+Mesh:D020254,"['Dentoalveolar Ankylosis','Ankylosis, Tooth','Ankylosis of Teeth','Ankylosis, Dentoalveolar','Dental Ankylosis','Tooth Ankylosis']"
+Mesh:D020331,"['Mobius Syndrome','M枚bius Sequence','Moebius Congenital Oculofacial Paralysis','Congenital Oculofacial Paralysis, Moebius','Moebius Syndrome','Moebius Sequence','Moebius Spectrum','Congenital Ophthalmoplegia and Facial Paresis']"
+Mesh:D020330,"['Bell Palsy','Idiopathic Acute Facial Neuropathy','Facial Neuropathy, Inflammatory, Acute','Acute Inflammatory Facial Neuropathy','Bell's Palsy','Inflammatory Facial Neuropathy, Acute','Herpetic Facial Paralysis','Facial Neuropathy, Idiopathic Acute','Acute Idiopathic Facial Neuropathy','Facial Paralysis, Idiopathic']"
+Mesh:D020345,"['Enterocolitis, Necrotizing','Necrotizing Enterocolitis']"
+Mesh:D020397,['Goblet Cells']
+Mesh:D020433,"['Trigeminal Neuropathy, Idiopathic','Trigeminal Nerve Disorders','Raeder Paratrigeminal Syndrome','Trigeminal Neuropathy','Cranial Nerve V Diseases','Trigeminal Nerve Diseases','Fifth Cranial Nerve Diseases']"
+Mesh:D020518,"['Focal Nodular Hyperplasia','Hyperplasia, Focal Nodular']"
+Mesh:D020792,"['Calculi, Salivary','Salivary Calculi','Salivary Calculus']"
+Mesh:D020895,['Enterocytes']
+Mesh:D021441,"['Pancreatic Ductal Carcinoma','Pancreatic Duct Cell Carcinoma','Duct-Cell Carcinoma, Pancreas','Duct-Cell Carcinoma of the Pancreas','Carcinoma, Pancreatic Ductal','Carcinoma, Ductal, Pancreatic','Ductal Carcinoma of the Pancreas']"
+Mesh:D024343,"['Open Bite','Nonocclusion','Openbite','Apertognathia']"
+Mesh:D041741,"['Lower Gastrointestinal Tract','Lower GI Tract']"
+Mesh:D041742,"['Upper Gastrointestinal Tract','Upper GI Tract']"
+Mesh:D041882,"['Emphysematous Cholecystitis','Cholecystitis, Emphysematous']"
+Mesh:D041981,"['Digestive Tract','GI Tract','Gastrointestinal Tract']"
+Mesh:D042101,"['Acalculous Gallbladder Inflammation','Cholecystitis, Acalculous','Acalculous Cholecystitis','Gallbladder Inflammation, Acalculous']"
+Mesh:D042882,"['Common Bile Duct Gall Stones','Gall Stones','Biliary Calculi, Common Bile Duct','Gallstones, Common Bile Duct','Gallstones','Common Bile Duct Calculi','Gall Stone','Gall Stones, Common Bile Duct','Common Bile Duct Gallstones','Biliary Calculi']"
+Mesh:D042883,"['Choledocholithiasis','Cholelithiasis, Common Bile Duct']"
+Mesh:D043183,"['Colitis, Mucous','Colon, Irritable','Irritable Bowel Syndrome']"
+Mesh:D043963,"['Colonic Diverticulosis','Diverticulosis, Colonic']"
+Mesh:D044483,"['Cronkhite-Canada Syndrome','Polyposis, Skin Pigmentation, Alopecia, And Fingernail Changes','Intestinal Polyposis']"
+Mesh:D044504,"['Neutropenic Enterocolitis','Enterocolitis, Neutropenic','Ileocecal Syndrome']"
+Mesh:D044682,"['Colon, Ascending','Right Colic Flexure','Hepatic Flexure','Ascending Colon']"
+Mesh:D044683,"['Colon, Descending','Descending Colon']"
+Mesh:D044684,"['Colon, Transverse','Left Colic Flexure','Transverse Colon','Splenic Flexure']"
+Mesh:D044903,"['Hyperinsulinemic Hypoglycemia, Familial, 2','Congenital Hyperinsulinism','Neonatal Hyperinsulinism','Hypoglycemia, Hyperinsulinemic, of Infancy','Hyperinsulinism, Familial','Familial Hyperinsulinemic Hypoglycemia 1','Hyperinsulinemic Hypoglycemia, Familial, 1','Familial Hyperinsulinism','PHHI Hypoglycemia','Hyperinsulinism, Congenital','Persistent Hyperinsulinemic Hypoglycemia','Hyperinsulinemia Hypoglycemia of Infancy','Persistent Hyperinsulinemia Hypoglycemia of Infancy','Infancy Hyperinsulinemia Hypoglycemia','Hyperinsulinemic Hypoglycemia, Persistent','Hyperinsulinemic Hypoglycemia Due to Focal Adenomatous Hyperplasia','Hyperinsulinism, Neonatal']"
+Mesh:D045602,['Steatorrhea']
+Mesh:D045724,"['Diverticulosis, Stomach','Diverticulosis, Gastric','Stomach Diverticulosis','Gastric Diverticulosis']"
+Mesh:D045822,"['Volvulus, Intestine','Volvulus','Intestinal Volvulus']"
+Mesh:D045823,['Ileus']
+Mesh:D046152,"['Gastrointestinal Stromal Sarcoma','Gastrointestinal Stromal Neoplasms','Gastrointestinal Stromal Tumors','Gastrointestinal Stromal Neoplasm','Gastrointestinal Stromal Tumor']"
+Mesh:D046248,"['Stenosis, Hypertrophic Pyloric','Idiopathic Hypertrophic Pyloric Stenosis','Infantile Hypertrophic Pyloric Stenosis','Pyloric Stenosis, Hypertrophic','Hypertrophic Pyloric Stenosis','Primary Hypertrophic Pyloric Stenosis']"
+Mesh:D046290,"['Liver Abscess, Pyogenic','Pyogenic Liver Abscess','Pyogenic Hepatic Abscess']"
+Mesh:D046349,"['Coproporphyrinogen Oxidase Deficiency','Coproporphyria, Hereditary','Hereditary Coproporphyria']"
+Mesh:D046350,"['Variegate Porphyria','Porphyria Variegata','Ppox Deficiency','Porphyria Variegate','Protoporphyrinogen Oxidase Deficiency','Porphyria, Variegate']"
+Mesh:D046351,"['Protoporphyria, Erythropoietic','Ferrochelatase Deficiency','Heme Synthetase Deficiency','Erythrohepatic Protoporphyria','Erythropoietic Protoporphyria']"
+Mesh:D046628,"['Sphincter of Oddi Dyskinesia','Sphincter of Oddi Dysfunction','Sphincter of Oddi Stenosis']"
+Mesh:D046768,"['Nesidioblastosis of Pancreas','Hyperinsulinism, Familial, with Pancreatic Nesidioblastosis','Pancreatic Nesidioblastosis','Nesidioblastosis']"
+Mesh:D046790,"['Exocrine Pancreas','Pancreas, Exocrine']"
+Mesh:D047508,"['Acute Yellow Atrophy of Liver','Acute Yellow Atrophy','Massive Hepatic Necrosis']"
+Mesh:D048550,"['Liver Insufficiency','Hepatic Insufficiency']"
+Mesh:D049630,"['Lower Esophageal Sphincter','Esophageal Sphincter, Lower']"
+Mesh:D049631,"['Esophageal Sphincter, Upper','Upper Esophageal Sphincter']"
+Mesh:D050416,"['alpha Cells, Pancreatic','Pancreatic alpha Cells','Glucagon-Secreting Cells','Pancreatic A Cells']"
+Mesh:D050417,"['Pancreatic B Cells','Insulin-Secreting Cells','beta Cells, Pancreatic','Pancreatic beta Cells']"
+Mesh:D050418,"['Pancreatic Polypeptide Cells','Pancreatic Polypeptide-Secreting Cells','PP Cells, Pancreatic']"
+Mesh:D053706,"['Typhlitis','Cecitis','Neutropenic Typhlitis']"
+Mesh:D054243,"['Vesicular Stomatitis','Stomatitis, Vesicular']"
+Mesh:D054838,"['von Ebner's Gland','von Ebner Glands','von Ebner's Glands']"
+Mesh:D055093,"['Periodontal Atrophy','Gingivo-Osseous Atrophy','Atrophy of Periodontium']"
+Mesh:D055113,"['Periodontitis, Chronic','Adult Periodontitis','Chronic Periodontitis','Periodontitis, Adult']"
+Mesh:D055589,"['Pancreatitis, Graft','Graft Pancreatitis']"
+Mesh:D056486,"['Toxic Hepatitis','Chemically-Induced Liver Toxicity','Chemical and Drug Induced Liver Injury','Hepatitis, Drug-Induced','Liver Injury, Drug-Induced','Drug-Induced Liver Disease','Acute Liver Injury, Drug-Induced','Liver Injury, Drug-Induced, Acute','Drug-Induced Liver Injury','Drug-Induced Acute Liver Injury','Hepatitis, Toxic']"
+Mesh:D056487,"['Drug-Induced Liver Injury, Chronic','Chemically-Induced Liver Injury, Chronic','Hepatitis, Chronic, Drug-Related','Hepatitis, Chronic, Drug-Induced','Chemical and Drug Induced Liver Injury, Chronic','Liver Injury, Drug-Induced, Chronic','Chemical-Induced Liver Injury, Chronic','Chronic Drug-Induced Liver Injury']"
+Mesh:D056627,"['Peritoneal Fibrosis','Encapsulating Peritoneal Sclerosis','Peritoneal Fibrosing Syndrome','Peritoneal Sclerosis']"
+Mesh:D057045,"['Supraesophageal Gastric Reflux','Regurgitation, Gastric','Laryngopharyngeal Reflux','Supraesophageal Gastric Reflux (SEGR)']"
+Mesh:D057085,"['Dental Wear','Tooth Wear']"
+Mesh:D057765,"['Esophagitis, Eosinophilic','Chronic Esophagitis, Eosinophilic','Eosinophilic Esophagitis']"
+Mesh:D057792,"['Mirizzi Syndrome','Mirizzi's Syndrome']"
+Mesh:D057831,"['Lemierre Disease','Lemierre's Syndrome','Postanginal Sepsis','Lemierre's Disease','Lemierre Syndrome']"
+Mesh:D057873,"['Periimplantitis','Peri-Implantitis']"
+Mesh:D057887,"['Overbite','Deep-Bite','Overjet, Dental','Deep Bite','Incisor Protrusion','Over Bite']"
+Mesh:D058625,"['Liver Failure, Chronic','Chronic Liver Failure','End Stage Liver Disease']"
+Mesh:D059266,"['Osteonecrosis of the Jaw, Bisphosphonate-Induced','Osteonecrosis of the Jaw, Bisphosphonate-Related','Bisphosphonate Osteonecrosis','Bisphosphonate-Associated Osteonecrosis','Bisphosphonate-Related Osteonecrosis of the Jaw','Osteonecrosis of the Jaws, Bisphosphonate-Induced','Bisphosphonate-Induced Osteonecrosis of the Jaws','Osteonecrosis of the Jaw, Bisphosphonate-Associated','Osteonecrosis of the Jaws, Bisphosphonate-Associated','Bisphosphonate-Induced Osteonecrosis of the Jaw','Osteonecrosis of the Jaws, Bisphosphonate-Related','Bisphosphonate-Associated Osteonecrosis of the Jaw','Bisphosphonate-Associated Osteonecrosis of the Jaws']"
+Mesh:D059269,"['Chilaiditi Syndrome','Chilaiditi Anomaly','Chilaiditi's Anomaly','Chilaiditi's Syndrome']"
+Mesh:D061221,"['Injury, Cranial Nerve V','Fifth Cranial Nerve Injuries','Fifth Cranial Nerve Injury','Fifth-Nerve Trauma','Trigeminal Neuropathy, Traumatic','Trigeminal Nerve Transection','Trigeminal Nerve Trauma','Trigeminal Nerve Avulsion','Trigeminal Nerve Contusion','Injury, Fifth Cranial Nerve','Trigeminal Nerve Injuries','Traumatic Fifth-Nerve Palsy','Trigeminal Nerve Injury','Fifth-Nerve Palsy, Traumatic','Cranial Nerve V Injury']"
+Mesh:D061222,"['Lingual Neuropathy, Traumatic','Lingual Nerve Injury','Lingual Nerve Injuries','Lingual Nerve Transection','Lingual Nerve Contusion']"
+Mesh:D063169,"['Dentofacial Abnormalities','Dentofacial Deformities','Dentofacial Dyplasia']"
+Mesh:D063173,"['Mandibular Retrusion','Maxillary Retrusion','Retrognathia','Maxillary Retroposition','Mandibular Retroposition','Retrognathism']"
+Mesh:D063466,['Respiratory Aspiration of Gastric Contents']
+Mesh:D064068,['Collagenous Sprue']
+Mesh:D065290,"['Acute-On-Chronic Liver Failure','Liver Failure, Acute-On-Chronic','Acute-On-Chronic Liver Failure (ACLF)']"
+Mesh:D065626,"['Nonalcoholic Fatty Liver Disease','Non-alcoholic Fatty Liver Disease','NAFLD','Fatty Liver, Nonalcoholic','Nonalcoholic Steatohepatitis']"
+Mesh:D065666,"['Mesenteric Venous Thrombosis','Nonocclusive Mesenteric Ischemia','Occlusive Mesenteric Arterial Ischemia','Mesenteric Vascular Insufficiency','Acute Mesenteric Arterial Thrombosis','Acute Mesenteric Arterial Embolus','Mesenteric Ischemia']"
+Mesh:D065710,['Glossoptosis']
+BlockL1-DA0,['Diseases or disorders of orofacial complex']
+DA00,['Disorders of lips']
+DA00.1,['Self-induced lip trauma']
+DA00.2,['Pigmentary abnormalities of lips']
+DA00.3,['Lip fissure']
+DA00.Y,['Other specified disorders of lips']
+DA01,['Disorders of oral mucosa']
+DA01.0,['Disturbances of oral epithelium']
+DA01.00,['Leukoplakia']
+DA01.01,['Hairy leukoplakia']
+DA01.02,['Wandering rash of the mouth']
+DA01.0Y,['Other specified disturbances of oral epithelium']
+DA01.1,['Noninfectious erosive or ulcerative disorders of oral mucosa']
+DA01.10,['Oral aphthae or aphtha-like ulceration']
+DA01.11,['Oral mucositis']
+DA01.12,['Chronic ulcerative stomatitis']
+DA01.13,['Erythema multiforme with oral ulceration']
+DA01.14,['Drug-induced oral ulcer']
+DA01.15,['Mouth ulcers']
+DA01.1Y,['Other specified noninfectious erosive or ulcerative disorders of oral mucosa']
+DA01.2,['Granuloma or granuloma-like lesions of oral mucosa']
+DA01.20,"['Giant cell granuloma, central']"
+DA01.2Y,['Other specified granuloma or granuloma-like lesions of oral mucosa']
+DA01.3,['Infections of lips or oral mucosa']
+DA01.30,['Cellulitis or abscess of soft tissues of the mouth']
+DA01.3Y,['Other specified infections of lips or oral mucosa']
+DA01.4,['Irritative hyperplasia of oral mucosa']
+DA01.40,['Papillary hyperplasia of oral mucosa']
+DA01.41,['Denture hyperplasia']
+DA01.42,['Oral fibroepithelial polyp']
+DA01.4Z,"['Irritative hyperplasia of oral mucosa, unspecified']"
+DA01.Y,['Other specified disorders of oral mucosa']
+DA02,['Miscellaneous specified disorders of lips or oral mucosa']
+DA02.0,['Genetic or developmental disorders involving lips or oral mucosa']
+DA02.1,['Xerostomia']
+DA02.3,['Contact gingivostomatitis']
+DA02.30,['Allergic contact gingivostomatitis']
+DA02.31,['Irritant contact gingivostomatitis']
+DA03.1,['Geographic tongue']
+DA03.2,['Atrophy of tongue papillae']
+DA03.3,['Median rhomboid glossitis']
+DA03.4,['Hypertrophy of tongue papillae']
+DA03.Y,['Other specified diseases of tongue']
+DA04.0,['Atrophy of salivary gland']
+DA04.1,['Hypertrophy of salivary gland']
+DA04.2,['Sialoadenitis']
+DA04.3,['Abscess of salivary gland']
+DA04.4,['Sialolithiasis']
+DA04.5,['Mucocele of salivary gland']
+DA04.6,['Disturbances of salivary secretion']
+DA04.7,['Sialophagia']
+DA04.8,['Sialoschesis']
+DA04.Y,['Other specified diseases of salivary glands']
+DA04.Z,"['Diseases of salivary glands, unspecified']"
+DA05,['Cysts of oral or facial-neck region']
+DA05.0,['Developmental odontogenic cysts']
+DA05.1,['Developmental nonodontogenic cysts of oral region']
+DA05.Y,['Other specified cysts of oral or facial-neck region']
+DA05.Z,"['Cysts of oral or facial-neck region, unspecified']"
+DA06,['Certain specified diseases of jaws']
+DA06.0,['Inflammatory conditions of jaws']
+DA06.1,['Alveolitis of jaw']
+DA06.2,['Exostosis of jaw']
+DA06.3,['Stafne mandibular bone cavity']
+DA07,['Disorders of tooth development or eruption']
+DA07.0,['Fluoride related opacities or lesions']
+DA07.1,['Nonfluoride enamel opacities']
+DA07.2,['Enamel hypoplasia']
+DA07.3,['Disturbances in tooth formation']
+DA07.4,['Root anomaly']
+DA07.5,['Cementum dysplasia']
+DA07.6,['Disturbances in tooth eruption']
+DA07.60,['Teething syndrome']
+DA07.61,['Ankylosis of teeth']
+DA07.6Y,['Other specified disturbances in tooth eruption']
+DA07.6Z,"['Disturbances in tooth eruption, unspecified']"
+DA07.7,['Embedded teeth']
+DA07.8,['Impacted teeth']
+DA07.Y,['Other specified disorders of tooth development or eruption']
+DA07.Z,"['Disorders of tooth development or eruption, unspecified']"
+DA08.0,['Dental caries']
+DA08.1,['Certain specified diseases of hard tissues of teeth']
+DA08.10,['Excessive attrition of teeth']
+DA08.11,['Abrasion of teeth']
+DA08.12,['Erosion of teeth']
+DA08.13,['Abfraction']
+DA08.14,['Pathological resorption of teeth']
+DA08.15,['Posteruptive colour changes of dental hard tissues']
+DA08.2,['Chronic dental injuries']
+DA08.3,['Nontraumatic fracture of tooth']
+DA08.4,['Deposits on teeth']
+DA08.Y,['Other specified diseases of hard tissues of teeth']
+DA08.Z,"['Diseases of hard tissues of teeth, unspecified']"
+DA09,['Diseases of pulp or periapical tissues']
+DA09.1,['Necrosis of pulp']
+DA09.2,['Pulp abscess']
+DA09.3,['Phoenix abscess']
+DA09.5,['Abnormal hard tissue formation in pulp']
+DA09.6,['Periapical abscess']
+DA09.60,['Periapical abscess with facial involvement']
+DA09.61,['Periapical abscess with sinus']
+DA09.62,['Periapical abscess without sinus']
+DA09.6Y,['Other specified periapical abscess']
+DA09.6Z,"['Periapical abscess, unspecified']"
+DA09.7,['Periapical periodontitis']
+DA09.70,['Acute apical periodontitis of pulpal origin']
+DA09.71,['Chronic apical periodontitis']
+DA09.7Y,['Other specified periapical periodontitis']
+DA09.7Z,"['Periapical periodontitis, unspecified']"
+DA09.8,['Radicular cyst']
+DA09.Y,['Other specified diseases of pulp or periapical tissues']
+DA09.Z,"['Diseases of pulp or periapical tissues, unspecified']"
+DA0A,['Certain specified disorders of teeth or supporting structures']
+DA0A.0,['Exfoliation of teeth due to systemic causes']
+DA0A.1,"['Loss of teeth due to accident, extraction or local periodontal disease']"
+DA0A.2,['Atrophy of edentulous alveolar ridge']
+DA0A.3,['Retained dental root']
+DA0A.Y,['Other specified disorders of teeth and supporting structures']
+DA0A.Z,['Unspecified disorders of teeth and supporting structures']
+DA0B.0,['Allergic gingivitis']
+DA0B.1,['Catarrhal gingivitis']
+DA0B.2,['Eruptive gingivitis']
+DA0B.3,['Atrophic senile gingivitis']
+DA0B.4,['Acute multiple gingival abscesses']
+DA0B.5,['Developmental or acquired deformities or conditions of gingiva']
+DA0B.Y,['Other specified gingival diseases']
+DA0B.Z,"['Gingival diseases, unspecified']"
+DA0C,['Periodontal disease']
+DA0C.0,['Acute periodontitis']
+DA0C.1,['Aggressive periodontitis']
+DA0C.3,['Necrotising periodontal diseases']
+DA0C.30,['Necrotising ulcerative periodontitis']
+DA0C.31,['Noma']
+DA0C.3Y,['Other specified necrotising periodontal diseases']
+DA0C.3Z,"['Necrotising periodontal diseases, unspecified']"
+DA0C.4,['Abscess of periodontium']
+DA0C.5,['Linear gingival erythema']
+DA0C.Y,['Other specified periodontal disease']
+DA0C.Z,"['Periodontal disease, unspecified']"
+DA0D,['Certain specified disorders of gingival or edentulous alveolar ridge']
+DA0D.0,['Gingival recession']
+DA0D.1,['Gingival enlargement']
+DA0D.2,['Gingival or edentulous alveolar ridge lesions associated with trauma']
+DA0D.3,['Hypoplasminogenaemia']
+DA0D.4,['Cotton-roll gingivitis']
+DA0D.5,['Gingival ulceration']
+DA0D.Y,['Other specified disorders of gingival or edentulous alveolar ridge']
+DA0E,['Dentofacial anomalies']
+DA0E.0,['Major anomalies of jaw size']
+DA0E.00,['Micrognathia']
+DA0E.0Y,['Other specified major anomalies of jaw size']
+DA0E.0Z,"['Major anomalies of jaw size, unspecified']"
+DA0E.1,['Anomalies of jaw-cranial base relationship']
+DA0E.2,['Anomalies of dental arch relationship']
+DA0E.3,['Anomalies of tooth position']
+DA0E.4,['Food impaction']
+DA0E.5,['Malocclusion']
+DA0E.50,['Class II division 2 malocclusion']
+DA0E.5Y,['Other specified malocclusion']
+DA0E.5Z,"['Malocclusion, unspecified']"
+DA0E.6,['Dentofacial functional abnormalities']
+DA0E.7,['Dentofacial parafunctional disorders']
+DA0E.8,['Temporomandibular joint disorders']
+DA0E.Y,['Other specified dentofacial anomalies']
+DA0E.Z,"['Dentofacial anomalies, unspecified']"
+DA0F,['Sensory disturbances affecting orofacial complex']
+DA0F.Y,['Other specified sensory disturbances affecting orofacial complex']
+DA0F.Z,"['Sensory disturbances affecting orofacial complex, unspecified']"
+DA0Y,['Other specified diseases or disorders of orofacial complex']
+DA0Z,"['Diseases or disorders of orofacial complex, unspecified']"
+BlockL1-DA2,['Diseases of oesophagus']
+DA20,['Acquired anatomical alterations of the oesophagus']
+DA20.0,['Oesophageal obstruction']
+DA20.1,"['Diverticulum of oesophagus, acquired']"
+DA20.2,['Oesophageal web']
+DA20.3,['Perforation of oesophagus']
+DA20.30,['Spontaneous rupture of oesophagus']
+DA20.3Y,['Other specified perforation of oesophagus']
+DA20.3Z,"['Perforation of oesophagus, unspecified']"
+DA20.Y,['Other specified acquired anatomical alterations of the oesophagus']
+DA20.Z,"['Acquired anatomical alterations of the oesophagus, unspecified']"
+DA21,['Motility disorders of oesophagus']
+DA21.0,['Achalasia']
+DA21.1,['Motility disorder of cervical or upper oesophagus']
+DA21.2,['Disorder of oesophageal peristalsis']
+DA21.20,['Hypertensive peristalsis']
+DA21.21,['Hypotensive peristalsis']
+DA21.22,['Spastic peristalsis']
+DA21.2Y,['Other specified disorder of oesophageal peristalsis']
+DA21.2Z,"['Disorder of oesophageal peristalsis, unspecified']"
+DA21.3,['Disorder of lower oesophageal sphincter function']
+DA21.Y,['Other specified motility disorders of oesophagus']
+DA21.Z,"['Motility disorders of oesophagus, unspecified']"
+DA22,['Gastro-oesophageal reflux disease']
+DA22.0,['Non-erosive gastro-oesophageal reflux disease']
+DA22.1,['Erosive gastro-oesophageal reflux disease']
+DA22.Z,"['Gastro-oesophageal reflux disease, unspecified']"
+DA23,['Columnar metaplastic epithelium of the oesophagus']
+DA23.0,['Barrett epithelium']
+DA23.1,['Dysplasia of Barrett epithelium']
+DA23.2,['Barrett ulcer']
+DA23.Y,['Other specified columnar metaplastic epithelium of the oesophagus']
+DA23.Z,"['Columnar metaplastic epithelium of the oesophagus, unspecified']"
+DA24,['Oesophagitis']
+DA24.0,['Infectious oesophagitis']
+DA24.00,['Oesophageal phlegmon']
+DA24.0Y,['Other specified infectious oesophagitis']
+DA24.0Z,"['Infectious oesophagitis, unspecified']"
+DA24.1,['Eosinophilic oesophagitis']
+DA24.2,['Oesophagitis due to external causes']
+DA24.20,['Chemical oesophagitis']
+DA24.21,['Drug-induced oesophagitis']
+DA24.22,['Radiation oesophagitis']
+DA24.2Z,"['Oesophagitis due to external causes, unspecified']"
+DA24.Y,['Other specified oesophagitis']
+DA24.Z,"['Oesophagitis, unspecified']"
+DA25,['Oesophageal ulcer']
+DA25.0,['Oesophageal erosion']
+DA25.1,['Infectious oesophageal ulcer']
+DA25.10,['Bacterial oesophageal ulcer']
+DA25.11,['Fungal oesophageal ulcer']
+DA25.12,['Parasitic oesophageal ulcer']
+DA25.13,['Viral oesophageal ulcer']
+DA25.1Y,['Other specified infectious oesophageal ulcer']
+DA25.1Z,"['Infectious oesophageal ulcer, unspecified']"
+DA25.2,['Oesophageal ulcer due to allergic or immunologic disorder']
+DA25.3,['Oesophageal ulcer due to external causes']
+DA25.30,['Chemical oesophageal ulcer']
+DA25.31,['Drug-induced oesophageal ulcer']
+DA25.32,['Radiation oesophageal ulcer']
+DA25.3Y,['Other specified oesophageal ulcer due to external causes']
+DA25.3Z,"['Oesophageal ulcer due to external causes, unspecified']"
+DA25.Y,['Other specified oesophageal ulcer']
+DA25.Z,"['Oesophageal ulcer, unspecified']"
+DA26,['Vascular disorders of the oesophagus']
+DA26.0,['Oesophageal varices']
+DA26.00,['Oesophageal varices with bleeding']
+DA26.01,['Oesophageal varices without bleeding']
+DA26.0Z,"['Oesophageal varices, unspecified']"
+DA26.1,['Angiodysplasia or arteriovenous malformation of oesophagus']
+DA26.2,['Intramural haemorrhage of oesophagus']
+DA26.3,['Gastro-oesophageal laceration-haemorrhage syndrome']
+DA26.Y,['Other specified vascular disorders of the oesophagus']
+DA26.Z,"['Vascular disorders of the oesophagus, unspecified']"
+DA2Y,['Other specified diseases of oesophagus']
+DA2Z,"['Diseases of oesophagus, unspecified']"
+BlockL1-DA4,['Diseases of the stomach or the duodenum']
+BlockL2-DA4,['Diseases of stomach']
+DA40,['Acquired anatomical alterations of the stomach']
+DA40.1,"['Gastric fistula, acquired']"
+DA40.2,['Gastric volvulus']
+DA40.3,['Gastric diverticulum']
+DA40.4,['Hourglass stricture and stenosis of stomach']
+DA40.5,['Gastroptosis']
+DA40.Y,['Other specified acquired anatomical alterations of the stomach']
+DA40.Z,"['Acquired anatomical alterations of the stomach, unspecified']"
+DA41,['Gastroduodenal motor or secretory disorders']
+DA41.0,['Abnormal gastric motility']
+DA41.00,['Gastroparesis']
+DA41.0Y,['Other specified abnormal gastric motility']
+DA41.0Z,"['Abnormal gastric motility, unspecified']"
+DA41.1,['Acute dilatation of stomach']
+DA41.2,['Acid hypersecretion']
+DA41.3,['Achlorhydria']
+DA41.Y,['Other specified gastroduodenal motor or secretory disorders']
+DA41.Z,"['Gastroduodenal motor or secretory disorders, unspecified']"
+DA42.0,['Autoimmune gastritis']
+DA42.1,['Helicobacter pylori induced gastritis']
+DA42.4,['Allergic gastritis']
+DA42.40,['Allergic gastritis due to IgE-mediated hypersensitivity']
+DA42.41,['Allergic gastritis due to non-IgE-mediated hypersensitivity']
+DA42.4Y,['Other specified allergic gastritis']
+DA42.4Z,"['Allergic gastritis, unspecified']"
+DA42.5,['Gastritis due to duodenogastric reflux']
+DA42.6,['Menetrier disease']
+DA42.7,['Gastritis of unknown etiology with specific endoscopic or pathological features']
+DA42.70,['Acute superficial gastritis of unknown aetiology']
+DA42.71,['Chronic superficial gastritis of unknown aetiology']
+DA42.72,['Acute haemorrhagic gastritis of unknown aetiology']
+DA42.73,['Chronic atrophic gastritis of unknown aetiology']
+DA42.74,['Metaplastic gastritis of unknown aetiology']
+DA42.75,['Granulomatous gastritis of unknown aetiology']
+DA42.76,['Hypertrophic gastritis of unknown aetiology']
+DA42.7Y,['Other specified gastritis of unknown etiology with specific endoscopic or pathological features']
+DA42.8,['Gastritis due to external causes']
+DA42.80,['Alcoholic gastritis']
+DA42.81,['Radiation gastritis']
+DA42.82,['Chemical gastritis']
+DA42.83,['Drug-induced gastritis']
+DA42.8Z,"['Gastritis due to external causes, unspecified']"
+DA42.9,['Gastric phlegmon']
+DA42.Y,['Other specified gastritis']
+DA42.Z,"['Gastritis, unspecified']"
+DA43,['Vascular disorders of the stomach']
+DA43.0,['Gastric varices']
+DA43.1,['Angiodysplasia of stomach']
+DA43.2,['Arteriovenous malformation of stomach']
+DA43.3,['Portal hypertensive gastropathy']
+DA43.4,['Diffuse vascular ectasia of stomach']
+DA43.Y,['Other specified vascular disorders of the stomach']
+DA43.Z,"['Vascular disorders of the stomach, unspecified']"
+DA44,['Gastric polyp']
+DA44.0,['Hyperplastic polyp of stomach']
+DA44.1,['Fundic gland polyp of stomach']
+DA44.2,['Hamartomatous polyp of stomach']
+DA44.Y,['Other specified gastric polyp']
+DA44.Z,"['Gastric polyp, unspecified']"
+DA4Y,['Other specified diseases of stomach']
+BlockL2-DA5,['Diseases of duodenum']
+DA50,['Acquired anatomical alterations of the duodenum']
+DA50.0,['Obstruction of duodenum']
+DA50.1,['Diverticulum of duodenum']
+DA50.2,['Fistula of duodenum']
+DA50.3,"['Deformity of duodenum, acquired']"
+DA50.Y,['Other specified acquired anatomical alterations of the duodenum']
+DA50.Z,"['Acquired anatomical alterations of the duodenum, unspecified']"
+DA51,['Duodenitis']
+DA51.0,['Helicobacter-pylori associated duodenitis']
+DA51.1,['Eosinophilic duodenitis']
+DA51.2,['Lymphocytic duodenitis']
+DA51.3,['Allergic duodenitis']
+DA51.4,['Duodenitis of unknown aetiology with specific endoscopic or pathologic features']
+DA51.40,['Acute haemorrhagic duodenitis of unknown aetiology']
+DA51.41,['Granulomatous duodenitis of unknown aetiology']
+DA51.4Z,"['Duodenitis of unknown aetiology with specific endoscopic or pathologic features, unspecified']"
+DA51.5,['Duodenitis due to external causes']
+DA51.50,['Alcoholic duodenitis']
+DA51.51,['Drug-induced duodenitis']
+DA51.52,['Chemical duodenitis']
+DA51.53,['Radiation duodenitis']
+DA51.5Y,['Other specified duodenitis due to external causes']
+DA51.5Z,"['Duodenitis due to external causes, unspecified']"
+DA51.6,['Infectious duodenitis']
+DA51.60,['Duodenal phlegmon']
+DA51.6Y,['Other specified infectious duodenitis']
+DA51.6Z,"['Infectious duodenitis, unspecified']"
+DA51.Y,['Other specified duodenitis']
+DA51.Z,"['Duodenitis, unspecified']"
+DA52,['Vascular disorders of the duodenum']
+DA52.0,['Duodenal varices']
+DA52.1,['Angiodysplasia of duodenum']
+DA52.2,['Arteriovenous malformation of duodenum']
+DA52.Y,['Other specified vascular disorders of the duodenum']
+DA52.Z,"['Vascular disorders of the duodenum, unspecified']"
+DA53,['Duodenal polyp']
+DA53.0,['Hyperplastic duodenal polyp']
+DA53.Y,['Other specified duodenal polyp']
+DA53.Z,"['Duodenal polyp, unspecified']"
+DA5Y,['Other specified diseases of duodenum']
+BlockL2-DA6,['Ulcer of stomach or duodenum']
+DA60,['Gastric ulcer']
+DA60.0,['Gastric erosion']
+DA60.1,['Helicobacter pylori associated gastric ulcer']
+DA60.2,['Helicobacter pylori associated and drug-induced gastric ulcer']
+DA60.3,['Stress ulcer of stomach']
+DA60.4,['Eosinophilic gastric ulcer']
+DA60.5,['Lymphocytic gastric ulcer']
+DA60.6,['Gastric ulcer due to external causes']
+DA60.60,['Alcohol-induced gastric ulcer']
+DA60.61,['Chemical gastric ulcer']
+DA60.62,['Drug-induced gastric ulcer']
+DA60.63,['Radiation gastric ulcer']
+DA60.6Y,['Other specified gastric ulcer due to external causes']
+DA60.6Z,"['Gastric ulcer due to external causes, unspecified']"
+DA60.7,['Infectious secondary gastric ulcer']
+DA60.Y,['Other specified gastric ulcer']
+DA60.Z,"['Gastric ulcer, unspecified']"
+DA61,"['Peptic ulcer, site unspecified']"
+DA62,['Anastomotic ulcer']
+DA62.0,['Anastomotic erosion']
+DA62.1,['Helicobacter pylori associated anastomotic ulcer']
+DA62.2,['Drug-induced anastomotic ulcer']
+DA62.3,['Peptic anastomotic ulcer']
+DA62.Y,['Other specified anastomotic ulcer']
+DA62.Z,"['Anastomotic ulcer, unspecified']"
+DA63,['Duodenal ulcer']
+DA63.1,['Helicobacter-pylori associated duodenal ulcer']
+DA63.2,['Helicobacter-pylori associated and drug-induced duodenal ulcer']
+DA63.3,['Stress ulcer of duodenum']
+DA63.4,['Eosinophilic duodenal ulcer']
+DA63.5,['Duodenal ulcer due to external causes']
+DA63.50,['Drug-induced duodenal ulcer']
+DA63.51,['Radiation duodenal ulcer']
+DA63.52,['Chemical duodenal ulcer']
+DA63.5Y,['Duodenal ulcer due to other specified external causes']
+DA63.5Z,"['Duodenal ulcer due to external causes, unspecified']"
+DA63.6,['Infectious duodenal ulcer']
+DA63.60,['Bacterial duodenal ulcer']
+DA63.61,['Viral duodenal ulcer']
+DA63.62,['Fungal duodenal ulcer']
+DA63.6Z,"['Infectious duodenal ulcer, unspecified']"
+DA63.Y,['Other specified duodenal ulcer']
+DA63.Z,"['Duodenal ulcer, unspecified']"
+DA7Y,['Other specified diseases of the stomach or the duodenum']
+DA7Z,"['Diseases of the stomach or the duodenum, unspecified']"
+BlockL1-DA9,['Diseases of small intestine']
+DA90,['Nonstructural developmental anomalies of small intestine']
+DA90.0,['Syndromic diarrhoea']
+DA90.1,['Congenital intestinal transport defect']
+DA90.2,['Congenital intestinal motility disorders']
+DA90.Y,['Other specified nonstructural developmental anomalies of small intestine']
+DA90.Z,"['Nonstructural developmental anomalies of small intestine, unspecified']"
+DA91,['Obstruction of small intestine']
+DA91.0,['Intussusception of small intestine']
+DA91.1,['Volvulus of small intestine']
+DA91.2,['Intestinal adhesions or bands of small intestine with obstruction']
+DA91.3,['Obstructive ileus of small intestine due to impaction']
+DA91.30,['Gallstone ileus of small intestine']
+DA91.31,['Enterolith of small intestine']
+DA91.3Y,['Other specified obstructive ileus of small intestine due to impaction']
+DA91.3Z,"['Obstructive ileus of small intestine due to impaction, unspecified']"
+DA91.Y,['Other specified obstruction of small intestine']
+DA91.Z,"['Obstruction of small intestine, unspecified']"
+DA92,['Other acquired anatomical alterations of small intestine']
+DA92.0,['Fistula of small intestine']
+DA92.1,['Pneumatosis intestinalis of small intestine']
+DA92.Y,['Other specified other acquired anatomical alterations of small intestine']
+DA92.Z,"['Other acquired anatomical alterations of small intestine, unspecified']"
+DA93,['Motility disorders of small intestine']
+DA93.Y,['Other specified motility disorders of small intestine']
+DA93.Z,"['Motility disorders of small intestine, unspecified']"
+DA94,['Noninfectious enteritis or ulcer of small intestine']
+DA94.0,['Primary ulcer of small intestine']
+DA94.00,['Primary nonspecific ulceration of small intestine']
+DA94.01,['Chronic non-specific multiple ulcers of small intestine']
+DA94.02,['Cryptogenic multifocal ulcerous stenosing enteritis']
+DA94.0Y,['Other specified primary ulcer of small intestine']
+DA94.0Z,"['Primary ulcer of small intestine, unspecified']"
+DA94.1,['Drug-induced or toxic enteritis of small intestine']
+DA94.2,['Allergic or dietetic enteritis of small intestine']
+DA94.20,['IgE mediated allergic enteritis of small intestine']
+DA94.21,['Eosinophilic enteritis']
+DA94.22,['Food-protein induced enterocolitis syndrome']
+DA94.2Y,['Other specified allergic or dietetic enteritis of small intestine']
+DA94.2Z,"['Allergic or dietetic enteritis of small intestine, unspecified']"
+DA94.3,['Enteritis or ulcer of small intestine due to other external causes']
+DA94.30,['Enteritis or ulcer of small intestine due to foreign body']
+DA94.31,['Enteritis or ulcer of small intestine due to radiation']
+DA94.32,['Enteritis or ulcer of small intestine due to trauma']
+DA94.3Z,"['Enteritis or ulcer of small intestine due to other external causes, unspecified']"
+DA94.Y,['Other specified noninfectious enteritis or ulcer of small intestine']
+DA94.Z,"['Noninfectious enteritis or ulcer of small intestine, unspecified']"
+DA95,['Coeliac disease']
+DA96,['Intestinal malabsorption or protein-losing enteropathy']
+DA96.0,['Intestinal malabsorption']
+DA96.00,['Bacterial overgrowth syndrome']
+DA96.01,['Tropical sprue']
+DA96.02,['Malabsorption or intolerance of specific nutrients']
+DA96.0Y,['Other specified intestinal malabsorption']
+DA96.0Z,"['Intestinal malabsorption, unspecified']"
+DA96.1,['Protein-losing enteropathy']
+DA96.Y,['Other specified intestinal malabsorption or protein-losing enteropathy']
+DA96.Z,"['Intestinal malabsorption or protein-losing enteropathy, unspecified']"
+DA97,['Certain vascular disorders of small intestine']
+DA97.0,['Angiodysplasia of small intestine']
+DA97.1,['Arteriovenous malformation of small intestine']
+DA97.2,['Vasculitis of mesenteric arteries']
+DA97.3,['Varices of small intestine']
+DA97.Z,"['Certain vascular disorders of small intestine, unspecified']"
+DA98,['Polyps of small intestine']
+DA98.0,['Hamartoma of small intestine']
+DA98.1,['Hyperplastic polyp of small intestine']
+DA98.2,['Inflammatory fibroid polyp of small intestine']
+DA98.3,['Lymphoid hyperplasia of small intestine']
+DA98.Y,['Other specified polyps of small intestine']
+DA98.Z,"['Polyps of small intestine, unspecified']"
+DA9Y,['Other specified diseases of small intestine']
+DA9Z,"['Diseases of small intestine, unspecified']"
+DB10,['Appendicitis']
+DB10.0,['Acute appendicitis']
+DB10.00,['Acute appendicitis with generalised peritonitis']
+DB10.01,['Acute appendicitis with localised peritonitis']
+DB10.02,['Acute appendicitis without localised or generalised peritonitis']
+DB10.1,['Chronic appendicitis']
+DB10.Y,['Other specified appendicitis']
+DB10.Z,"['Appendicitis, unspecified']"
+DB11,['Certain specified diseases of appendix']
+DB11.0,['Megaloappendix']
+DB11.1,['Hyperplasia of appendix']
+DB11.2,['Appendicular concretions']
+DB11.3,"['Diverticulum of appendix, acquired']"
+DB11.4,['Fistula of appendix']
+DB11.5,['Intussusception of appendix']
+DB11.6,['Mucocele of appendix']
+DB11.7,['Appendicular abscess']
+DB1Z,"['Diseases of appendix, unspecified']"
+BlockL1-DB3,['Diseases of large intestine']
+DB30,['Obstruction of large intestine']
+DB30.0,['Intussusception of the large intestine']
+DB30.1,['Volvulus of large intestine']
+DB30.2,['Adhesions of large intestine with obstruction']
+DB30.3,['Impaction of large intestine']
+DB30.4,['Stenosis of the rectum']
+DB30.Y,['Other specified obstruction of large intestine']
+DB30.Z,"['Obstruction of large intestine, unspecified']"
+DB31,['Other acquired anatomical alterations of large intestine']
+DB31.0,['Fistula of large intestine']
+DB31.1,['Pneumatosis intestinalis of large intestine']
+DB31.2,['Rectal prolapse']
+DB31.Y,['Other specified other acquired anatomical alterations of large intestine']
+DB31.Z,"['Other acquired anatomical alterations of large intestine, unspecified']"
+DB32,['Motility disorders of large intestine']
+DB32.0,['Pseudo-obstruction of colon']
+DB32.1,['Slow transit constipation']
+DB32.2Y,['Other specified megacolon']
+DB32.2Z,"['Megacolon, unspecified']"
+DB32.3,['Acquired hypoganglionosis of large intestine']
+DB32.Y,['Other specified motility disorders of large intestine']
+DB32.Z,"['Motility disorders of large intestine, unspecified']"
+DB33,['Certain noninfectious colitis or proctitis']
+DB33.0,['Primary ulcer of colon']
+DB33.1Y,['Other specified microscopic colitis']
+DB33.1Z,"['Microscopic colitis, unspecified']"
+DB33.2,['Allergic or dietetic colitis']
+DB33.20,['Food protein-induced proctitis or colitis of infants']
+DB33.2Y,['Other specified allergic or dietetic colitis']
+DB33.2Z,"['Allergic or dietetic colitis, unspecified']"
+DB33.4,['Colitis or proctitis due to external causes']
+DB33.40,['Chemical colitis or proctitis']
+DB33.41,['Radiation-induced colitis']
+DB33.42,['Radiation proctitis']
+DB33.43,['Drug-induced colitis']
+DB33.4Y,['Other specified colitis or proctitis due to external causes']
+DB33.4Z,"['Colitis or proctitis due to external causes, unspecified']"
+DB33.Y,['Other specified noninfectious colitis or proctitis']
+DB33.Z,"['Certain noninfectious colitis or proctitis, unspecified']"
+DB34,['Certain vascular disorders of large intestine']
+DB34.0,['Angiodysplasia of colon']
+DB34.1,['Arteriovenous malformation of large intestine']
+DB34.2,['Vasculitis of large intestine']
+DB34.3,['Varices of large intestine']
+DB34.4,['Acute haemorrhagic rectal ulcer']
+DB34.Y,['Other specified vascular disorders of large intestine']
+DB34.Z,"['Vascular disorders of large intestine, unspecified']"
+DB35,['Polyp of large intestine']
+DB35.0,['Hyperplastic polyp of large intestine']
+DB35.1,['Inflammatory polyp of large intestine']
+DB35.2,['Benign lymphoid polyp of large intestine']
+DB35.3,['Hamartomatous polyp']
+DB35.4,['Inflammatory fibroid polyp of large intestine']
+DB35.Y,['Other specified polyp of large intestine']
+DB35.Z,"['Polyp of large intestine, unspecified']"
+DB36,['Certain infections of the large intestine']
+DB36.0,['Colonic abscess']
+DB36.1,['Rectal abscess']
+DB36.10,['Perirectal abscess']
+DB36.11,['Ischiorectal abscess']
+DB36.12,['Rectal cellulitis']
+DB36.Y,['Other specified infections of the large intestine']
+DB36.Z,"['Certain infections of the large intestine, unspecified']"
+DB3Y,['Other specified diseases of large intestine']
+DB3Z,"['Diseases of large intestine, unspecified']"
+BlockL1-DB5,['Diseases of anal canal']
+BlockL2-DB5,['Acquired anatomical alterations of the anal canal']
+DB50,['Fissure or fistula of anal regions']
+DB50.0,['Anal fissure']
+DB50.2,['Anorectal fistula']
+DB50.Y,['Other specified fissure or fistula of anal regions']
+DB50.Z,"['Fissure or fistula of anal regions, unspecified']"
+DB51,['Stenosis of anal canal']
+DB52,['Ulcer of anus']
+DB53,['Anal prolapse']
+DB5Y,['Other specified acquired anatomical alterations of the anal canal']
+DB5Z,"['Acquired anatomical alterations of the anal canal, unspecified']"
+BlockL2-DB6,['Haemorrhoids or perianal venous conditions']
+DB60,['Haemorrhoids']
+DB60.0,['First degree haemorrhoids']
+DB60.1,['Second degree haemorrhoids']
+DB60.2,['Third degree haemorrhoids']
+DB60.3,['Fourth degree haemorrhoids']
+DB60.Z,"['Haemorrhoids, unspecified']"
+DB61,['Perianal venous thrombosis']
+DB62,['Residual haemorrhoidal skin tags']
+DB6Y,['Other specified haemorrhoids or perianal venous conditions']
+DB6Z,"['Haemorrhoids or perianal venous conditions, unspecified']"
+DB70,['Infections of the anal region']
+DB70.0,['Abscess of anal regions']
+DB70.00,['Anal abscess']
+DB70.01,['Anorectal abscess']
+DB70.02,['Intrasphincteric abscess']
+DB70.0Y,['Other specified abscess of anal regions']
+DB70.0Z,"['Abscess of anal regions, unspecified']"
+DB70.Y,['Other specified infections of the anal region']
+DB70.Z,"['Infections of the anal region, unspecified']"
+DB71,['Anal polyp']
+DB71.0,['Inflammatory anal polyp']
+DB71.1,['Lymphoid polyp']
+DB71.2,['Hypertrophied anal papillae']
+DB71.Y,['Other specified anal polyp']
+DB71.Z,"['Anal polyp, unspecified']"
+DB72,['Certain specified diseases of anal canal']
+DB72.Z,"['Certain specified diseases of anal canal, unspecified']"
+DB7Y,['Other specified diseases of anal canal']
+DB7Z,"['Diseases of anal canal, unspecified']"
+DB90,['Infectious liver disease']
+DB90.0,['Abscess of liver']
+DB90.Y,['Other specified infectious liver disease']
+DB90.Z,"['Infectious liver disease, unspecified']"
+DB91.0,['Acute or subacute hepatic failure due to hepatitis virus']
+DB91.Z,"['Acute or subacute hepatic failure, unspecified']"
+DB92,['Non-alcoholic fatty liver disease']
+DB92.0,['Non-alcoholic fatty liver disease without non-alcoholic steatohepatitis']
+DB92.1,['Non-alcoholic steatohepatitis']
+DB92.Y,['Other specified non-alcoholic fatty liver disease']
+DB92.Z,"['Non-alcoholic fatty liver disease, unspecified']"
+DB93,['Hepatic fibrosis or cirrhosis']
+DB93.0,['Hepatic fibrosis']
+DB93.1,['Hepatic cirrhosis']
+DB93.2,['Certain specified fibrosis or cirrhosis of liver']
+DB93.20,['Hereditary North American Indian childhood cirrhosis']
+DB93.21,['Idiopathic copper-associated cirrhosis']
+DB93.Y,['Other specified hepatic fibrosis or cirrhosis']
+DB93.Z,"['Hepatic fibrosis or cirrhosis, unspecified']"
+DB94.0,['Alcoholic fatty liver']
+DB94.1,['Alcoholic hepatitis']
+DB94.10,['Alcoholic hepatitis with cirrhosis']
+DB94.1Y,['Other specified alcoholic hepatitis']
+DB94.1Z,"['Alcoholic hepatitis, unspecified']"
+DB94.2,['Alcoholic liver fibrosis']
+DB94.3,['Alcoholic cirrhosis of liver without hepatitis']
+DB94.Y,['Other specified alcoholic liver disease']
+DB94.Z,"['Alcoholic liver disease, unspecified']"
+DB95,['Drug-induced or toxic liver disease']
+DB95.0,['Drug-induced or toxic liver disease with acute hepatic necrosis or acute hepatitis']
+DB95.1,['Drug-induced or toxic liver disease with chronic hepatitis']
+DB95.10,"['Drug-induced or toxic liver disease with chronic hepatitis, with cirrhosis']"
+DB95.11,"['Drug-induced or toxic liver disease with chronic hepatitis, without cirrhosis']"
+DB95.1Y,['Other specified drug-induced or toxic liver disease with chronic hepatitis']
+DB95.1Z,"['Drug-induced or toxic liver disease with chronic hepatitis, unspecified']"
+DB95.2,['Drug-induced or toxic liver disease with cholestasis']
+DB95.20,['Chronic drug-induced or toxic liver disease with cholestasis']
+DB95.2Y,['Other specified drug-induced or toxic liver disease with cholestasis']
+DB95.2Z,"['Drug-induced or toxic liver disease with cholestasis, unspecified']"
+DB95.3,['Drug-induced or toxic liver disease with fatty liver']
+DB95.30,['Drug-induced or toxic liver disease with chronic fatty liver disease']
+DB95.3Y,['Other specified drug-induced or toxic liver disease with fatty liver']
+DB95.3Z,"['Drug-induced or toxic liver disease with fatty liver, unspecified']"
+DB95.4,['Drug-induced or toxic liver disease with granulomatous hepatitis']
+DB95.5,['Drug-induced or toxic liver disease with fibrosis or cirrhosis of liver']
+DB95.6,['Drug-induced or toxic liver disease with vascular disorders of the liver']
+DB95.7,['Drug-induced or toxic liver disease with liver tumours']
+DB95.Y,['Other specified drug-induced or toxic liver disease']
+DB95.Z,"['Drug-induced or toxic liver disease, unspecified']"
+DB96,['Autoimmune liver disease']
+DB96.0,['Autoimmune hepatitis']
+DB96.1,['Primary biliary cholangitis']
+DB96.10,['Primary biliary cholangitis with overlap syndrome']
+DB96.1Y,['Other specified primary biliary cholangitis']
+DB96.1Z,"['Primary biliary cholangitis, unspecified']"
+DB96.20,['Primary sclerosing cholangitis with cirrhosis']
+DB96.2Y,['Other specified primary sclerosing cholangitis']
+DB96.2Z,"['Primary sclerosing cholangitis, unspecified']"
+DB96.Y,['Other specified autoimmune liver disease']
+DB96.Z,"['Autoimmune liver disease, unspecified']"
+DB97,['Certain specified inflammatory liver diseases']
+DB97.0,['Idiopathic granulomatous hepatitis']
+DB97.1,['Hepatic berylliosis']
+DB97.2,"['Chronic hepatitis, not elsewhere classified']"
+DB97.Y,['Other specified inflammatory liver disease']
+DB97.Z,"['Inflammatory liver disease, unspecified']"
+DB98,['Vascular disorders of the liver']
+DB98.0,['Infarction of liver']
+DB98.2,['Nodular regenerative hyperplasia of liver']
+DB98.3,['Portal vein thrombosis']
+DB98.4,['Splenic vein thrombosis']
+DB98.5,['Budd-Chiari syndrome']
+DB98.6,['Hepatic veno-occlusive disease']
+DB98.7,['Portal hypertension']
+DB98.70,['Idiopathic portal hypertension']
+DB98.71,['Non-cirrhotic portal fibrosis']
+DB98.72,['Partial nodular transformation of liver']
+DB98.73,['Splanchnic arteriovenous fistula']
+DB98.7Y,['Other specified portal hypertension']
+DB98.7Z,"['Portal hypertension, unspecified']"
+DB98.8,['Passive congestion of liver']
+DB98.9,['Hepatic artery aneurysm']
+DB98.A,['Hepatic haemorrhage']
+DB98.B,['Ischaemia reperfusion injury of liver']
+DB98.Y,['Other specified vascular disorders of the liver']
+DB98.Z,"['Vascular disorders of the liver, unspecified']"
+DB99,['Certain specified diseases of liver']
+DB99.0,['Chronic liver disease']
+DB99.1,['Hepatic cyst']
+DB99.10,['Polycystic liver disease']
+DB99.1Y,['Other specified hepatic cyst']
+DB99.1Z,"['Hepatic cyst, unspecified']"
+DB99.3,['Portopulmonary hypertension']
+DB99.4,['Hepatopulmonary syndrome']
+DB99.5,['Hepatic encephalopathy']
+DB99.6,"['Intrahepatic cholestasis, not elsewhere classified']"
+DB99.60,['Cholestasis of parenteral nutrition']
+DB99.6Y,"['Other specified intrahepatic cholestasis, not elsewhere classified']"
+DB99.6Z,"['Intrahepatic cholestasis, not elsewhere classified, unspecified']"
+DB99.7,['Hepatic failure without mention whether acute or chronic']
+DB99.8,['Chronic hepatic failure']
+DB9Z,"['Diseases of liver, unspecified']"
+BlockL1-DC1,['Diseases of gallbladder or biliary tract']
+DC10,['Acquired anatomical alterations of gallbladder or bile ducts']
+DC10.0,['Obstruction of gallbladder or bile ducts']
+DC10.00,['Obstruction of cystic duct']
+DC10.01,['Obstruction of gall bladder']
+DC10.02,['Obstruction of bile duct']
+DC10.0Y,['Other specified obstruction of gallbladder or bile ducts']
+DC10.0Z,"['Obstruction of gallbladder or bile ducts, unspecified']"
+DC10.2,['Fistula of gallbladder or bile duct']
+DC10.3,['Polyp of gallbladder']
+DC10.4,['Cholesterolosis of gallbladder']
+DC10.Y,['Other specified acquired anatomical alterations of gallbladder or bile ducts']
+DC10.Z,"['Acquired anatomical alterations of gallbladder or bile ducts, unspecified']"
+DC11.0,['Calculus of gallbladder or cystic duct with acute cholecystitis']
+DC11.1,['Calculus of gallbladder or cystic duct with other cholecystitis']
+DC11.2,['Calculus of gallbladder or cystic duct with cholangitis']
+DC11.3,['Calculus of gallbladder or cystic duct without cholecystitis or cholangitis']
+DC11.4,['Calculus of bile duct with cholangitis']
+DC11.5,['Calculus of bile duct with cholecystitis']
+DC11.6,['Calculus of bile duct without cholangitis or cholecystitis']
+DC11.7,['Intrahepatic cholelithiasis']
+DC11.Y,['Other specified cholelithiasis']
+DC11.Z,"['Cholelithiasis, unspecified']"
+DC12,['Cholecystitis']
+DC12.00,['Acute on chronic cholecystitis']
+DC12.0Y,['Other specified acute cholecystitis']
+DC12.0Z,"['Acute cholecystitis, unspecified']"
+DC12.1,['Chronic cholecystitis']
+DC12.Y,['Other specified cholecystitis']
+DC12.Z,"['Cholecystitis, unspecified']"
+DC14,['Certain specified biliary diseases']
+DC14.0,['Haemorrhage of bile duct']
+DC14.2,['Dyskinesia of sphincter of Oddi']
+DC14.3,['Adenomyomatosis of gallbladder']
+DC14.Y,['Other biliary diseases']
+DC14.Z,"['Biliary disease, unspecified']"
+DC1Y,['Other specified diseases of gallbladder or biliary tract']
+DC1Z,"['Diseases of gallbladder or biliary tract, unspecified']"
+BlockL1-DC3,['Diseases of pancreas']
+DC30,['Cystic diseases of the pancreas']
+DC30.0,['Cyst of pancreas']
+DC30.1,['Pseudocyst of pancreas']
+DC30.Y,['Other specified cystic diseases of the pancreas']
+DC30.Z,"['Cystic diseases of the pancreas, unspecified']"
+DC31,['Acute pancreatitis']
+DC31.0,['Acute idiopathic pancreatitis']
+DC31.1,['Acute alcohol-induced pancreatitis']
+DC31.2,['Acute biliary pancreatitis']
+DC31.3,['Acute drug-induced pancreatitis']
+DC31.4,['Hereditary acute pancreatitis']
+DC31.5,['Acute exacerbation of chronic pancreatitis']
+DC31.Y,['Other specified acute pancreatitis']
+DC31.Z,"['Acute pancreatitis, unspecified']"
+DC32.0,['Calcific pancreatitis']
+DC32.1,['Groove pancreatitis']
+DC32.2,['Hereditary chronic pancreatitis']
+DC32.3,['Chronic alcohol-induced pancreatitis']
+DC32.4,['Chronic idiopathic pancreatitis']
+DC32.5,['Tropical pancreatitis']
+DC32.Y,['Other specified chronic pancreatitis']
+DC32.Z,"['Chronic pancreatitis, unspecified']"
+DC33,['Autoimmune pancreatitis']
+DC34,['Obstructive pancreatitis']
+DC35,['Certain specified diseases of pancreas']
+DC35.0,['Atrophy of pancreas']
+DC35.1,['Secondary pancreatic insufficiency']
+DC35.2,['Pancreatic steatorrhoea']
+DC35.Z,"['Certain specified diseases of pancreas, unspecified']"
+DC3Y,['Other specified diseases of pancreas']
+DC3Z,"['Diseases of pancreas, unspecified']"
+BlockL1-DC5,['Diseases of peritoneum']
+DC50,['Peritonitis']
+DC50.0,['Primary peritonitis']
+DC50.00,['Spontaneous bacterial peritonitis']
+DC50.01,['Other specified primary peritonitis']
+DC50.1,['Secondary peritonitis']
+DC50.10,['Eosinophilic peritonitis']
+DC50.11,['Mesenteric peritonitis']
+DC50.12,['Chronic proliferative peritonitis']
+DC50.13,['Peritonitis due to Streptococcus pneumoniae']
+DC50.14,['Secondary peritonitis due to other diseases or agents']
+DC50.1Y,['Other specified secondary peritonitis']
+DC50.1Z,"['Secondary peritonitis, unspecified']"
+DC50.2,['Peritoneal abscess']
+DC50.Z,"['Peritonitis, unspecified']"
+DC51,['Certain specified disorders of peritoneum or retroperitoneum']
+DC51.0,['Chylous ascites']
+DC51.1,['Peritoneal adhesions']
+DC51.2,['Haemoperitoneum']
+DC51.Y,['Other specified disorders of peritoneum or retroperitoneum']
+DC5Z,"['Diseases of peritoneum, unspecified']"
+BlockL1-DC7,['Diverticular disease of intestine']
+BlockL2-DC7,['Diverticular disease of small intestine']
+DC70,['Diverticulitis of small intestine']
+DC70.0,['Diverticulitis of small intestine with complication']
+DC70.00,['Diverticulitis of small intestine with perforation and abscess']
+DC70.0Y,['Diverticulitis of small intestine with other specified complication']
+DC70.0Z,['Diverticulitis of small intestine with unspecified complication']
+DC70.1,['Diverticulitis of small intestine without complication']
+DC70.Z,['Diverticulitis of small intestine without specification of presence of complications']
+DC71,['Diverticulosis of small intestine']
+DC71.0,['Diverticulosis of small intestine with haemorrhage']
+DC71.1,['Diverticulosis of small intestine without haemorrhage']
+DC71.Z,"['Diverticulosis of small intestine, unspecified']"
+DC72,['Diverticulum of small intestine']
+DC72.0,['Diverticulum of small intestine with haemorrhage']
+DC72.1,['Diverticulum of small intestine without haemorrhage']
+DC72.Z,"['Diverticulum of small intestine, no specification about presence or absence of haemorrhage']"
+BlockL2-DC8,['Diverticular disease of large intestine']
+DC80,['Diverticulitis of large intestine']
+DC80.0,['Diverticulitis of large intestine with complication']
+DC80.00,['Diverticulitis of large intestine with perforation and abscess']
+DC80.0Z,"['Diverticulitis of large intestine with complication, unspecified']"
+DC80.1,['Diverticulitis of large intestine without complication']
+DC80.Z,['Diverticulitis of large intestine without specification of presence of complications']
+DC81,['Diverticulosis of large intestine']
+DC81.0,['Diverticulosis of large intestine with haemorrhage']
+DC81.1,['Diverticulosis of large intestine without haemorrhage']
+DC81.Z,"['Diverticulosis of large intestine, unspecified']"
+DC82,['Diverticulum of large intestine']
+DC82.0,['Diverticulum of large intestine with haemorrhage']
+DC82.1,['Diverticulum of large intestine without haemorrhage']
+DC82.Z,"['Diverticulum of large intestine, unspecified']"
+BlockL2-DC9,['Diverticular disease of intestine of overlapping sites']
+DC90,['Diverticular disease of small and large intestine']
+BlockL2-DD0,['Diverticular disease of unspecified part of intestine']
+DD00,['Diverticulitis of unspecified part of intestine']
+DD00.00,['Diverticulitis of unspecified part of intestine with perforation and abscess']
+DD00.0Y,['Other specified diverticulitis of unspecified part of intestine with complication']
+DD00.1,['Diverticulitis of unspecified part of intestine without complication']
+DD00.Z,['Diverticulitis of unspecified part of intestine without specification of presence or absence of complications']
+DD01.0,['Diverticulosis of unspecified part of intestine with haemorrhage']
+DD01.1,['Diverticulosis of unspecified part of intestine without haemorrhage']
+DD02.0,['Diverticular disease of unspecified part of intestine with haemorrhage']
+DD02.1,['Diverticulum of unspecified part of intestine without complication']
+DD1Z,"['Diverticular disease of intestine, unspecified']"
+BlockL1-DD3,['Ischaemic vascular disorders of intestine']
+DD30,['Acute vascular disorders of intestine']
+DD30.0,['Acute mesenteric arterial infarction']
+DD30.1,['Acute mesenteric arterial ischaemia']
+DD30.2,['Acute mesenteric venous occlusion']
+DD30.Y,['Other specified acute vascular disorders of intestine']
+DD30.Z,"['Acute vascular disorders of intestine, unspecified']"
+DD31,['Chronic vascular disorders of intestine']
+DD31.0,['Non-occlusive mesenteric ischaemia']
+DD31.00,['Ischaemic colitis']
+DD31.0Y,['Other specified non-occlusive mesenteric ischaemia']
+DD31.0Z,"['Non-occlusive mesenteric ischaemia, unspecified']"
+DD31.Y,['Other specified chronic vascular disorders of intestine']
+DD31.Z,"['Chronic vascular disorders of intestine, unspecified']"
+DD3Y,['Other specified ischaemic vascular disorders of intestine']
+DD3Z,"['Ischaemic vascular disorders of intestine, unspecified']"
+BlockL1-DD5,['Hernias']
+DD50,['Non-abdominal wall hernia']
+DD50.0,['Diaphragmatic hernia']
+DD50.1,['Pelvic hernia']
+DD50.2,['Intra-abdominal hernia']
+DD50.20,['Primary intra-abdominal hernia']
+DD50.21,['Secondary intra-abdominal hernia']
+DD50.2Y,['Other specified intra-abdominal hernia']
+DD50.2Z,"['Intra-abdominal hernia, unspecified']"
+DD50.Y,['Other specified non-abdominal wall hernia']
+DD50.Z,"['Non-abdominal wall hernia, unspecified']"
+DD52,['Femoral hernia']
+DD54,['Paraumbilical hernia']
+DD55,['Epigastric hernia']
+DD56,['Incisional hernia']
+DD57,['Parastomal hernia']
+DD5Y,['Other specified hernias']
+DD5Z,"['Hernias, unspecified']"
+DD70,['Crohn disease']
+DD70.0,['Crohn disease of upper gastrointestinal tract']
+DD70.1,['Crohn disease of small intestine']
+DD70.2,['Crohn disease of appendix']
+DD70.3,['Crohn disease of large intestine']
+DD70.4,['Crohn disease of anal region']
+DD70.5,['Crohn disease of both small and large intestine']
+DD70.6,['Crohn disease of anastomotic sites']
+DD70.Y,['Crohn disease of other specified site']
+DD70.Z,"['Crohn disease, unspecified site']"
+DD71,['Ulcerative colitis']
+DD71.0,['Ulcerative pancolitis']
+DD71.2,['Ulcerative rectosigmoiditis']
+DD71.3,['Ulcerative proctitis']
+DD71.Y,['Other specified ulcerative colitis']
+DD71.Z,"['Ulcerative colitis, unspecified']"
+DD72,['Indeterminate colitis']
+DD7Y,['Other specified inflammatory bowel diseases']
+DD7Z,"['Inflammatory bowel diseases, unspecified']"
+BlockL1-DD9,['Functional gastrointestinal disorders']
+DD90,['Functional oesophageal or gastroduodenal disorders']
+DD90.0,['Globus']
+DD90.1,['Functional swallowing disorder']
+DD90.2,['Functional heartburn']
+DD90.3,['Functional dyspepsia']
+DD90.4,['Functional nausea or vomiting']
+DD90.5,['Functional belching disorders']
+DD90.6,['Adult rumination syndrome']
+DD90.Y,['Other specified functional oesophageal or gastroduodenal disorders']
+DD90.Z,"['Functional oesophageal or gastroduodenal disorders, unspecified']"
+DD91,['Irritable bowel syndrome or certain specified functional bowel disorders']
+DD91.0,['Irritable bowel syndrome']
+DD91.00,"['Irritable bowel syndrome, constipation predominant']"
+DD91.01,"['Irritable bowel syndrome, diarrhoea predominant']"
+DD91.02,"['Irritable bowel syndrome, mixed type']"
+DD91.03,"['Irritable bowel syndrome, unsubtyped']"
+DD91.0Z,"['Irritable bowel syndrome, type unspecified']"
+DD91.1,['Functional constipation']
+DD91.2,['Functional diarrhoea']
+DD91.3,['Functional bloating']
+DD91.4,['Functional abdominal pain syndrome']
+DD91.Y,['Other specified irritable bowel syndrome or functional bowel disorders']
+DD91.Z,"['Irritable bowel syndrome or functional bowel disorders, unspecified']"
+DD92,['Functional anorectal disorders']
+DD92.0,['Functional faecal incontinence']
+DD92.1,['Functional anorectal pain']
+DD92.2,['Functional defaecation disorders']
+DD92.Y,['Other specified functional anorectal disorders']
+DD92.Z,"['Functional anorectal disorders, unspecified']"
+DD93,"['Functional digestive disorders of infants, toddlers or children']"
+DD93.0,['Infant regurgitation']
+DD93.1,['Infantile colic']
+DD93.2,['Infant dyschezia']
+DD93.Y,"['Other functional digestive disorders of infants, neonates or toddlers']"
+DD93.Z,"['Functional digestive disorders of infants, toddlers or children, unspecified']"
+DD94,['Functional gallbladder disorder']
+DD95,['Functional sphincter of Oddi disorder']
+DD9Y,['Other specified functional gastrointestinal disorders']
+DD9Z,"['Functional gastrointestinal disorders, unspecified']"
+BlockL1-DE1,['Postprocedural disorders of digestive system']
+DE10,['Vomiting following gastrointestinal surgery']
+DE12,['Complication of external stoma of digestive organs']
+DE12.0,['Colostomy or enterostomy malfunction']
+DE12.Y,['Other specified complication of external stoma of digestive organs']
+DE2Y,['Other specified diseases of the digestive system']
+DE2Z,"['Diseases of the digestive system, unspecified']"
+BlockL1-KB8,['Digestive system disorders of foetus or newborn']
+KB80,['Gastro-oesophageal reflux disease in newborn']
+KB81,['Oesophagitis in newborn']
+KB81.0,['Neonatal eosinophilic oesophagitis']
+KB81.Y,['Other specified oesophagitis in newborn']
+KB82,['Prenatal gastric perforation']
+KB83,['Postnatal gastric perforation']
+KB84,['Postnatal isolated ileal perforation']
+KB85,['Prenatal intrauterine intestinal perforation']
+KB85.0,['Prenatal intrauterine intestinal perforation due to in utero volvulus']
+KB85.1,['Prenatal intrauterine intestinal perforation due to intestinal atresia or stenosis']
+KB85.2,['Prenatal intrauterine intestinal perforation due to intraluminal obstruction']
+KB85.Y,['Other specified prenatal intrauterine intestinal perforation']
+KB85.Z,"['Prenatal intrauterine intestinal perforation, unspecified']"
+KB86,['Postnatal intestinal perforation']
+KB86.0,['Postnatal intestinal perforation due to drugs']
+KB86.1,['Postnatal intestinal perforation due to in utero volvulus']
+KB86.2,['Postnatal intestinal perforation due to intestinal atresia or stenosis']
+KB86.3,['Postnatal intestinal perforation due to intraluminal obstruction']
+KB86.Y,['Other specified postnatal intestinal perforation']
+KB86.Z,"['Postnatal intestinal perforation, unspecified']"
+KB87,['Intestinal obstruction of newborn']
+KB87.0,['Intestinal obstruction due to inspissated milk']
+KB87.1,['Meconium plug without ileus']
+KB87.2,['Meconium ileus without perforation']
+KB87.3,['Transitory ileus of preterm-newborn']
+KB87.4,['Meconium ileus with perforation']
+KB87.Y,['Other specified intestinal obstruction of newborn']
+KB87.Z,"['Intestinal obstruction of newborn, unspecified']"
+KB88,['Necrotising enterocolitis of newborn']
+KB88.0,"['Necrotising enterocolitis of newborn, Stage 1A & B']"
+KB88.1,"['Necrotising enterocolitis of newborn, Stage 2A & B']"
+KB88.2,"['Necrotising enterocolitis of newborn, Stage 3A']"
+KB88.3,"['Necrotising enterocolitis of newborn, Stage 3B']"
+KB88.Y,['Other specified necrotising enterocolitis of newborn']
+KB88.Z,"['Necrotising enterocolitis of newborn, unspecified']"
+KB89,['Neonatal malabsorption syndromes']
+KB89.0,['Neonatal malabsorption due to endocrine secreting tumour']
+KB89.Y,['Other specified neonatal malabsorption syndromes']
+KB89.Z,"['Neonatal malabsorption syndromes, unspecified']"
+KB8A,['Neonatal haematemesis or melaena due to swallowed maternal blood']
+KB8B,['Neonatal peritonitis']
+KB8C,['Noninfectious neonatal diarrhoea']
+KB8Y,['Other specified digestive system disorders of foetus or newborn']
+KB8Z,"['Digestive system disorders of foetus or newborn, unspecified']"

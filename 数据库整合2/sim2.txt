@@ -1,0 +1,1306 @@
+Mesh:D000072676;Mesh-sim: Ankyloglossia;  DOID: 0060604;DO-sim: ankyloglossia distance_simhash£∫0
+Mesh:D000072676;Mesh-sim: Tongue Tie;  DOID: 0060604;DO-sim: tongue-tie distance_simhash£∫0
+Mesh:D000076385;Mesh-sim: Diverticular Diseases;  DOID: 77;DO-sim: gastrointestinal disease distance_simhash£∫8
+Mesh:D000076385;Mesh-sim: Diverticular Diseases;  DOID: 60000;DO-sim: appendix disease distance_simhash£∫8
+Mesh:D000076385;Mesh-sim: Diverticular Diseases;  DOID: 3128;DO-sim: anus disease distance_simhash£∫9
+Mesh:D000076385;Mesh-sim: Diverticular Diseases;  DOID: 1091;DO-sim: tooth disease distance_simhash£∫8
+Mesh:D000343;Mesh-sim: Afferent Loop Syndrome;  DOID: 8438;DO-sim: afferent loop syndrome distance_simhash£∫0
+Mesh:D000343;Mesh-sim: Afferent Loop Syndrome;  DOID: 8438;DO-sim: afferent loop syndrome distance_simhash£∫0
+Mesh:D000567;Mesh-sim: Amelogenesis Imperfecta;  DOID: 2187;DO-sim: amelogenesis imperfecta distance_simhash£∫0
+Mesh:D000567;Mesh-sim: Amelogenesis Imperfecta;  DOID: 0110063;DO-sim: amelogenesis imperfecta type IIA5 distance_simhash£∫8
+Mesh:D000567;Mesh-sim: Amelogenesis Imperfecta;  DOID: 0110054;DO-sim: amelogenesis imperfecta type IA distance_simhash£∫9
+Mesh:D000567;Mesh-sim: Amelogenesis Imperfecta;  DOID: 0110052;DO-sim: amelogenesis imperfecta type IB distance_simhash£∫6
+Mesh:D000567;Mesh-sim: Amelogenesis Imperfecta;  DOID: 0110058;DO-sim: amelogenesis imperfecta type IE distance_simhash£∫6
+Mesh:D000567;Mesh-sim: Amelogenesis Imperfecta;  DOID: 0110066;DO-sim: amelogenesis imperfecta type 1G distance_simhash£∫9
+Mesh:D000567;Mesh-sim: Amelogenesis Imperfecta;  DOID: 0110055;DO-sim: amelogenesis imperfecta type III distance_simhash£∫9
+Mesh:D000567;Mesh-sim: Amelogenesis Imperfecta;  DOID: 0110055;DO-sim: amelogenesis imperfecta hypomineralization type distance_simhash£∫5
+Mesh:D000848;Mesh-sim: Tooth Agenesis, Familial;  DOID: 0050591;DO-sim: familial tooth agenesis distance_simhash£∫0
+Mesh:D000848;Mesh-sim: Anodontia;  DOID: 13714;DO-sim: anodontia distance_simhash£∫0
+Mesh:D000848;Mesh-sim: Hypodontia;  DOID: 0050591;DO-sim: hypodontia distance_simhash£∫0
+Mesh:D001004;Mesh-sim: Anus Diseases;  DOID: 3128;DO-sim: Ulcer of anus distance_simhash£∫9
+Mesh:D001004;Mesh-sim: Anus Diseases;  DOID: 3128;DO-sim: anus disease distance_simhash£∫0
+Mesh:D001006;Mesh-sim: Atresia, Anal;  DOID: 10486;DO-sim: intestinal atresia distance_simhash£∫9
+Mesh:D001006;Mesh-sim: Anal Atresia;  DOID: 10486;DO-sim: intestinal atresia distance_simhash£∫9
+Mesh:D001064;Mesh-sim: Appendicitis;  DOID: 8337;DO-sim: appendicitis distance_simhash£∫0
+Mesh:D001471;Mesh-sim: Barrett Syndrome;  DOID: 9206;DO-sim: Barretts syndrome distance_simhash£∫0
+Mesh:D001471;Mesh-sim: Barrett Esophagus;  DOID: 9206;DO-sim: Barrett's ulcer of esophagus distance_simhash£∫9
+Mesh:D001471;Mesh-sim: Barrett Esophagus;  DOID: 9206;DO-sim: Barrett esophagus distance_simhash£∫0
+Mesh:D001471;Mesh-sim: Barrett Esophagus;  DOID: 9206;DO-sim: Barrett's esophagus with esophagitis distance_simhash£∫9
+Mesh:D001471;Mesh-sim: Barrett Metaplasia;  DOID: 9206;DO-sim: Barretts syndrome distance_simhash£∫9
+Mesh:D001471;Mesh-sim: Esophagus, Barrett;  DOID: 9206;DO-sim: Barrett's ulcer of esophagus distance_simhash£∫9
+Mesh:D001471;Mesh-sim: Esophagus, Barrett;  DOID: 9206;DO-sim: Barrett esophagus distance_simhash£∫0
+Mesh:D001471;Mesh-sim: Esophagus, Barrett;  DOID: 9206;DO-sim: Barrett's esophagus with esophagitis distance_simhash£∫9
+Mesh:D001471;Mesh-sim: Barrett's Esophagus;  DOID: 9206;DO-sim: Barrett's esophagus distance_simhash£∫0
+Mesh:D001471;Mesh-sim: Barrett's Esophagus;  DOID: 9206;DO-sim: (ulcerative esophagitis) or (Barrett's esophagus) distance_simhash£∫6
+Mesh:D001471;Mesh-sim: Barrett's Esophagus;  DOID: 9206;DO-sim: Barrett's ulcer of esophagus distance_simhash£∫7
+Mesh:D001471;Mesh-sim: Barrett's Esophagus;  DOID: 9206;DO-sim: Barrett's esophagus with esophagitis distance_simhash£∫5
+Mesh:D001528;Mesh-sim: Beh√ßet Disease;  DOID: 893;DO-sim: Wilson disease distance_simhash£∫9
+Mesh:D001528;Mesh-sim: Behcet Disease;  DOID: 76;DO-sim: stomach disease distance_simhash£∫8
+Mesh:D001649;Mesh-sim: Bile Duct Diseases;  DOID: 4138;DO-sim: bile duct disease distance_simhash£∫0
+Mesh:D001649;Mesh-sim: Bile Duct Diseases;  DOID: 13608;DO-sim: Atresia of bile duct distance_simhash£∫7
+Mesh:D001651;Mesh-sim: Biliary Stasis, Extrahepatic;  DOID: 13619;DO-sim: extrahepatic biliary Stasis distance_simhash£∫0
+Mesh:D001651;Mesh-sim: Cholestasis, Extrahepatic;  DOID: 13619;DO-sim: extrahepatic cholestasis distance_simhash£∫0
+Mesh:D001651;Mesh-sim: Extrahepatic Cholestasis;  DOID: 13619;DO-sim: extrahepatic cholestasis distance_simhash£∫0
+Mesh:D001655;Mesh-sim: Bile Reflux;  DOID: 12237;DO-sim: bile reflux distance_simhash£∫0
+Mesh:D001657;Mesh-sim: Biliary Dyskinesia;  DOID: 4140;DO-sim: biliary dyskinesia distance_simhash£∫0
+Mesh:D001656;Mesh-sim: Biliary Atresia;  DOID: 13608;DO-sim: biliary atresia distance_simhash£∫0
+Mesh:D001656;Mesh-sim: Familial Extrahepatic Biliary Atresia;  DOID: 13608;DO-sim: biliary atresia distance_simhash£∫9
+Mesh:D001656;Mesh-sim: Atresia, Biliary;  DOID: 13608;DO-sim: biliary atresia distance_simhash£∫0
+Mesh:D001660;Mesh-sim: Biliary Tract Diseases;  DOID: 9741;DO-sim: biliary tract disease distance_simhash£∫0
+Mesh:D001765;Mesh-sim: Blind Loop Syndrome;  DOID: 10606;DO-sim: blind loop syndrome distance_simhash£∫0
+Mesh:D001765;Mesh-sim: Blind Loop Syndrome;  DOID: 10606;DO-sim: Blind loop syndrome distance_simhash£∫0
+Mesh:D002054;Mesh-sim: Burning Mouth Syndrome;  DOID: 4331;DO-sim: burning mouth syndrome distance_simhash£∫0
+Mesh:D002429;Mesh-sim: Cecal Diseases;  DOID: 0060262;DO-sim: gallbladder disease distance_simhash£∫9
+Mesh:D002429;Mesh-sim: Cecal Diseases;  DOID: 1518;DO-sim: cecal disease distance_simhash£∫0
+Mesh:D002429;Mesh-sim: Cecal Diseases;  DOID: 5353;DO-sim: colonic disease distance_simhash£∫9
+Mesh:D002613;Mesh-sim: Cheilitis;  DOID: 1762;DO-sim: cheilitis distance_simhash£∫0
+Mesh:D002761;Mesh-sim: Cholangitis;  DOID: 9446;DO-sim: cholangitis distance_simhash£∫0
+Mesh:D002764;Mesh-sim: Cholecystitis;  DOID: 1949;DO-sim: cholecystitis distance_simhash£∫0
+Mesh:D002769;Mesh-sim: Cholelithiasis;  DOID: 10211;DO-sim: cholelithiasis distance_simhash£∫0
+Mesh:D002779;Mesh-sim: Cholestasis;  DOID: 13580;DO-sim: cholestasis distance_simhash£∫0
+Mesh:D002779;Mesh-sim: Bile Duct Obstruction;  DOID: 13580;DO-sim: Obstruction of bile duct distance_simhash£∫0
+Mesh:D002780;Mesh-sim: Cholestasis, Intrahepatic;  DOID: 1852;DO-sim: intrahepatic cholestasis distance_simhash£∫0
+Mesh:D002780;Mesh-sim: Cholestasis, Intrahepatic;  DOID: 0070229;DO-sim: intrahepatic cholestasis of pregnancy 3 distance_simhash£∫9
+Mesh:D002780;Mesh-sim: Cholestasis, Intrahepatic;  DOID: 0070221;DO-sim: progressive familial intrahepatic cholestasis distance_simhash£∫8
+Mesh:D002780;Mesh-sim: Intrahepatic Cholestasis;  DOID: 1852;DO-sim: intrahepatic cholestasis distance_simhash£∫0
+Mesh:D002780;Mesh-sim: Intrahepatic Cholestasis;  DOID: 0070229;DO-sim: intrahepatic cholestasis of pregnancy 3 distance_simhash£∫9
+Mesh:D002780;Mesh-sim: Intrahepatic Cholestasis;  DOID: 0070221;DO-sim: progressive familial intrahepatic cholestasis distance_simhash£∫8
+Mesh:D003092;Mesh-sim: Colitis;  DOID: 0060180;DO-sim: colitis distance_simhash£∫0
+Mesh:D003093;Mesh-sim: Ulcerative Colitis;  DOID: 8577;DO-sim: Left-sided ulcerative colitis distance_simhash£∫9
+Mesh:D003093;Mesh-sim: Ulcerative Colitis;  DOID: 8577;DO-sim: ulcerative colitis distance_simhash£∫0
+Mesh:D003093;Mesh-sim: Colitis, Ulcerative;  DOID: 8577;DO-sim: Left-sided ulcerative colitis distance_simhash£∫9
+Mesh:D003093;Mesh-sim: Colitis, Ulcerative;  DOID: 8577;DO-sim: ulcerative colitis distance_simhash£∫0
+Mesh:D003093;Mesh-sim: Inflammatory Bowel Disease, Ulcerative Colitis Type;  DOID: 0110900;DO-sim: inflammatory bowel disease 2 distance_simhash£∫9
+Mesh:D003106;Mesh-sim: Appendix Epiploica;  DOID: 13248;DO-sim: mucocele of appendix distance_simhash£∫9
+Mesh:D003108;Mesh-sim: Colonic Diseases;  DOID: 1518;DO-sim: cecal disease distance_simhash£∫9
+Mesh:D003108;Mesh-sim: Colonic Diseases;  DOID: 5353;DO-sim: colonic disease distance_simhash£∫0
+Mesh:D003109;Mesh-sim: Colonic Diseases, Functional;  DOID: 3877;DO-sim: functional colonic disease distance_simhash£∫0
+Mesh:D003109;Mesh-sim: Functional Colonic Diseases;  DOID: 3877;DO-sim: functional colonic disease distance_simhash£∫0
+Mesh:D003112;Mesh-sim: Ogilvie Disease;  DOID: 10487;DO-sim: Hirschsprung disease distance_simhash£∫9
+Mesh:D003112;Mesh-sim: Pseudo-Obstruction, Colonic;  DOID: 3876;DO-sim: colonic pseudo-obstruction distance_simhash£∫0
+Mesh:D003112;Mesh-sim: Pseudo-Obstruction, Colonic;  DOID: 3876;DO-sim: colonic pseudo-obstruction distance_simhash£∫0
+Mesh:D003112;Mesh-sim: Colonic Pseudo-Obstruction;  DOID: 3876;DO-sim: colonic pseudo-obstruction distance_simhash£∫0
+Mesh:D003112;Mesh-sim: Colonic Pseudo-Obstruction;  DOID: 3876;DO-sim: colonic pseudo-obstruction distance_simhash£∫0
+Mesh:D003137;Mesh-sim: Common Bile Duct Diseases;  DOID: 4137;DO-sim: common bile duct disease distance_simhash£∫0
+Mesh:D003424;Mesh-sim: Ileocolitis;  DOID: 0060190;DO-sim: ileocolitis distance_simhash£∫0
+Mesh:D003424;Mesh-sim: Colitis, Granulomatous;  DOID: 8778;DO-sim: Granulomatous Colitis distance_simhash£∫0
+Mesh:D003424;Mesh-sim: Crohn's Disease;  DOID: 893;DO-sim: Wilson's disease distance_simhash£∫7
+Mesh:D003424;Mesh-sim: Crohn's Disease;  DOID: 8778;DO-sim: Crohn's disease of colon (disorder) distance_simhash£∫7
+Mesh:D003424;Mesh-sim: Crohn's Disease;  DOID: 8778;DO-sim: Crohn disease distance_simhash£∫9
+Mesh:D003424;Mesh-sim: Crohn's Disease;  DOID: 8778;DO-sim: Crohn's disease distance_simhash£∫0
+Mesh:D003424;Mesh-sim: Crohn's Disease;  DOID: 8778;DO-sim: Pediatric Crohn's disease distance_simhash£∫8
+Mesh:D003424;Mesh-sim: Crohn's Disease;  DOID: 8778;DO-sim: Crohn's disease of large bowel distance_simhash£∫8
+Mesh:D003424;Mesh-sim: Crohn's Disease;  DOID: 0060191;DO-sim: gastroduodenal Crohn's disease distance_simhash£∫4
+Mesh:D003424;Mesh-sim: Crohn's Disease;  DOID: 0060191;DO-sim: upper GI Crohn's disease distance_simhash£∫7
+Mesh:D003424;Mesh-sim: Crohn's Disease;  DOID: 13924;DO-sim: Vincent's disease distance_simhash£∫8
+Mesh:D003424;Mesh-sim: Crohn Disease;  DOID: 8778;DO-sim: Crohn disease distance_simhash£∫0
+Mesh:D003424;Mesh-sim: Crohn Disease;  DOID: 8778;DO-sim: Crohn's disease distance_simhash£∫9
+Mesh:D003424;Mesh-sim: Crohn Disease;  DOID: 8778;DO-sim: Pediatric Crohn's disease distance_simhash£∫3
+Mesh:D003424;Mesh-sim: Crohn Disease;  DOID: 0060191;DO-sim: gastroduodenal Crohn's disease distance_simhash£∫9
+Mesh:D003424;Mesh-sim: Crohn Disease;  DOID: 0110885;DO-sim: inflammatory bowel disease (Crohn disease) 10 distance_simhash£∫9
+Mesh:D003424;Mesh-sim: Inflammatory Bowel Disease 1;  DOID: 0110892;DO-sim: inflammatory bowel disease 1 distance_simhash£∫0
+Mesh:D003424;Mesh-sim: Inflammatory Bowel Disease 1;  DOID: 0110885;DO-sim: inflammatory bowel disease 10 distance_simhash£∫9
+Mesh:D003424;Mesh-sim: Inflammatory Bowel Disease 1;  DOID: 0110894;DO-sim: inflammatory bowel disease 11 distance_simhash£∫5
+Mesh:D003424;Mesh-sim: Inflammatory Bowel Disease 1;  DOID: 0110893;DO-sim: inflammatory bowel disease 13 distance_simhash£∫9
+Mesh:D003424;Mesh-sim: Inflammatory Bowel Disease 1;  DOID: 0110906;DO-sim: inflammatory bowel disease 21 distance_simhash£∫7
+Mesh:D003424;Mesh-sim: Inflammatory Bowel Disease 1;  DOID: 0110905;DO-sim: inflammatory bowel disease 22 distance_simhash£∫8
+Mesh:D003699;Mesh-sim: Labrea Disease;  DOID: 3388;DO-sim: periodontal disease distance_simhash£∫9
+Mesh:D003699;Mesh-sim: Labrea Disease;  DOID: 3388;DO-sim: Periodontal disease distance_simhash£∫9
+Mesh:D003731;Mesh-sim: Dental Caries;  DOID: 216;DO-sim: dental caries distance_simhash£∫0
+Mesh:D003731;Mesh-sim: Caries, Dental;  DOID: 216;DO-sim: dental caries distance_simhash£∫0
+Mesh:D003744;Mesh-sim: Dental Enamel Hypoplasia;  DOID: 693;DO-sim: dental enamel hypoplasia distance_simhash£∫0
+Mesh:D003744;Mesh-sim: Enamel Hypoplasia, Dental;  DOID: 693;DO-sim: dental enamel hypoplasia distance_simhash£∫0
+Mesh:D003744;Mesh-sim: Enamel Hypoplasia;  DOID: 693;DO-sim: Enamel hypoplasia distance_simhash£∫0
+Mesh:D003744;Mesh-sim: Enamel Hypoplasia;  DOID: 693;DO-sim: Enamel Hypoplasia distance_simhash£∫0
+Mesh:D003744;Mesh-sim: Enamel Hypoplasia;  DOID: 0110059;DO-sim: X-linked enamel hypoplasia distance_simhash£∫7
+Mesh:D003744;Mesh-sim: Enamel Hypoplasia;  DOID: 0110052;DO-sim: hereditary localized enamel hypoplasia distance_simhash£∫6
+Mesh:D003744;Mesh-sim: Enamel Hypoplasia;  DOID: 0110058;DO-sim: X-linked enamel hypoplasia distance_simhash£∫7
+Mesh:D003744;Mesh-sim: Enamel Agenesis;  DOID: 13711;DO-sim: Mottling of enamel distance_simhash£∫9
+Mesh:D003744;Mesh-sim: Enamel Agenesis;  DOID: 2497;DO-sim: enamel erosion distance_simhash£∫9
+Mesh:D003744;Mesh-sim: Hypoplasia, Dental Enamel;  DOID: 693;DO-sim: dental enamel hypoplasia distance_simhash£∫0
+Mesh:D003750;Mesh-sim: Fissures, Dental;  DOID: 216;DO-sim: Dental caries pit and fissure distance_simhash£∫9
+Mesh:D003750;Mesh-sim: Fissure, Dental;  DOID: 216;DO-sim: Dental caries pit and fissure distance_simhash£∫9
+Mesh:D003750;Mesh-sim: Dental Fissures;  DOID: 216;DO-sim: Dental caries pit and fissure distance_simhash£∫9
+Mesh:D003750;Mesh-sim: Dental Fissure;  DOID: 216;DO-sim: Dental caries pit and fissure distance_simhash£∫9
+Mesh:D003763;Mesh-sim: Dental Leakages;  DOID: 216;DO-sim: dental caries distance_simhash£∫9
+Mesh:D003763;Mesh-sim: Leakage, Dental;  DOID: 216;DO-sim: dental caries distance_simhash£∫9
+Mesh:D003763;Mesh-sim: Dental Leakage;  DOID: 216;DO-sim: dental caries distance_simhash£∫9
+Mesh:D003763;Mesh-sim: Leakages, Dental;  DOID: 216;DO-sim: dental caries distance_simhash£∫9
+Mesh:D003784;Mesh-sim: Dentin Dysplasia, Type II;  DOID: 701;DO-sim: Dentinal dysplasia distance_simhash£∫8
+Mesh:D003784;Mesh-sim: Dentin Dysplasia, Type II;  DOID: 701;DO-sim: dentin dysplasia distance_simhash£∫8
+Mesh:D003784;Mesh-sim: Dental Pulp Calcification;  DOID: 5608;DO-sim: dental pulp calcification distance_simhash£∫0
+Mesh:D003784;Mesh-sim: Pulp Calcification, Dental;  DOID: 5608;DO-sim: dental pulp calcification distance_simhash£∫0
+Mesh:D003784;Mesh-sim: Calcification, Dental Pulp;  DOID: 5608;DO-sim: dental pulp calcification distance_simhash£∫0
+Mesh:D003788;Mesh-sim: Disease, Dental Pulp;  DOID: 5330;DO-sim: dental pulp disease distance_simhash£∫0
+Mesh:D003788;Mesh-sim: Dental Pulp Disease;  DOID: 5330;DO-sim: dental pulp disease distance_simhash£∫0
+Mesh:D003788;Mesh-sim: Dental Pulp Diseases;  DOID: 5330;DO-sim: dental pulp disease distance_simhash£∫0
+Mesh:D003788;Mesh-sim: Pulp Disease, Dental;  DOID: 5330;DO-sim: dental pulp disease distance_simhash£∫0
+Mesh:D003788;Mesh-sim: Pulp Diseases, Dental;  DOID: 5330;DO-sim: dental pulp disease distance_simhash£∫0
+Mesh:D003788;Mesh-sim: Diseases, Dental Pulp;  DOID: 5330;DO-sim: dental pulp disease distance_simhash£∫0
+Mesh:D003790;Mesh-sim: Dental Pulp Necrosis;  DOID: 11623;DO-sim: dental pulp necrosis distance_simhash£∫0
+Mesh:D003790;Mesh-sim: Pulp Necrosis, Dental;  DOID: 11623;DO-sim: dental pulp necrosis distance_simhash£∫0
+Mesh:D003790;Mesh-sim: Pulp Necrosis;  DOID: 2237;DO-sim: acute and subacute liver necrosis distance_simhash£∫9
+Mesh:D003790;Mesh-sim: Pulp Necrosis;  DOID: 11623;DO-sim: necrosis of the pulp distance_simhash£∫0
+Mesh:D003790;Mesh-sim: Pulp Necrosis;  DOID: 11623;DO-sim: pulp necrosis distance_simhash£∫0
+Mesh:D003790;Mesh-sim: Necrosis, Dental Pulp;  DOID: 11623;DO-sim: dental pulp necrosis distance_simhash£∫0
+Mesh:D003805;Mesh-sim: Dentin Dysplasia;  DOID: 701;DO-sim: Dentinal dysplasia distance_simhash£∫0
+Mesh:D003805;Mesh-sim: Dentin Dysplasia;  DOID: 701;DO-sim: dentin dysplasia distance_simhash£∫0
+Mesh:D003807;Mesh-sim: Tooth Sensitivity;  DOID: 0050591;DO-sim: tooth agenesis distance_simhash£∫9
+Mesh:D003807;Mesh-sim: Dentine Sensitivity;  DOID: 698;DO-sim: Sensitive dentin distance_simhash£∫0
+Mesh:D003807;Mesh-sim: Dentine Sensitivity;  DOID: 698;DO-sim: dentin sensitivity distance_simhash£∫0
+Mesh:D003807;Mesh-sim: Dentin Sensitivity;  DOID: 698;DO-sim: Sensitive dentin distance_simhash£∫0
+Mesh:D003807;Mesh-sim: Dentin Sensitivity;  DOID: 698;DO-sim: dentin sensitivity distance_simhash£∫0
+Mesh:D003811;Mesh-sim: Dentinogenesis Imperfecta;  DOID: 4154;DO-sim: dentinogenesis imperfecta distance_simhash£∫0
+Mesh:D003811;Mesh-sim: Dentinogenesis Imperfecta 1;  DOID: 4154;DO-sim: dentinogenesis imperfecta distance_simhash£∫9
+Mesh:D004238;Mesh-sim: Diverticulitis;  DOID: 7475;DO-sim: diverticulitis distance_simhash£∫0
+Mesh:D004239;Mesh-sim: Diverticulitis, Colonic;  DOID: 13254;DO-sim: diverticulitis of colon distance_simhash£∫0
+Mesh:D004239;Mesh-sim: Colonic Diverticulitis;  DOID: 13254;DO-sim: diverticulitis of colon distance_simhash£∫0
+Mesh:D004241;Mesh-sim: Diverticula, Colon;  DOID: 5353;DO-sim: colon disorder distance_simhash£∫8
+Mesh:D004241;Mesh-sim: Colon Diverticula;  DOID: 5353;DO-sim: colon disorder distance_simhash£∫8
+Mesh:D004241;Mesh-sim: Colonic Diverticula;  DOID: 5353;DO-sim: colon disorder distance_simhash£∫8
+Mesh:D004377;Mesh-sim: Dumping Syndrome;  DOID: 14495;DO-sim: dumping syndrome distance_simhash£∫0
+Mesh:D004377;Mesh-sim: Dumping Syndrome;  DOID: 14495;DO-sim: dumping syndrome distance_simhash£∫0
+Mesh:D004378;Mesh-sim: Duodenal Diseases;  DOID: 4072;DO-sim: duodenal disease distance_simhash£∫0
+Mesh:D004380;Mesh-sim: Duodenal Obstruction;  DOID: 3558;DO-sim: duodenal obstruction distance_simhash£∫0
+Mesh:D004380;Mesh-sim: Duodenal Obstruction;  DOID: 3558;DO-sim: duodenal obstruction distance_simhash£∫0
+Mesh:D004381;Mesh-sim: Duodenal Ulcer;  DOID: 1724;DO-sim: duodenal ulcer distance_simhash£∫0
+Mesh:D004381;Mesh-sim: Curling's Ulcer;  DOID: 1724;DO-sim: Curling's ulcers distance_simhash£∫0
+Mesh:D004381;Mesh-sim: Curling Ulcer;  DOID: 1724;DO-sim: Curling Ulcer distance_simhash£∫0
+Mesh:D004382;Mesh-sim: Duodenitis;  DOID: 8643;DO-sim: duodenitis distance_simhash£∫0
+Mesh:D004382;Mesh-sim: Erosive Duodenitis;  DOID: 4072;DO-sim: duodenal disease distance_simhash£∫9
+Mesh:D004383;Mesh-sim: Duodenogastric Reflux;  DOID: 4071;DO-sim: duodenogastric reflux distance_simhash£∫0
+Mesh:D004383;Mesh-sim: Duodenogastric Reflux;  DOID: 4071;DO-sim: duodenogastric reflux distance_simhash£∫0
+Mesh:D004403;Mesh-sim: Dysentery;  DOID: 12384;DO-sim: dysentery distance_simhash£∫0
+Mesh:D004761;Mesh-sim: Enteritis, Pseudomembranous;  DOID: 0060779;DO-sim: enteric anendocrinosis distance_simhash£∫9
+Mesh:D004761;Mesh-sim: Enteritis, Pseudomembranous;  DOID: 100;DO-sim: bacterial enteritis distance_simhash£∫9
+Mesh:D004761;Mesh-sim: Colitis, Pseudomembranous;  DOID: 0060185;DO-sim: Pseudomembranous colitis distance_simhash£∫0
+Mesh:D004761;Mesh-sim: Pseudomembranous Colitis;  DOID: 0060185;DO-sim: Pseudomembranous colitis distance_simhash£∫0
+Mesh:D004761;Mesh-sim: Pseudomembranous Enteritis;  DOID: 0060779;DO-sim: enteric anendocrinosis distance_simhash£∫9
+Mesh:D004761;Mesh-sim: Pseudomembranous Enteritis;  DOID: 100;DO-sim: bacterial enteritis distance_simhash£∫9
+Mesh:D004933;Mesh-sim: Atresia, Esophageal;  DOID: 0080171;DO-sim: esophageal atresia and/or tracheoesophageal fistula distance_simhash£∫9
+Mesh:D004933;Mesh-sim: Atresia, Esophageal;  DOID: 0080171;DO-sim: esophageal atresia/tracheoesophageal fistula distance_simhash£∫9
+Mesh:D004933;Mesh-sim: Atresia, Esophageal;  DOID: 9192;DO-sim: esophageal dysmotility distance_simhash£∫8
+Mesh:D004933;Mesh-sim: Atresia, Esophageal;  DOID: 10485;DO-sim: esophageal atresia distance_simhash£∫0
+Mesh:D004933;Mesh-sim: Atresia, Esophageal;  DOID: 9192;DO-sim: esophageal dysmotility distance_simhash£∫8
+Mesh:D004933;Mesh-sim: Atresia, Esophageal;  DOID: 10485;DO-sim: esophageal atresia distance_simhash£∫0
+Mesh:D004933;Mesh-sim: Atresia, Esophageal;  DOID: 10486;DO-sim: intestinal atresia distance_simhash£∫9
+Mesh:D004933;Mesh-sim: Esophageal Atresia;  DOID: 0080171;DO-sim: esophageal atresia and/or tracheoesophageal fistula distance_simhash£∫9
+Mesh:D004933;Mesh-sim: Esophageal Atresia;  DOID: 0080171;DO-sim: esophageal atresia/tracheoesophageal fistula distance_simhash£∫9
+Mesh:D004933;Mesh-sim: Esophageal Atresia;  DOID: 9192;DO-sim: esophageal dysmotility distance_simhash£∫8
+Mesh:D004933;Mesh-sim: Esophageal Atresia;  DOID: 10485;DO-sim: esophageal atresia distance_simhash£∫0
+Mesh:D004933;Mesh-sim: Esophageal Atresia;  DOID: 9192;DO-sim: esophageal dysmotility distance_simhash£∫8
+Mesh:D004933;Mesh-sim: Esophageal Atresia;  DOID: 10485;DO-sim: esophageal atresia distance_simhash£∫0
+Mesh:D004933;Mesh-sim: Esophageal Atresia;  DOID: 10486;DO-sim: intestinal atresia distance_simhash£∫9
+Mesh:D004931;Mesh-sim: Esophageal Achalasia;  DOID: 9164;DO-sim: esophageal achalasia distance_simhash£∫0
+Mesh:D004931;Mesh-sim: Cardiospasm;  DOID: 9164;DO-sim: cardiospasm distance_simhash£∫0
+Mesh:D004931;Mesh-sim: Megaesophagus;  DOID: 13186;DO-sim: megaesophagus distance_simhash£∫0
+Mesh:D004931;Mesh-sim: Achalasia, Esophageal;  DOID: 9164;DO-sim: esophageal achalasia distance_simhash£∫0
+Mesh:D004931;Mesh-sim: Achalasia;  DOID: 9164;DO-sim: achalasia distance_simhash£∫0
+Mesh:D004935;Mesh-sim: Esophageal Diseases;  DOID: 6050;DO-sim: esophageal disease distance_simhash£∫0
+Mesh:D004935;Mesh-sim: Esophageal Diseases;  DOID: 5295;DO-sim: intestinal disease distance_simhash£∫8
+Mesh:D004935;Mesh-sim: Esophageal Diseases;  DOID: 8476;DO-sim: Whipple disease distance_simhash£∫9
+Mesh:D004937;Mesh-sim: Esophageal Fistula;  DOID: 0080171;DO-sim: esophageal atresia and/or tracheoesophageal fistula distance_simhash£∫8
+Mesh:D004937;Mesh-sim: Esophageal Fistula;  DOID: 0080171;DO-sim: esophageal atresia/tracheoesophageal fistula distance_simhash£∫8
+Mesh:D004941;Mesh-sim: Esophagitis;  DOID: 11963;DO-sim: esophagitis distance_simhash£∫0
+Mesh:D004941;Mesh-sim: Esophagitis;  DOID: 11963;DO-sim: esophagitis distance_simhash£∫0
+Mesh:D004942;Mesh-sim: Esophagitis, Reflux;  DOID: 13976;DO-sim: reflux esophagitis distance_simhash£∫0
+Mesh:D004942;Mesh-sim: Esophagitis, Reflux;  DOID: 13976;DO-sim: reflux esophagitis distance_simhash£∫0
+Mesh:D004942;Mesh-sim: Esophagitis, Peptic;  DOID: 13976;DO-sim: Peptic esophagitis distance_simhash£∫0
+Mesh:D004942;Mesh-sim: Esophagitis, Peptic;  DOID: 13976;DO-sim: peptic esophagitis distance_simhash£∫0
+Mesh:D004942;Mesh-sim: Esophagitis, Peptic;  DOID: 13976;DO-sim: Peptic esophagitis distance_simhash£∫0
+Mesh:D004942;Mesh-sim: Esophagitis, Peptic;  DOID: 13976;DO-sim: peptic esophagitis distance_simhash£∫0
+Mesh:D004947;Mesh-sim: Esophagus;  DOID: 10485;DO-sim: Congenital atresia of esophagus distance_simhash£∫9
+Mesh:D004947;Mesh-sim: Esophagus;  DOID: 10485;DO-sim: Congenital atresia of esophagus distance_simhash£∫9
+Mesh:D005150;Mesh-sim: Romberg's Disease;  DOID: 8778;DO-sim: Crohn's disease distance_simhash£∫9
+Mesh:D005150;Mesh-sim: Romberg's Disease;  DOID: 8778;DO-sim: Crohn's disease of large bowel distance_simhash£∫7
+Mesh:D005150;Mesh-sim: Romberg Disease;  DOID: 403;DO-sim: mouth disease distance_simhash£∫9
+Mesh:D005156;Mesh-sim: Myofacial Pain Syndromes;  DOID: 0110066;DO-sim: enamel-renal syndrome distance_simhash£∫9
+Mesh:D005155;Mesh-sim: Seventh Cranial Nerve Diseases;  DOID: 0060262;DO-sim: gallbladder disease distance_simhash£∫9
+Mesh:D005234;Mesh-sim: Liver Steatosis;  DOID: 5082;DO-sim: cirrhosis of liver distance_simhash£∫9
+Mesh:D005234;Mesh-sim: Liver Steatosis;  DOID: 5082;DO-sim: liver cirrhosis distance_simhash£∫9
+Mesh:D005234;Mesh-sim: Steatosis of Liver;  DOID: 5082;DO-sim: cirrhosis of liver distance_simhash£∫9
+Mesh:D005234;Mesh-sim: Steatosis of Liver;  DOID: 5082;DO-sim: liver cirrhosis distance_simhash£∫9
+Mesh:D005234;Mesh-sim: Fatty Liver;  DOID: 409;DO-sim: liver disease distance_simhash£∫9
+Mesh:D005351;Mesh-sim: Gingival Fibromatosis;  DOID: 0060466;DO-sim: gingival fibromatosis distance_simhash£∫0
+Mesh:D005351;Mesh-sim: Fibromatosis, Gingival;  DOID: 0060466;DO-sim: gingival fibromatosis distance_simhash£∫0
+Mesh:D005401;Mesh-sim: Anal Ulcer;  DOID: 3128;DO-sim: anal ulcer distance_simhash£∫0
+Mesh:D005401;Mesh-sim: Anal Ulcer;  DOID: 3128;DO-sim: Solitary anal ulcer distance_simhash£∫9
+Mesh:D005401;Mesh-sim: Anal Fissure;  DOID: 3128;DO-sim: anal fissure distance_simhash£∫0
+Mesh:D005401;Mesh-sim: Fissure in Ano;  DOID: 3128;DO-sim: fissure in ano distance_simhash£∫0
+Mesh:D005705;Mesh-sim: Gallbladder Diseases;  DOID: 0060262;DO-sim: gallbladder disease distance_simhash£∫0
+Mesh:D005705;Mesh-sim: Gallbladder Diseases;  DOID: 1518;DO-sim: cecal disease distance_simhash£∫9
+Mesh:D005753;Mesh-sim: Pyloric Glands;  DOID: 12639;DO-sim: pyloric stenosis distance_simhash£∫9
+Mesh:D005756;Mesh-sim: Gastritis;  DOID: 4029;DO-sim: gastritis distance_simhash£∫0
+Mesh:D005757;Mesh-sim: Gastritis, Atrophic;  DOID: 8929;DO-sim: atrophic gastritis distance_simhash£∫0
+Mesh:D005758;Mesh-sim: Gastritis, Familial Giant Hypertrophic;  DOID: 8757;DO-sim: familial giant hypertrophic gastritis distance_simhash£∫0
+Mesh:D005758;Mesh-sim: Menetrier's Disease;  DOID: 893;DO-sim: Wilson's disease distance_simhash£∫9
+Mesh:D005758;Mesh-sim: Menetrier's Disease;  DOID: 10487;DO-sim: Hirschsprung's disease distance_simhash£∫9
+Mesh:D005758;Mesh-sim: Gastritis, Hypertrophic;  DOID: 8757;DO-sim: hypertrophic gastritis distance_simhash£∫0
+Mesh:D005758;Mesh-sim: Menetrier Disease;  DOID: 8757;DO-sim: MENETRIER DISEASE distance_simhash£∫0
+Mesh:D005759;Mesh-sim: Gastroenteritis;  DOID: 2326;DO-sim: gastroenteritis distance_simhash£∫0
+Mesh:D005764;Mesh-sim: Reflux, Gastroesophageal;  DOID: 8534;DO-sim: Gastroesophageal reflux distance_simhash£∫0
+Mesh:D005764;Mesh-sim: Gastroesophageal Reflux Disease;  DOID: 8534;DO-sim: gastroesophageal reflux disease distance_simhash£∫0
+Mesh:D005764;Mesh-sim: Gastroesophageal Reflux Disease;  DOID: 8534;DO-sim: Gastroesophageal reflux disease distance_simhash£∫0
+Mesh:D005764;Mesh-sim: Gastroesophageal Reflux;  DOID: 8534;DO-sim: Gastroesophageal reflux distance_simhash£∫0
+Mesh:D005764;Mesh-sim: Esophageal Reflux;  DOID: 13976;DO-sim: reflux esophagitis distance_simhash£∫0
+Mesh:D005764;Mesh-sim: Esophageal Reflux;  DOID: 13976;DO-sim: reflux esophagitis distance_simhash£∫0
+Mesh:D005764;Mesh-sim: GERD;  DOID: 8534;DO-sim: GERD distance_simhash£∫0
+Mesh:D005764;Mesh-sim: Gastro-Esophageal Reflux;  DOID: 8534;DO-sim: Gastro-esophageal reflux distance_simhash£∫0
+Mesh:D005767;Mesh-sim: Gastrointestinal Diseases;  DOID: 77;DO-sim: gastrointestinal disease distance_simhash£∫0
+Mesh:D005767;Mesh-sim: Functional Gastrointestinal Disorders;  DOID: 409;DO-sim: disorder of liver (disorder) distance_simhash£∫8
+Mesh:D005767;Mesh-sim: Functional Gastrointestinal Disorders;  DOID: 1518;DO-sim: disorder of cecum (disorder) distance_simhash£∫8
+Mesh:D005767;Mesh-sim: Gastrointestinal Disorders, Functional;  DOID: 409;DO-sim: disorder of liver (disorder) distance_simhash£∫8
+Mesh:D005767;Mesh-sim: Gastrointestinal Disorders, Functional;  DOID: 1518;DO-sim: disorder of cecum (disorder) distance_simhash£∫8
+Mesh:D005882;Mesh-sim: Epulis;  DOID: 5337;DO-sim: epulis distance_simhash£∫0
+Mesh:D005882;Mesh-sim: Epulides;  DOID: 5337;DO-sim: epulides distance_simhash£∫0
+Mesh:D005882;Mesh-sim: Epulides;  DOID: 7280;DO-sim: Congenital Epulides distance_simhash£∫7
+Mesh:D005882;Mesh-sim: Gingival Diseases;  DOID: 1483;DO-sim: gingival disease distance_simhash£∫0
+Mesh:D005886;Mesh-sim: Gingival Hypertrophy;  DOID: 5338;DO-sim: gingival hypertrophy distance_simhash£∫0
+Mesh:D005887;Mesh-sim: Congenital Epulis;  DOID: 7280;DO-sim: congenital epulis distance_simhash£∫0
+Mesh:D005887;Mesh-sim: Congenital Epulis;  DOID: 7280;DO-sim: Congenital Epulis distance_simhash£∫0
+Mesh:D005887;Mesh-sim: Epulis, Congenital;  DOID: 7280;DO-sim: congenital epulis distance_simhash£∫0
+Mesh:D005887;Mesh-sim: Epulis, Congenital;  DOID: 7280;DO-sim: Congenital Epulis distance_simhash£∫0
+Mesh:D005887;Mesh-sim: Epulides, Congenital;  DOID: 5337;DO-sim: epulides distance_simhash£∫7
+Mesh:D005887;Mesh-sim: Epulides, Congenital;  DOID: 7280;DO-sim: Congenital Epulides distance_simhash£∫0
+Mesh:D005887;Mesh-sim: Congenital Epulides;  DOID: 5337;DO-sim: epulides distance_simhash£∫7
+Mesh:D005887;Mesh-sim: Congenital Epulides;  DOID: 7280;DO-sim: Congenital Epulides distance_simhash£∫0
+Mesh:D005889;Mesh-sim: Gingival Recession;  DOID: 1134;DO-sim: gingival recession distance_simhash£∫0
+Mesh:D005889;Mesh-sim: Gingival Recession;  DOID: 1134;DO-sim: Gingival recession distance_simhash£∫0
+Mesh:D005891;Mesh-sim: Gingivitis;  DOID: 3087;DO-sim: gingivitis distance_simhash£∫0
+Mesh:D005892;Mesh-sim: Stomatitis, Ulcerative;  DOID: 9663;DO-sim: oral ulcer distance_simhash£∫7
+Mesh:D005892;Mesh-sim: Stomatitis, Ulcerative;  DOID: 9673;DO-sim: ulcerative stomatitis distance_simhash£∫0
+Mesh:D005892;Mesh-sim: Trench Mouth;  DOID: 13924;DO-sim: Trench mouth distance_simhash£∫0
+Mesh:D005892;Mesh-sim: Acute Necrotizing Ulcerative Gingivitis;  DOID: 13924;DO-sim: acute necrotizing ulcerative gingivitis distance_simhash£∫0
+Mesh:D005892;Mesh-sim: Vincent Angina;  DOID: 13924;DO-sim: Vincent angina distance_simhash£∫0
+Mesh:D005892;Mesh-sim: Vincent Angina;  DOID: 13924;DO-sim: Angina - Vincents distance_simhash£∫0
+Mesh:D005892;Mesh-sim: Gingivitis, Necrotizing Ulcerative;  DOID: 13924;DO-sim: necrotizing ulcerative gingivitis distance_simhash£∫0
+Mesh:D005928;Mesh-sim: Glossitis;  DOID: 1456;DO-sim: glossitis distance_simhash£∫0
+Mesh:D005929;Mesh-sim: Geographic Tongue;  DOID: 11514;DO-sim: geographic tongue and fissured tongue distance_simhash£∫4
+Mesh:D005929;Mesh-sim: Geographic Tongue;  DOID: 11514;DO-sim: Tongue, Fissured distance_simhash£∫9
+Mesh:D005929;Mesh-sim: Geographic Tongue;  DOID: 11514;DO-sim: Fissure of tongue distance_simhash£∫9
+Mesh:D005929;Mesh-sim: Geographic Tongue;  DOID: 11514;DO-sim: fissured tongue distance_simhash£∫9
+Mesh:D005929;Mesh-sim: Geographic Tongue;  DOID: 1455;DO-sim: geographic tongue distance_simhash£∫0
+Mesh:D005929;Mesh-sim: Glossitis, Benign Migratory;  DOID: 1455;DO-sim: benign migratory glossitis distance_simhash£∫0
+Mesh:D005929;Mesh-sim: Glossitis Areata Exfoliativa;  DOID: 1455;DO-sim: Glossitis areata exfoliativa distance_simhash£∫0
+Mesh:D005929;Mesh-sim: Tongue, Geographic;  DOID: 11514;DO-sim: geographic tongue and fissured tongue distance_simhash£∫4
+Mesh:D005929;Mesh-sim: Tongue, Geographic;  DOID: 11514;DO-sim: Tongue, Fissured distance_simhash£∫9
+Mesh:D005929;Mesh-sim: Tongue, Geographic;  DOID: 11514;DO-sim: Fissure of tongue distance_simhash£∫9
+Mesh:D005929;Mesh-sim: Tongue, Geographic;  DOID: 11514;DO-sim: fissured tongue distance_simhash£∫9
+Mesh:D005929;Mesh-sim: Tongue, Geographic;  DOID: 1455;DO-sim: geographic tongue distance_simhash£∫0
+Mesh:D006501;Mesh-sim: Hepatic Coma;  DOID: 1884;DO-sim: viral hepatitis with hepatic coma distance_simhash£∫8
+Mesh:D006505;Mesh-sim: Hepatitis;  DOID: 2237;DO-sim: hepatitis distance_simhash£∫0
+Mesh:D006505;Mesh-sim: Hepatitis;  DOID: 1884;DO-sim: Viral hepatitis with hepatic coma (disorder) distance_simhash£∫9
+Mesh:D006505;Mesh-sim: Hepatitis;  DOID: 1884;DO-sim: viral hepatitis with hepatic coma distance_simhash£∫9
+Mesh:D006505;Mesh-sim: Hepatitis;  DOID: 1884;DO-sim: Unspecified viral hepatitis with hepatic coma distance_simhash£∫7
+Mesh:D006506;Mesh-sim: Hepatitis A;  DOID: 2237;DO-sim: hepatitis distance_simhash£∫0
+Mesh:D006506;Mesh-sim: Hepatitis A;  DOID: 1884;DO-sim: Viral hepatitis with hepatic coma (disorder) distance_simhash£∫9
+Mesh:D006506;Mesh-sim: Hepatitis A;  DOID: 1884;DO-sim: viral hepatitis with hepatic coma distance_simhash£∫9
+Mesh:D006506;Mesh-sim: Hepatitis A;  DOID: 1884;DO-sim: Unspecified viral hepatitis with hepatic coma distance_simhash£∫7
+Mesh:D006519;Mesh-sim: Alcoholic Hepatitis;  DOID: 12351;DO-sim: Alcoholic Hepatitis distance_simhash£∫0
+Mesh:D006519;Mesh-sim: Alcoholic Hepatitis;  DOID: 12351;DO-sim: Alcoholic hepatitis distance_simhash£∫0
+Mesh:D006519;Mesh-sim: Alcoholic Hepatitis;  DOID: 12351;DO-sim: alcoholic hepatitis distance_simhash£∫0
+Mesh:D006519;Mesh-sim: Hepatitis, Alcoholic;  DOID: 12351;DO-sim: Alcoholic Hepatitis distance_simhash£∫0
+Mesh:D006519;Mesh-sim: Hepatitis, Alcoholic;  DOID: 12351;DO-sim: Alcoholic hepatitis distance_simhash£∫0
+Mesh:D006519;Mesh-sim: Hepatitis, Alcoholic;  DOID: 12351;DO-sim: alcoholic hepatitis distance_simhash£∫0
+Mesh:D006520;Mesh-sim: Hepatitis, Animal;  DOID: 2237;DO-sim: animal hepatitis distance_simhash£∫0
+Mesh:D006521;Mesh-sim: Chronic Hepatitis;  DOID: 2237;DO-sim: chronic hepatitis distance_simhash£∫0
+Mesh:D006521;Mesh-sim: Hepatitis, Chronic Persistent;  DOID: 2237;DO-sim: chronic persistent hepatitis distance_simhash£∫0
+Mesh:D006521;Mesh-sim: Hepatitis, Chronic;  DOID: 2237;DO-sim: chronic hepatitis distance_simhash£∫0
+Mesh:D006524;Mesh-sim: Viral Hepatitis, Animal;  DOID: 1884;DO-sim: animal viral hepatitis distance_simhash£∫0
+Mesh:D006524;Mesh-sim: Hepatitis, Viral, Animal;  DOID: 1884;DO-sim: animal viral hepatitis distance_simhash£∫0
+Mesh:D006525;Mesh-sim: Hepatitis, Viral, Human;  DOID: 1884;DO-sim: human viral hepatitis distance_simhash£∫0
+Mesh:D006525;Mesh-sim: Viral Hepatitis, Human;  DOID: 1884;DO-sim: human viral hepatitis distance_simhash£∫0
+Mesh:D006527;Mesh-sim: Wilson's Disease;  DOID: 893;DO-sim: Wilson's disease distance_simhash£∫0
+Mesh:D006527;Mesh-sim: Wilson's Disease;  DOID: 8778;DO-sim: Crohn's disease distance_simhash£∫7
+Mesh:D006527;Mesh-sim: Wilson's Disease;  DOID: 0060191;DO-sim: gastroduodenal Crohn's disease distance_simhash£∫9
+Mesh:D006527;Mesh-sim: Wilson's Disease;  DOID: 13924;DO-sim: Vincent's disease distance_simhash£∫9
+Mesh:D006527;Mesh-sim: Wilson Disease;  DOID: 60000;DO-sim: appendix disease distance_simhash£∫8
+Mesh:D006527;Mesh-sim: Wilson Disease;  DOID: 0060775;DO-sim: Davidson disease distance_simhash£∫9
+Mesh:D006527;Mesh-sim: Wilson Disease;  DOID: 893;DO-sim: Wilson disease distance_simhash£∫0
+Mesh:D006527;Mesh-sim: Wilson Disease;  DOID: 8476;DO-sim: Whipple disease distance_simhash£∫9
+Mesh:D006527;Mesh-sim: Pseudosclerosis;  DOID: 893;DO-sim: Cerebral pseudosclerosis distance_simhash£∫9
+Mesh:D006527;Mesh-sim: Hepatolenticular Degeneration;  DOID: 893;DO-sim: hepatolenticular degeneration distance_simhash£∫0
+Mesh:D006527;Mesh-sim: Cerebral Pseudosclerosis;  DOID: 893;DO-sim: Cerebral pseudosclerosis distance_simhash£∫0
+Mesh:D006527;Mesh-sim: Westphal-Strumpell Syndrome;  DOID: 893;DO-sim: Westphal-Strumpell syndrome distance_simhash£∫0
+Mesh:D006528;Mesh-sim: Carcinoma, Hepatocellular;  DOID: 14268;DO-sim: fibrosing cholangitis distance_simhash£∫9
+Mesh:D006528;Mesh-sim: Hepatocellular Carcinoma;  DOID: 14268;DO-sim: fibrosing cholangitis distance_simhash£∫9
+Mesh:D006530;Mesh-sim: Hepatorenal Syndrome;  DOID: 11823;DO-sim: hepatorenal syndrome distance_simhash£∫0
+Mesh:D006627;Mesh-sim: Aganglionic Megacolon;  DOID: 10487;DO-sim: aganglionic megacolon distance_simhash£∫0
+Mesh:D006627;Mesh-sim: Megacolon, Congenital;  DOID: 10487;DO-sim: congenital megacolon distance_simhash£∫0
+Mesh:D006627;Mesh-sim: Congenital Megacolon;  DOID: 10487;DO-sim: congenital megacolon distance_simhash£∫0
+Mesh:D006627;Mesh-sim: Hirschsprung's Disease;  DOID: 10487;DO-sim: Hirschsprung's disease distance_simhash£∫0
+Mesh:D006627;Mesh-sim: Megacolon, Aganglionic;  DOID: 10487;DO-sim: aganglionic megacolon distance_simhash£∫0
+Mesh:D006627;Mesh-sim: Hirschsprung Disease;  DOID: 10487;DO-sim: Hirschsprung disease distance_simhash£∫0
+Mesh:D006627;Mesh-sim: Hirschsprung Disease;  DOID: 1091;DO-sim: tooth disease distance_simhash£∫8
+Mesh:D006936;Mesh-sim: Hypercementosis;  DOID: 12733;DO-sim: hypercementosis distance_simhash£∫0
+Mesh:D006975;Mesh-sim: Cruveilhier-Baumgarten Syndrome;  DOID: 0110066;DO-sim: enamel-renal syndrome distance_simhash£∫9
+Mesh:D007079;Mesh-sim: Ileitis;  DOID: 0060189;DO-sim: ileitis distance_simhash£∫0
+Mesh:D007410;Mesh-sim: Intestinal Diseases;  DOID: 6050;DO-sim: esophageal disease distance_simhash£∫8
+Mesh:D007410;Mesh-sim: Intestinal Diseases;  DOID: 5295;DO-sim: intestinal disease distance_simhash£∫0
+Mesh:D007410;Mesh-sim: Intestinal Diseases;  DOID: 8476;DO-sim: Whipple disease distance_simhash£∫9
+Mesh:D007409;Mesh-sim: Apple-Peel Intestinal Atresia;  DOID: 10486;DO-sim: intestinal atresia distance_simhash£∫7
+Mesh:D007409;Mesh-sim: Jejunal Atresia;  DOID: 10485;DO-sim: Oesophageal atresia distance_simhash£∫6
+Mesh:D007409;Mesh-sim: Jejunal Atresia;  DOID: 10485;DO-sim: esophageal atresia distance_simhash£∫9
+Mesh:D007409;Mesh-sim: Jejunal Atresia;  DOID: 10485;DO-sim: Oesophageal atresia distance_simhash£∫6
+Mesh:D007409;Mesh-sim: Jejunal Atresia;  DOID: 10485;DO-sim: esophageal atresia distance_simhash£∫9
+Mesh:D007409;Mesh-sim: Atresia, Intestinal;  DOID: 10485;DO-sim: esophageal atresia distance_simhash£∫9
+Mesh:D007409;Mesh-sim: Atresia, Intestinal;  DOID: 10485;DO-sim: esophageal atresia distance_simhash£∫9
+Mesh:D007409;Mesh-sim: Atresia, Intestinal;  DOID: 10486;DO-sim: intestinal atresia distance_simhash£∫0
+Mesh:D007409;Mesh-sim: Intestinal Atresia;  DOID: 10485;DO-sim: esophageal atresia distance_simhash£∫9
+Mesh:D007409;Mesh-sim: Intestinal Atresia;  DOID: 10485;DO-sim: esophageal atresia distance_simhash£∫9
+Mesh:D007409;Mesh-sim: Intestinal Atresia;  DOID: 10486;DO-sim: intestinal atresia distance_simhash£∫0
+Mesh:D007415;Mesh-sim: Intestinal Obstruction;  DOID: 8437;DO-sim: intestinal obstruction distance_simhash£∫0
+Mesh:D007415;Mesh-sim: Intestinal Obstruction;  DOID: 3878;DO-sim: Pseudo-obstruction of intestine (disorder) distance_simhash£∫8
+Mesh:D007416;Mesh-sim: Intestinal Perforation;  DOID: 2074;DO-sim: intestinal perforation distance_simhash£∫0
+Mesh:D007416;Mesh-sim: Intestinal Perforation;  DOID: 2074;DO-sim: Perforation of intestine distance_simhash£∫0
+Mesh:D007418;Mesh-sim: Paralytic Ileus;  DOID: 8442;DO-sim: paralytic ileus distance_simhash£∫0
+Mesh:D007418;Mesh-sim: Pseudo-Obstruction, Intestinal;  DOID: 3878;DO-sim: intestinal Pseudo-obstruction distance_simhash£∫0
+Mesh:D007418;Mesh-sim: Pseudo-Obstruction, Intestinal;  DOID: 3878;DO-sim: intestinal pseudo-obstruction distance_simhash£∫0
+Mesh:D007418;Mesh-sim: Chronic Idiopathic Intestinal Pseudo-Obstruction;  DOID: 3878;DO-sim: intestinal Pseudo-obstruction distance_simhash£∫6
+Mesh:D007418;Mesh-sim: Chronic Idiopathic Intestinal Pseudo-Obstruction;  DOID: 3878;DO-sim: intestinal pseudo-obstruction distance_simhash£∫6
+Mesh:D007418;Mesh-sim: Enteric Neuropathy;  DOID: 0060779;DO-sim: enteric anendocrinosis distance_simhash£∫9
+Mesh:D007418;Mesh-sim: Enteric Neuropathy;  DOID: 11514;DO-sim: Furrowed tongue distance_simhash£∫9
+Mesh:D007418;Mesh-sim: Intestinal Pseudo-Obstruction;  DOID: 3878;DO-sim: intestinal Pseudo-obstruction distance_simhash£∫0
+Mesh:D007418;Mesh-sim: Intestinal Pseudo-Obstruction;  DOID: 3878;DO-sim: intestinal pseudo-obstruction distance_simhash£∫0
+Mesh:D007418;Mesh-sim: Intestinal Pseudoobstruction;  DOID: 3878;DO-sim: intestine pseudoobstruction distance_simhash£∫0
+Mesh:D007443;Mesh-sim: Intussusception;  DOID: 8446;DO-sim: intussusception distance_simhash£∫0
+Mesh:D007571;Mesh-sim: Jaw Diseases;  DOID: 0110885;DO-sim: inflammatory bowel disease (Crohn disease) 10 distance_simhash£∫9
+Mesh:D007579;Mesh-sim: Jejunal Diseases;  DOID: 8778;DO-sim: Crohn disease distance_simhash£∫9
+Mesh:D007967;Mesh-sim: Leukoedema, Oral;  DOID: 4557;DO-sim: oral leukoedema distance_simhash£∫0
+Mesh:D008047;Mesh-sim: Lip Diseases;  DOID: 9297;DO-sim: disease of lips distance_simhash£∫0
+Mesh:D008047;Mesh-sim: Lip Diseases;  DOID: 9297;DO-sim: lip disease distance_simhash£∫0
+Mesh:D008061;Mesh-sim: Whipple Disease;  DOID: 60000;DO-sim: appendix disease distance_simhash£∫9
+Mesh:D008061;Mesh-sim: Whipple Disease;  DOID: 6050;DO-sim: esophageal disease distance_simhash£∫9
+Mesh:D008061;Mesh-sim: Whipple Disease;  DOID: 893;DO-sim: Wilson disease distance_simhash£∫9
+Mesh:D008061;Mesh-sim: Whipple Disease;  DOID: 5295;DO-sim: intestinal disease distance_simhash£∫9
+Mesh:D008061;Mesh-sim: Whipple Disease;  DOID: 8476;DO-sim: Whipple disease distance_simhash£∫0
+Mesh:D008061;Mesh-sim: Whipple Disease;  DOID: 0110903;DO-sim: inflammatory bowel disease 4 distance_simhash£∫9
+Mesh:D008061;Mesh-sim: Whipple's Disease;  DOID: 8476;DO-sim: Whipple's disease (disorder) distance_simhash£∫7
+Mesh:D008061;Mesh-sim: Whipple's Disease;  DOID: 8476;DO-sim: Whipple's disease distance_simhash£∫0
+Mesh:D008061;Mesh-sim: Whipple's Disease;  DOID: 8778;DO-sim: Crohn's disease of colon (disorder) distance_simhash£∫6
+Mesh:D008061;Mesh-sim: Lipodystrophy, Intestinal;  DOID: 8476;DO-sim: intestinal lipodystrophy distance_simhash£∫0
+Mesh:D008099;Mesh-sim: Livers;  DOID: 409;DO-sim: liver disease distance_simhash£∫8
+Mesh:D008099;Mesh-sim: Liver;  DOID: 409;DO-sim: liver disease distance_simhash£∫8
+Mesh:D008100;Mesh-sim: Liver Abscess;  DOID: 409;DO-sim: liver disease distance_simhash£∫8
+Mesh:D008101;Mesh-sim: Hepatic Abscess, Amoebic;  DOID: 2237;DO-sim: hepatitis distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Cirrhosis, Liver;  DOID: 409;DO-sim: liver disease distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Cirrhosis, Liver;  DOID: 5082;DO-sim: cirrhosis of liver distance_simhash£∫0
+Mesh:D008103;Mesh-sim: Cirrhosis, Liver;  DOID: 5082;DO-sim: liver cirrhosis distance_simhash£∫0
+Mesh:D008103;Mesh-sim: Cirrhosis, Liver;  DOID: 12236;DO-sim: cholestatic cirrhosis distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Liver Cirrhosis;  DOID: 409;DO-sim: liver disease distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Liver Cirrhosis;  DOID: 5082;DO-sim: cirrhosis of liver distance_simhash£∫0
+Mesh:D008103;Mesh-sim: Liver Cirrhosis;  DOID: 5082;DO-sim: liver cirrhosis distance_simhash£∫0
+Mesh:D008103;Mesh-sim: Liver Cirrhosis;  DOID: 12236;DO-sim: cholestatic cirrhosis distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Fibrosis, Liver;  DOID: 409;DO-sim: liver disease distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Liver Fibrosis;  DOID: 409;DO-sim: liver disease distance_simhash£∫9
+Mesh:D008104;Mesh-sim: Alcoholic Cirrhosis;  DOID: 14018;DO-sim: Alcoholic cirrhosis of liver distance_simhash£∫9
+Mesh:D008104;Mesh-sim: Alcoholic Cirrhosis;  DOID: 14018;DO-sim: Alcoholic Cirrhosis distance_simhash£∫0
+Mesh:D008104;Mesh-sim: Alcoholic Cirrhosis;  DOID: 14018;DO-sim: alcoholic liver cirrhosis distance_simhash£∫9
+Mesh:D008104;Mesh-sim: Liver Cirrhosis, Alcoholic;  DOID: 14018;DO-sim: Alcoholic cirrhosis of liver distance_simhash£∫0
+Mesh:D008104;Mesh-sim: Liver Cirrhosis, Alcoholic;  DOID: 14018;DO-sim: Alcoholic Cirrhosis distance_simhash£∫9
+Mesh:D008104;Mesh-sim: Liver Cirrhosis, Alcoholic;  DOID: 14018;DO-sim: alcoholic liver cirrhosis distance_simhash£∫0
+Mesh:D008104;Mesh-sim: Hepatic Cirrhosis, Alcoholic;  DOID: 12351;DO-sim: Alcoholic hepatitis (disorder) distance_simhash£∫9
+Mesh:D008105;Mesh-sim: Primary Biliary Cirrhosis;  DOID: 12236;DO-sim: primary biliary cirrhosis distance_simhash£∫0
+Mesh:D008105;Mesh-sim: Cholangitis, Chronic Nonsuppurative Destructive;  DOID: 12236;DO-sim: chronic nonsuppurative destructive cholangitis distance_simhash£∫0
+Mesh:D008105;Mesh-sim: Cholangitis, Chronic Nonsuppurative Destructive;  DOID: 3087;DO-sim: chronic gingivitis distance_simhash£∫9
+Mesh:D008105;Mesh-sim: Liver Cirrhosis, Biliary;  DOID: 12236;DO-sim: biliary liver cirrhosis distance_simhash£∫0
+Mesh:D008105;Mesh-sim: Biliary Cirrhosis, Primary;  DOID: 12236;DO-sim: primary biliary cirrhosis distance_simhash£∫0
+Mesh:D008107;Mesh-sim: Liver Diseases;  DOID: 409;DO-sim: liver disease distance_simhash£∫0
+Mesh:D008107;Mesh-sim: Liver Diseases;  DOID: 12351;DO-sim: acute alcoholic liver disease distance_simhash£∫8
+Mesh:D008107;Mesh-sim: Liver Diseases;  DOID: 5082;DO-sim: cirrhosis of liver distance_simhash£∫9
+Mesh:D008107;Mesh-sim: Liver Diseases;  DOID: 5082;DO-sim: liver cirrhosis distance_simhash£∫9
+Mesh:D008107;Mesh-sim: Liver Dysfunction;  DOID: 9779;DO-sim: bowel dysfunction distance_simhash£∫9
+Mesh:D008108;Mesh-sim: Liver Diseases, Alcoholic;  DOID: 12351;DO-sim: acute alcoholic liver disease distance_simhash£∫9
+Mesh:D008108;Mesh-sim: Liver Diseases, Alcoholic;  DOID: 0110896;DO-sim: inflammatory bowel disease 16 distance_simhash£∫9
+Mesh:D008108;Mesh-sim: Liver Diseases, Alcoholic;  DOID: 0110900;DO-sim: inflammatory bowel disease 2 distance_simhash£∫9
+Mesh:D008108;Mesh-sim: Alcoholic Liver Diseases;  DOID: 12351;DO-sim: acute alcoholic liver disease distance_simhash£∫9
+Mesh:D008108;Mesh-sim: Alcoholic Liver Diseases;  DOID: 0110896;DO-sim: inflammatory bowel disease 16 distance_simhash£∫9
+Mesh:D008108;Mesh-sim: Alcoholic Liver Diseases;  DOID: 0110900;DO-sim: inflammatory bowel disease 2 distance_simhash£∫9
+Mesh:D008113;Mesh-sim: Neoplasms, Liver;  DOID: 5082;DO-sim: cirrhosis of liver distance_simhash£∫9
+Mesh:D008113;Mesh-sim: Neoplasms, Liver;  DOID: 5082;DO-sim: liver cirrhosis distance_simhash£∫9
+Mesh:D008113;Mesh-sim: Liver Neoplasms;  DOID: 5082;DO-sim: cirrhosis of liver distance_simhash£∫9
+Mesh:D008113;Mesh-sim: Liver Neoplasms;  DOID: 5082;DO-sim: liver cirrhosis distance_simhash£∫9
+Mesh:D008439;Mesh-sim: Maxillary Diseases;  DOID: 4137;DO-sim: common bile duct disease distance_simhash£∫7
+Mesh:D008531;Mesh-sim: Megacolon;  DOID: 11372;DO-sim: megacolon distance_simhash£∫0
+Mesh:D008532;Mesh-sim: Toxic Megacolon;  DOID: 1770;DO-sim: toxic megacolon distance_simhash£∫0
+Mesh:D008532;Mesh-sim: Megacolon, Toxic;  DOID: 1770;DO-sim: toxic megacolon distance_simhash£∫0
+Mesh:D008556;Mesh-sim: Rosenthal-Melkersson Syndrome;  DOID: 1761;DO-sim: Melkersson-Rosenthal syndrome distance_simhash£∫0
+Mesh:D008556;Mesh-sim: Melkersson-Rosenthal Syndrome;  DOID: 1761;DO-sim: Melkersson-Rosenthal syndrome distance_simhash£∫0
+Mesh:D008882;Mesh-sim: Mikulicz Disease;  DOID: 409;DO-sim: liver disease distance_simhash£∫9
+Mesh:D008882;Mesh-sim: Mikulicz' Disease;  DOID: 409;DO-sim: liver disease distance_simhash£∫9
+Mesh:D009050;Mesh-sim: Fluorosis, Dental;  DOID: 13711;DO-sim: dental fluorosis distance_simhash£∫0
+Mesh:D009050;Mesh-sim: Dental Fluorosis;  DOID: 13711;DO-sim: dental fluorosis distance_simhash£∫0
+Mesh:D009050;Mesh-sim: Mottled Enamel;  DOID: 13711;DO-sim: Mottling of enamel distance_simhash£∫0
+Mesh:D009057;Mesh-sim: Stomatognathic Diseases;  DOID: 60000;DO-sim: appendix disease distance_simhash£∫9
+Mesh:D009059;Mesh-sim: Mouth Diseases;  DOID: 403;DO-sim: mouth disease distance_simhash£∫0
+Mesh:D009625;Mesh-sim: Stomatitis, Gangrenous;  DOID: 9672;DO-sim: Gangrenous stomatitis distance_simhash£∫0
+Mesh:D009625;Mesh-sim: Noma;  DOID: 9672;DO-sim: noma distance_simhash£∫0
+Mesh:D009625;Mesh-sim: Cancrum Oris;  DOID: 9672;DO-sim: Cancrum oris distance_simhash£∫0
+Mesh:D009914;Mesh-sim: Oral Submucous Fibrosis;  DOID: 5773;DO-sim: oral submucous fibrosis distance_simhash£∫0
+Mesh:D010182;Mesh-sim: Pancreatic Diseases;  DOID: 4072;DO-sim: duodenal disease distance_simhash£∫9
+Mesh:D010306;Mesh-sim: Parotid Gland;  DOID: 10302;DO-sim: parotid disease distance_simhash£∫9
+Mesh:D010305;Mesh-sim: Parotid Diseases;  DOID: 10302;DO-sim: parotid disease distance_simhash£∫0
+Mesh:D010309;Mesh-sim: Parotitis;  DOID: 10301;DO-sim: parotitis distance_simhash£∫0
+Mesh:D010439;Mesh-sim: Peptic Ulcer Perforation;  DOID: 752;DO-sim: peptic ulcer perforation distance_simhash£∫0
+Mesh:D010439;Mesh-sim: Peptic Ulcer Perforation;  DOID: 752;DO-sim: Perforated peptic ulcer distance_simhash£∫0
+Mesh:D010482;Mesh-sim: Periodontitis, Apical, Suppurative;  DOID: 2562;DO-sim: Suppurative apical periodontitis distance_simhash£∫0
+Mesh:D010482;Mesh-sim: Periapical Periodontitis, Suppurative;  DOID: 2562;DO-sim: suppurative periapical periodontitis distance_simhash£∫0
+Mesh:D010484;Mesh-sim: Periapical Granuloma;  DOID: 4617;DO-sim: Periapical granuloma distance_simhash£∫0
+Mesh:D010484;Mesh-sim: Periapical Granuloma;  DOID: 4617;DO-sim: periapical granuloma distance_simhash£∫0
+Mesh:D010484;Mesh-sim: Granuloma, Periapical;  DOID: 4617;DO-sim: Periapical granuloma distance_simhash£∫0
+Mesh:D010484;Mesh-sim: Granuloma, Periapical;  DOID: 4617;DO-sim: periapical granuloma distance_simhash£∫0
+Mesh:D010485;Mesh-sim: Periodontitis, Apical;  DOID: 11693;DO-sim: acute apical periodontitis of pulpal origin (disorder) distance_simhash£∫8
+Mesh:D010485;Mesh-sim: Periapical Periodontitis;  DOID: 823;DO-sim: periapical periodontitis distance_simhash£∫0
+Mesh:D010497;Mesh-sim: Pericoronitis;  DOID: 3671;DO-sim: pericoronitis distance_simhash£∫0
+Mesh:D010510;Mesh-sim: Periodontal Diseases;  DOID: 3388;DO-sim: periodontal disease distance_simhash£∫0
+Mesh:D010510;Mesh-sim: Periodontal Diseases;  DOID: 3388;DO-sim: Periodontal disease distance_simhash£∫0
+Mesh:D010518;Mesh-sim: Periodontitis;  DOID: 824;DO-sim: periodontitis distance_simhash£∫0
+Mesh:D010520;Mesh-sim: Periodontosis;  DOID: 9893;DO-sim: periodontosis distance_simhash£∫0
+Mesh:D010520;Mesh-sim: Aggressive Periodontitis;  DOID: 1474;DO-sim: aggressive periodontitis distance_simhash£∫0
+Mesh:D010520;Mesh-sim: Juvenile Periodontitis;  DOID: 1474;DO-sim: juvenile periodontitis distance_simhash£∫0
+Mesh:D010520;Mesh-sim: Periodontitis, Juvenile;  DOID: 1474;DO-sim: juvenile periodontitis distance_simhash£∫0
+Mesh:D010532;Mesh-sim: Peritoneal Diseases;  DOID: 8778;DO-sim: Pediatric Crohn's disease distance_simhash£∫9
+Mesh:D010538;Mesh-sim: Primary Peritonitis;  DOID: 8283;DO-sim: primary bacterial peritonitis (disorder) distance_simhash£∫7
+Mesh:D010538;Mesh-sim: Peritonitis;  DOID: 8283;DO-sim: peritonitis distance_simhash£∫0
+Mesh:D010580;Mesh-sim: Peutz-Jeghers Syndrome;  DOID: 3852;DO-sim: Peutz-Jeghers syndrome distance_simhash£∫0
+Mesh:D010608;Mesh-sim: Pharynx Diseases;  DOID: 0110904;DO-sim: inflammatory bowel disease 8 distance_simhash£∫9
+Mesh:D010608;Mesh-sim: Pharynx Diseases;  DOID: 1091;DO-sim: tooth disease distance_simhash£∫8
+Mesh:D010608;Mesh-sim: Diseases of Pharynx;  DOID: 0110904;DO-sim: inflammatory bowel disease 8 distance_simhash£∫9
+Mesh:D010608;Mesh-sim: Diseases of Pharynx;  DOID: 1091;DO-sim: tooth disease distance_simhash£∫8
+Mesh:D011006;Mesh-sim: Pneumatosis Cystoides Intestinalis;  DOID: 13249;DO-sim: pneumatosis cystoides intestinalis distance_simhash£∫0
+Mesh:D011178;Mesh-sim: Postgastrectomy Syndromes;  DOID: 8439;DO-sim: postgastrectomy syndrome distance_simhash£∫0
+Mesh:D011178;Mesh-sim: Postgastrectomy Syndromes;  DOID: 8439;DO-sim: postgastrectomy syndrome distance_simhash£∫0
+Mesh:D011349;Mesh-sim: Proctitis;  DOID: 3127;DO-sim: proctitis distance_simhash£∫0
+Mesh:D011504;Mesh-sim: Protein-Losing Enteropathy;  DOID: 10611;DO-sim: protein-losing enteropathy distance_simhash£∫0
+Mesh:D011504;Mesh-sim: Protein-Losing Enteropathy;  DOID: 10611;DO-sim: Protein-losing enteropathy (disorder) distance_simhash£∫9
+Mesh:D011504;Mesh-sim: Enteropathy, Exudative;  DOID: 10611;DO-sim: Enteropathy, exudative distance_simhash£∫0
+Mesh:D011504;Mesh-sim: Protein-Losing Enteropathies;  DOID: 10611;DO-sim: protein-losing enteropathy distance_simhash£∫0
+Mesh:D011504;Mesh-sim: Protein-Losing Enteropathies;  DOID: 10611;DO-sim: Protein-losing enteropathy (disorder) distance_simhash£∫9
+Mesh:D011504;Mesh-sim: Enteropathy, Protein-Losing;  DOID: 10611;DO-sim: protein-losing enteropathy distance_simhash£∫0
+Mesh:D011504;Mesh-sim: Enteropathy, Protein-Losing;  DOID: 10611;DO-sim: Protein-losing enteropathy (disorder) distance_simhash£∫9
+Mesh:D011671;Mesh-sim: Pulpitis;  DOID: 11121;DO-sim: pulpitis distance_simhash£∫0
+Mesh:D011707;Mesh-sim: Stenosis, Pyloric;  DOID: 12639;DO-sim: pyloric stenosis distance_simhash£∫0
+Mesh:D011707;Mesh-sim: Stenosis, Pyloric;  DOID: 14099;DO-sim: acquired hypertrophic pyloric stenosis distance_simhash£∫6
+Mesh:D011707;Mesh-sim: Stenosis, Pyloric;  DOID: 14099;DO-sim: adult hypertrophic pyloric stenosis distance_simhash£∫6
+Mesh:D011707;Mesh-sim: Stenosis, Pyloric;  DOID: 12638;DO-sim: congenital hypertrophic pyloric stenosis distance_simhash£∫8
+Mesh:D011707;Mesh-sim: Pyloric Stenosis;  DOID: 12639;DO-sim: pyloric stenosis distance_simhash£∫0
+Mesh:D011707;Mesh-sim: Pyloric Stenosis;  DOID: 14099;DO-sim: acquired hypertrophic pyloric stenosis distance_simhash£∫6
+Mesh:D011707;Mesh-sim: Pyloric Stenosis;  DOID: 14099;DO-sim: adult hypertrophic pyloric stenosis distance_simhash£∫6
+Mesh:D011707;Mesh-sim: Pyloric Stenosis;  DOID: 12638;DO-sim: congenital hypertrophic pyloric stenosis distance_simhash£∫8
+Mesh:D011900;Mesh-sim: Ranula;  DOID: 12904;DO-sim: Ranula distance_simhash£∫0
+Mesh:D012003;Mesh-sim: Anal Fistula;  DOID: 0060328;DO-sim: anal fistula distance_simhash£∫0
+Mesh:D012002;Mesh-sim: Rectal Diseases;  DOID: 1285;DO-sim: rectal disease distance_simhash£∫0
+Mesh:D012005;Mesh-sim: Rectal Prolapse;  DOID: 9307;DO-sim: rectal prolapse distance_simhash£∫0
+Mesh:D012391;Mesh-sim: Root Resorption;  DOID: 14550;DO-sim: root resorption distance_simhash£∫0
+Mesh:D012466;Mesh-sim: Salivary Gland Diseases;  DOID: 10854;DO-sim: salivary gland disease distance_simhash£∫0
+Mesh:D012466;Mesh-sim: Salivary Gland Diseases;  DOID: 10854;DO-sim: Salivary gland disease distance_simhash£∫0
+Mesh:D012778;Mesh-sim: Short Bowel Syndrome;  DOID: 10605;DO-sim: short bowel syndrome distance_simhash£∫0
+Mesh:D012793;Mesh-sim: Sialadenitis;  DOID: 10303;DO-sim: sialadenitis distance_simhash£∫0
+Mesh:D012793;Mesh-sim: Chronic Sialadenitis;  DOID: 3087;DO-sim: chronic gingivitis distance_simhash£∫8
+Mesh:D012793;Mesh-sim: Adenitis, Salivary Gland;  DOID: 12905;DO-sim: Salivary gland Stone distance_simhash£∫8
+Mesh:D012793;Mesh-sim: Sialoadenitis;  DOID: 10303;DO-sim: Sialoadenitis distance_simhash£∫0
+Mesh:D012797;Mesh-sim: Sialometaplasia, Necrotizing;  DOID: 12901;DO-sim: necrotizing sialometaplasia distance_simhash£∫0
+Mesh:D012797;Mesh-sim: Necrotizing Sialometaplasia;  DOID: 12901;DO-sim: necrotizing sialometaplasia distance_simhash£∫0
+Mesh:D012810;Mesh-sim: Sigmoid Diseases;  DOID: 1897;DO-sim: sigmoid disease distance_simhash£∫0
+Mesh:D013182;Mesh-sim: Sprue, Tropical;  DOID: 10607;DO-sim: tropical sprue distance_simhash£∫0
+Mesh:D013182;Mesh-sim: Sprue, Tropical;  DOID: 10607;DO-sim: Sprue - tropical distance_simhash£∫0
+Mesh:D013271;Mesh-sim: Gastric Dilation;  DOID: 3229;DO-sim: gastric dilatation distance_simhash£∫0
+Mesh:D013271;Mesh-sim: Gastric Dilatation;  DOID: 3229;DO-sim: gastric dilatation distance_simhash£∫0
+Mesh:D013271;Mesh-sim: Stomach Dilatation;  DOID: 3229;DO-sim: stomach dilatation distance_simhash£∫0
+Mesh:D013271;Mesh-sim: Stomach Dilation;  DOID: 3229;DO-sim: stomach dilatation distance_simhash£∫0
+Mesh:D013272;Mesh-sim: Gastric Diseases;  DOID: 76;DO-sim: gastric disease distance_simhash£∫0
+Mesh:D013272;Mesh-sim: Stomach Diseases;  DOID: 76;DO-sim: stomach disease distance_simhash£∫0
+Mesh:D013272;Mesh-sim: Stomach Diseases;  DOID: 4370;DO-sim: stomach diverticulosis distance_simhash£∫9
+Mesh:D013273;Mesh-sim: Diverticula, Stomach;  DOID: 12234;DO-sim: cascade stomach distance_simhash£∫8
+Mesh:D013274;Mesh-sim: Neoplasms, Gastric;  DOID: 3229;DO-sim: gastric dilatation distance_simhash£∫9
+Mesh:D013274;Mesh-sim: Gastric Neoplasms;  DOID: 3229;DO-sim: gastric dilatation distance_simhash£∫9
+Mesh:D013274;Mesh-sim: Stomach Neoplasms;  DOID: 3229;DO-sim: stomach dilatation distance_simhash£∫7
+Mesh:D013274;Mesh-sim: Neoplasms, Stomach;  DOID: 3229;DO-sim: stomach dilatation distance_simhash£∫7
+Mesh:D013276;Mesh-sim: Stomach Ulcer;  DOID: 3229;DO-sim: stomach dilatation distance_simhash£∫9
+Mesh:D013276;Mesh-sim: Gastric Ulcer;  DOID: 10808;DO-sim: gastric ulcer distance_simhash£∫0
+Mesh:D013280;Mesh-sim: Stomatitis;  DOID: 9637;DO-sim: stomatitis distance_simhash£∫0
+Mesh:D013281;Mesh-sim: Canker Sore;  DOID: 9663;DO-sim: Canker sore distance_simhash£∫0
+Mesh:D013281;Mesh-sim: Stomatitis, Aphthous;  DOID: 9663;DO-sim: aphthous stomatitis distance_simhash£∫0
+Mesh:D013281;Mesh-sim: Aphthae;  DOID: 9663;DO-sim: Aphtha distance_simhash£∫0
+Mesh:D013282;Mesh-sim: Stomatitis, Denture;  DOID: 11875;DO-sim: denture stomatitis distance_simhash£∫0
+Mesh:D013364;Mesh-sim: Submandibular Gland Diseases;  DOID: 12897;DO-sim: submandibular gland disease distance_simhash£∫0
+Mesh:D013478;Mesh-sim: Superior Mesenteric Artery Syndrome;  DOID: 3557;DO-sim: Superior mesenteric artery syndrome distance_simhash£∫0
+Mesh:D013478;Mesh-sim: Superior Mesenteric Artery Syndrome;  DOID: 3557;DO-sim: superior mesenteric artery syndrome distance_simhash£∫0
+Mesh:D013478;Mesh-sim: Superior Mesenteric Artery Syndrome;  DOID: 3557;DO-sim: Superior mesenteric artery syndrome (disorder) distance_simhash£∫8
+Mesh:D013705;Mesh-sim: TMJ Disorders;  DOID: 13603;DO-sim: Obstructive jaundice NOS (disorder) distance_simhash£∫9
+Mesh:D014060;Mesh-sim: Tongue Diseases;  DOID: 10944;DO-sim: tongue disease distance_simhash£∫0
+Mesh:D014063;Mesh-sim: Tongue, Fissured;  DOID: 11514;DO-sim: geographic tongue and fissured tongue distance_simhash£∫5
+Mesh:D014063;Mesh-sim: Tongue, Fissured;  DOID: 11514;DO-sim: Tongue, Fissured distance_simhash£∫0
+Mesh:D014063;Mesh-sim: Tongue, Fissured;  DOID: 11514;DO-sim: Fissure of tongue distance_simhash£∫0
+Mesh:D014063;Mesh-sim: Tongue, Fissured;  DOID: 11514;DO-sim: fissured tongue distance_simhash£∫0
+Mesh:D014063;Mesh-sim: Tongue, Fissured;  DOID: 1455;DO-sim: geographic tongue distance_simhash£∫9
+Mesh:D014063;Mesh-sim: Tongue, Furrowed;  DOID: 11514;DO-sim: Furrowed tongue distance_simhash£∫0
+Mesh:D014063;Mesh-sim: Scrotal Tongue;  DOID: 11514;DO-sim: geographic tongue and fissured tongue distance_simhash£∫8
+Mesh:D014063;Mesh-sim: Scrotal Tongue;  DOID: 11514;DO-sim: scrotal tongue distance_simhash£∫0
+Mesh:D014063;Mesh-sim: Lingua Plicata;  DOID: 11514;DO-sim: lingua plicata distance_simhash£∫0
+Mesh:D014064;Mesh-sim: Tongue, Hairy;  DOID: 13500;DO-sim: hairy tongue distance_simhash£∫0
+Mesh:D014064;Mesh-sim: Tongue, Hairy;  DOID: 13500;DO-sim: Hairy Tongue distance_simhash£∫0
+Mesh:D014077;Mesh-sim: Tooth Erosion;  DOID: 2498;DO-sim: tooth erosion distance_simhash£∫0
+Mesh:D014076;Mesh-sim: Tooth Diseases;  DOID: 10487;DO-sim: Hirschsprung disease distance_simhash£∫8
+Mesh:D014076;Mesh-sim: Tooth Diseases;  DOID: 1091;DO-sim: tooth disease distance_simhash£∫0
+Mesh:D014082;Mesh-sim: Tooth Fractures;  DOID: 2498;DO-sim: tooth erosion distance_simhash£∫9
+Mesh:D014091;Mesh-sim: Tooth Resorption;  DOID: 13240;DO-sim: tooth resorption distance_simhash£∫0
+Mesh:D014096;Mesh-sim: Tooth, Supernumerary;  DOID: 1091;DO-sim: tooth disease distance_simhash£∫6
+Mesh:D014277;Mesh-sim: Fothergill Disease;  DOID: 1897;DO-sim: sigmoid disease distance_simhash£∫7
+Mesh:D015154;Mesh-sim: Esophageal Dysmotility;  DOID: 9192;DO-sim: esophageal dysmotility distance_simhash£∫0
+Mesh:D015154;Mesh-sim: Esophageal Dysmotility;  DOID: 10485;DO-sim: esophageal atresia distance_simhash£∫8
+Mesh:D015154;Mesh-sim: Esophageal Dysmotility;  DOID: 9192;DO-sim: esophageal dysmotility distance_simhash£∫0
+Mesh:D015154;Mesh-sim: Esophageal Dysmotility;  DOID: 10485;DO-sim: esophageal atresia distance_simhash£∫8
+Mesh:D015154;Mesh-sim: Esophageal Motility Disorders;  DOID: 9192;DO-sim: esophageal motility disorder distance_simhash£∫0
+Mesh:D015154;Mesh-sim: Esophageal Motility Disorders;  DOID: 9192;DO-sim: esophageal motility disorder distance_simhash£∫0
+Mesh:D015209;Mesh-sim: Cholangitis, Primary Sclerosing;  DOID: 0060643;DO-sim: primary sclerosing cholangitis distance_simhash£∫0
+Mesh:D015209;Mesh-sim: Sclerosing Cholangitis;  DOID: 14268;DO-sim: sclerosing cholangitis distance_simhash£∫0
+Mesh:D015209;Mesh-sim: Primary Sclerosing Cholangitis;  DOID: 0060643;DO-sim: primary sclerosing cholangitis distance_simhash£∫0
+Mesh:D015209;Mesh-sim: Cholangitis, Sclerosing;  DOID: 14268;DO-sim: sclerosing cholangitis distance_simhash£∫0
+Mesh:D015212;Mesh-sim: Bowel Diseases, Inflammatory;  DOID: 0050589;DO-sim: inflammatory bowel disease distance_simhash£∫0
+Mesh:D015212;Mesh-sim: Bowel Diseases, Inflammatory;  DOID: 0110893;DO-sim: inflammatory bowel disease 13 distance_simhash£∫9
+Mesh:D015212;Mesh-sim: Bowel Diseases, Inflammatory;  DOID: 0110895;DO-sim: inflammatory bowel disease 14 distance_simhash£∫9
+Mesh:D015212;Mesh-sim: Bowel Diseases, Inflammatory;  DOID: 0110897;DO-sim: inflammatory bowel disease 15 distance_simhash£∫9
+Mesh:D015212;Mesh-sim: Bowel Diseases, Inflammatory;  DOID: 0110896;DO-sim: inflammatory bowel disease 16 distance_simhash£∫9
+Mesh:D015212;Mesh-sim: Bowel Diseases, Inflammatory;  DOID: 0110890;DO-sim: inflammatory bowel disease (Crohn disease) 19 distance_simhash£∫8
+Mesh:D015212;Mesh-sim: Bowel Diseases, Inflammatory;  DOID: 0110890;DO-sim: inflammatory bowel disease 19 distance_simhash£∫7
+Mesh:D015212;Mesh-sim: Bowel Diseases, Inflammatory;  DOID: 0110909;DO-sim: inflammatory bowel disease 25 distance_simhash£∫9
+Mesh:D015212;Mesh-sim: Bowel Diseases, Inflammatory;  DOID: 110907;DO-sim: inflammatory bowel disease 6 distance_simhash£∫8
+Mesh:D015212;Mesh-sim: Bowel Diseases, Inflammatory;  DOID: 0110886;DO-sim: inflammatory bowel disease 9 distance_simhash£∫7
+Mesh:D015212;Mesh-sim: Inflammatory Bowel Diseases;  DOID: 0050589;DO-sim: inflammatory bowel disease distance_simhash£∫0
+Mesh:D015212;Mesh-sim: Inflammatory Bowel Diseases;  DOID: 0110893;DO-sim: inflammatory bowel disease 13 distance_simhash£∫9
+Mesh:D015212;Mesh-sim: Inflammatory Bowel Diseases;  DOID: 0110895;DO-sim: inflammatory bowel disease 14 distance_simhash£∫9
+Mesh:D015212;Mesh-sim: Inflammatory Bowel Diseases;  DOID: 0110897;DO-sim: inflammatory bowel disease 15 distance_simhash£∫9
+Mesh:D015212;Mesh-sim: Inflammatory Bowel Diseases;  DOID: 0110896;DO-sim: inflammatory bowel disease 16 distance_simhash£∫9
+Mesh:D015212;Mesh-sim: Inflammatory Bowel Diseases;  DOID: 0110890;DO-sim: inflammatory bowel disease (Crohn disease) 19 distance_simhash£∫8
+Mesh:D015212;Mesh-sim: Inflammatory Bowel Diseases;  DOID: 0110890;DO-sim: inflammatory bowel disease 19 distance_simhash£∫7
+Mesh:D015212;Mesh-sim: Inflammatory Bowel Diseases;  DOID: 0110909;DO-sim: inflammatory bowel disease 25 distance_simhash£∫9
+Mesh:D015212;Mesh-sim: Inflammatory Bowel Diseases;  DOID: 110907;DO-sim: inflammatory bowel disease 6 distance_simhash£∫8
+Mesh:D015212;Mesh-sim: Inflammatory Bowel Diseases;  DOID: 0110886;DO-sim: inflammatory bowel disease 9 distance_simhash£∫7
+Mesh:D015211;Mesh-sim: Zellweger Disease;  DOID: 5353;DO-sim: colonic disease distance_simhash£∫8
+Mesh:D015436;Mesh-sim: Retractile Mesenteritis;  DOID: 8283;DO-sim: Retractile mesenteritis distance_simhash£∫0
+Mesh:D015436;Mesh-sim: Sclerosing Mesenteritis;  DOID: 8283;DO-sim: sclerosing mesenteritis distance_simhash£∫0
+Mesh:D015494;Mesh-sim: Salivary Gland Stones;  DOID: 12905;DO-sim: Salivary gland Stone distance_simhash£∫0
+Mesh:D015494;Mesh-sim: Sialoliths;  DOID: 12905;DO-sim: Sialolith distance_simhash£∫0
+Mesh:D015494;Mesh-sim: Sialolithiasis;  DOID: 12905;DO-sim: sialolithiasis distance_simhash£∫0
+Mesh:D015529;Mesh-sim: Choledochal Cyst;  DOID: 899;DO-sim: choledochal cyst distance_simhash£∫0
+Mesh:D015529;Mesh-sim: Congenital Choledochal Cyst;  DOID: 899;DO-sim: Congenital choledochal cyst distance_simhash£∫0
+Mesh:D016388;Mesh-sim: Tooth Loss;  DOID: 1091;DO-sim: tooth disease distance_simhash£∫9
+Mesh:D016738;Mesh-sim: Alagille-Watson Syndrome;  DOID: 9245;DO-sim: Alagille-Watson syndrome distance_simhash£∫0
+Mesh:D016738;Mesh-sim: Alagille Watson Syndrome;  DOID: 9245;DO-sim: Alagille-Watson syndrome distance_simhash£∫0
+Mesh:D016738;Mesh-sim: Watson Alagille Syndrome;  DOID: 9245;DO-sim: Alagille-Watson syndrome distance_simhash£∫0
+Mesh:D016738;Mesh-sim: Alagille Syndrome;  DOID: 9245;DO-sim: Alagille syndrome distance_simhash£∫0
+Mesh:D016767;Mesh-sim: Caroli Disease;  DOID: 0050876;DO-sim: Caroli disease distance_simhash£∫0
+Mesh:D017091;Mesh-sim: Ischemic Colitis;  DOID: 0060181;DO-sim: ischemic colitis distance_simhash£∫0
+Mesh:D017091;Mesh-sim: Colitis, Ischemic;  DOID: 0060181;DO-sim: ischemic colitis distance_simhash£∫0
+Mesh:D017093;Mesh-sim: Liver Failure;  DOID: 5082;DO-sim: cirrhosis of liver distance_simhash£∫9
+Mesh:D017093;Mesh-sim: Liver Failure;  DOID: 5082;DO-sim: liver cirrhosis distance_simhash£∫9
+Mesh:D017213;Mesh-sim: Root Caries;  DOID: 14089;DO-sim: root caries distance_simhash£∫0
+Mesh:D017213;Mesh-sim: Root Caries;  DOID: 14089;DO-sim: Root caries distance_simhash£∫0
+Mesh:D017213;Mesh-sim: Caries, Root;  DOID: 14089;DO-sim: root caries distance_simhash£∫0
+Mesh:D017213;Mesh-sim: Caries, Root;  DOID: 14089;DO-sim: Root caries distance_simhash£∫0
+Mesh:D017219;Mesh-sim: Gastric Outlet Obstruction;  DOID: 3122;DO-sim: gastric outlet obstruction distance_simhash£∫0
+Mesh:D017271;Mesh-sim: Craniomandibular Disorders;  DOID: 409;DO-sim: disorder of liver (disorder) distance_simhash£∫9
+Mesh:D017271;Mesh-sim: Craniomandibular Disorders;  DOID: 1518;DO-sim: disorder of cecum (disorder) distance_simhash£∫9
+Mesh:D017562;Mesh-sim: Postcholedochostomy Syndrome;  DOID: 9206;DO-sim: Barretts syndrome distance_simhash£∫9
+Mesh:D017562;Mesh-sim: Postcholecystectomy Syndrome;  DOID: 9740;DO-sim: postcholecystectomy syndrome distance_simhash£∫0
+Mesh:D017573;Mesh-sim: Heck Disease;  DOID: 1518;DO-sim: cecal disease distance_simhash£∫6
+Mesh:D017573;Mesh-sim: Heck's Disease;  DOID: 0060191;DO-sim: gastroduodenal Crohn's disease distance_simhash£∫9
+Mesh:D017688;Mesh-sim: Cholera, Summer;  DOID: 1453;DO-sim: atrophic glossitis distance_simhash£∫9
+Mesh:D017688;Mesh-sim: Cholera Morbus;  DOID: 2326;DO-sim: cholera morbus distance_simhash£∫0
+Mesh:D017733;Mesh-sim: Leukoplakia, Hairy;  DOID: 0060315;DO-sim: hairy leukoplakia distance_simhash£∫0
+Mesh:D017733;Mesh-sim: Oral Hairy Leukoplakia;  DOID: 0060315;DO-sim: oral hairy leukoplakia distance_simhash£∫0
+Mesh:D017733;Mesh-sim: Leukoplakia, Hairy, Oral;  DOID: 0060315;DO-sim: oral hairy leukoplakia distance_simhash£∫0
+Mesh:D018589;Mesh-sim: Gastroparesis;  DOID: 11914;DO-sim: gastroparesis distance_simhash£∫0
+Mesh:D019214;Mesh-sim: Gingival Overgrowth;  DOID: 3086;DO-sim: gingival overgrowth distance_simhash£∫0
+Mesh:D019226;Mesh-sim: Oral Ulcer;  DOID: 9663;DO-sim: oral ulcer distance_simhash£∫0
+Mesh:D019226;Mesh-sim: Oral Ulcer;  DOID: 9673;DO-sim: ulcerative stomatitis distance_simhash£∫7
+Mesh:D019553;Mesh-sim: Tooth, Pulpless;  DOID: 12661;DO-sim: tooth ankylosis distance_simhash£∫9
+Mesh:D019693;Mesh-sim: Hepatitis, Autoimmune;  DOID: 1884;DO-sim: viral hepatitis distance_simhash£∫9
+Mesh:D019693;Mesh-sim: Autoimmune Hepatitis;  DOID: 1884;DO-sim: viral hepatitis distance_simhash£∫9
+Mesh:D019701;Mesh-sim: Chronic Delta Hepatitis;  DOID: 2237;DO-sim: chronic persistent hepatitis distance_simhash£∫8
+Mesh:D019701;Mesh-sim: Delta Hepatitis, Chronic;  DOID: 2237;DO-sim: chronic persistent hepatitis distance_simhash£∫8
+Mesh:D020065;Mesh-sim: Hepatopulmonary Syndrome;  DOID: 900;DO-sim: hepatopulmonary syndrome distance_simhash£∫0
+Mesh:D020254;Mesh-sim: Ankylosis, Tooth;  DOID: 12661;DO-sim: tooth ankylosis distance_simhash£∫0
+Mesh:D020254;Mesh-sim: Tooth Ankylosis;  DOID: 12661;DO-sim: tooth ankylosis distance_simhash£∫0
+Mesh:D020254;Mesh-sim: Ankylosis of Teeth;  DOID: 12661;DO-sim: Ankylosis of teeth distance_simhash£∫0
+Mesh:D020330;Mesh-sim: Acute Idiopathic Facial Neuropathy;  DOID: 10423;DO-sim: acute pericementitis distance_simhash£∫9
+Mesh:D020330;Mesh-sim: Idiopathic Acute Facial Neuropathy;  DOID: 10423;DO-sim: acute pericementitis distance_simhash£∫9
+Mesh:D020330;Mesh-sim: Facial Neuropathy, Idiopathic Acute;  DOID: 10423;DO-sim: acute pericementitis distance_simhash£∫9
+Mesh:D020345;Mesh-sim: Enterocolitis, Necrotizing;  DOID: 8677;DO-sim: necrotizing enterocolitis distance_simhash£∫0
+Mesh:D020345;Mesh-sim: Enterocolitis, Necrotizing;  DOID: 8677;DO-sim: ENTEROCOLITIS NECROTIZING distance_simhash£∫0
+Mesh:D020345;Mesh-sim: Necrotizing Enterocolitis;  DOID: 8677;DO-sim: necrotizing enterocolitis distance_simhash£∫0
+Mesh:D020345;Mesh-sim: Necrotizing Enterocolitis;  DOID: 8677;DO-sim: ENTEROCOLITIS NECROTIZING distance_simhash£∫0
+Mesh:D041761;Mesh-sim: Cholecystolithiasis;  DOID: 11151;DO-sim: cholecystolithiasis distance_simhash£∫0
+Mesh:D041881;Mesh-sim: Cholecystitis, Acute;  DOID: 1949;DO-sim: acute cholecystitis distance_simhash£∫0
+Mesh:D041881;Mesh-sim: Cholecystitis, Acute;  DOID: 1949;DO-sim: acute cholecystitis unspecified (disorder) distance_simhash£∫8
+Mesh:D041881;Mesh-sim: Cholecystitis, Acute;  DOID: 1949;DO-sim: acute and chronic cholecystitis (disorder) distance_simhash£∫9
+Mesh:D041881;Mesh-sim: Acute Cholecystitis;  DOID: 1949;DO-sim: acute cholecystitis distance_simhash£∫0
+Mesh:D041881;Mesh-sim: Acute Cholecystitis;  DOID: 1949;DO-sim: acute cholecystitis unspecified (disorder) distance_simhash£∫8
+Mesh:D041881;Mesh-sim: Acute Cholecystitis;  DOID: 1949;DO-sim: acute and chronic cholecystitis (disorder) distance_simhash£∫9
+Mesh:D041882;Mesh-sim: Emphysematous Cholecystitis;  DOID: 9765;DO-sim: emphysematous cholecystitis distance_simhash£∫0
+Mesh:D041882;Mesh-sim: Cholecystitis, Emphysematous;  DOID: 9765;DO-sim: emphysematous cholecystitis distance_simhash£∫0
+Mesh:D042101;Mesh-sim: Acalculous Cholecystitis;  DOID: 2828;DO-sim: acalculous cholecystitis distance_simhash£∫0
+Mesh:D042101;Mesh-sim: Cholecystitis, Acalculous;  DOID: 2828;DO-sim: acalculous cholecystitis distance_simhash£∫0
+Mesh:D042883;Mesh-sim: Choledocholithiasis;  DOID: 11755;DO-sim: choledocholithiasis distance_simhash£∫0
+Mesh:D042883;Mesh-sim: Choledocholithiasis;  DOID: 11755;DO-sim: choledocholithiasis distance_simhash£∫0
+Mesh:D044483;Mesh-sim: Cronkhite-Canada Syndrome;  DOID: 6225;DO-sim: Cronkhite-Canada syndrome distance_simhash£∫0
+Mesh:D045602;Mesh-sim: Steatorrhea;  DOID: 10602;DO-sim: steatorrhea distance_simhash£∫0
+Mesh:D045724;Mesh-sim: Stomach Diverticulosis;  DOID: 76;DO-sim: stomach disease distance_simhash£∫9
+Mesh:D045724;Mesh-sim: Stomach Diverticulosis;  DOID: 4370;DO-sim: stomach diverticulosis distance_simhash£∫0
+Mesh:D045724;Mesh-sim: Diverticulosis, Stomach;  DOID: 76;DO-sim: stomach disease distance_simhash£∫9
+Mesh:D045724;Mesh-sim: Diverticulosis, Stomach;  DOID: 4370;DO-sim: stomach diverticulosis distance_simhash£∫0
+Mesh:D045723;Mesh-sim: Diverticulosis, Esophageal;  DOID: 13185;DO-sim: esophageal diverticulosis distance_simhash£∫0
+Mesh:D045723;Mesh-sim: Diverticulosis, Esophageal;  DOID: 13185;DO-sim: esophageal diverticulosis distance_simhash£∫0
+Mesh:D045723;Mesh-sim: Esophageal Diverticulosis;  DOID: 13185;DO-sim: esophageal diverticulosis distance_simhash£∫0
+Mesh:D045723;Mesh-sim: Esophageal Diverticulosis;  DOID: 13185;DO-sim: esophageal diverticulosis distance_simhash£∫0
+Mesh:D045822;Mesh-sim: Intestinal Volvulus;  DOID: 8448;DO-sim: intestinal impaction distance_simhash£∫9
+Mesh:D045822;Mesh-sim: Intestinal Volvulus;  DOID: 8445;DO-sim: intestinal volvulus distance_simhash£∫0
+Mesh:D045822;Mesh-sim: Volvulus, Intestine;  DOID: 8448;DO-sim: intestinal impaction distance_simhash£∫9
+Mesh:D045822;Mesh-sim: Volvulus, Intestine;  DOID: 8445;DO-sim: intestinal volvulus distance_simhash£∫0
+Mesh:D045822;Mesh-sim: Volvulus;  DOID: 8445;DO-sim: Volvulus distance_simhash£∫0
+Mesh:D045823;Mesh-sim: Ileus;  DOID: 8440;DO-sim: ileus distance_simhash£∫0
+Mesh:D046248;Mesh-sim: Infantile Hypertrophic Pyloric Stenosis;  DOID: 14099;DO-sim: acquired hypertrophic pyloric stenosis distance_simhash£∫6
+Mesh:D046248;Mesh-sim: Infantile Hypertrophic Pyloric Stenosis;  DOID: 12638;DO-sim: congenital hypertrophic pyloric stenosis distance_simhash£∫8
+Mesh:D046248;Mesh-sim: Infantile Hypertrophic Pyloric Stenosis;  DOID: 12638;DO-sim: hypertrophic pyloric stenosis distance_simhash£∫4
+Mesh:D046248;Mesh-sim: Idiopathic Hypertrophic Pyloric Stenosis;  DOID: 12639;DO-sim: pyloric stenosis distance_simhash£∫8
+Mesh:D046248;Mesh-sim: Idiopathic Hypertrophic Pyloric Stenosis;  DOID: 14099;DO-sim: acquired hypertrophic pyloric stenosis distance_simhash£∫8
+Mesh:D046248;Mesh-sim: Idiopathic Hypertrophic Pyloric Stenosis;  DOID: 14099;DO-sim: adult hypertrophic pyloric stenosis distance_simhash£∫4
+Mesh:D046248;Mesh-sim: Idiopathic Hypertrophic Pyloric Stenosis;  DOID: 12638;DO-sim: congenital hypertrophic pyloric stenosis distance_simhash£∫4
+Mesh:D046248;Mesh-sim: Idiopathic Hypertrophic Pyloric Stenosis;  DOID: 12638;DO-sim: hypertrophic pyloric stenosis distance_simhash£∫8
+Mesh:D046248;Mesh-sim: Pyloric Stenosis, Hypertrophic;  DOID: 12638;DO-sim: congenital hypertrophic pyloric stenosis distance_simhash£∫8
+Mesh:D046248;Mesh-sim: Pyloric Stenosis, Hypertrophic;  DOID: 12638;DO-sim: hypertrophic pyloric stenosis distance_simhash£∫0
+Mesh:D046248;Mesh-sim: Primary Hypertrophic Pyloric Stenosis;  DOID: 14099;DO-sim: adult hypertrophic pyloric stenosis distance_simhash£∫8
+Mesh:D046248;Mesh-sim: Stenosis, Hypertrophic Pyloric;  DOID: 12638;DO-sim: congenital hypertrophic pyloric stenosis distance_simhash£∫8
+Mesh:D046248;Mesh-sim: Stenosis, Hypertrophic Pyloric;  DOID: 12638;DO-sim: hypertrophic pyloric stenosis distance_simhash£∫0
+Mesh:D046248;Mesh-sim: Hypertrophic Pyloric Stenosis;  DOID: 12638;DO-sim: congenital hypertrophic pyloric stenosis distance_simhash£∫8
+Mesh:D046248;Mesh-sim: Hypertrophic Pyloric Stenosis;  DOID: 12638;DO-sim: hypertrophic pyloric stenosis distance_simhash£∫0
+Mesh:D046628;Mesh-sim: Sphincter of Oddi Stenosis;  DOID: 4140;DO-sim: sphincter of oddi dysfunction distance_simhash£∫8
+Mesh:D046628;Mesh-sim: Sphincter of Oddi Dysfunction;  DOID: 4140;DO-sim: sphincter of oddi dysfunction distance_simhash£∫0
+Mesh:D046729;Mesh-sim: Collagenous Colitis;  DOID: 0060183;DO-sim: collagenous colitis distance_simhash£∫0
+Mesh:D046729;Mesh-sim: Colitis, Collagenous;  DOID: 0060183;DO-sim: collagenous colitis distance_simhash£∫0
+Mesh:D046730;Mesh-sim: Colitis, Lymphocytic;  DOID: 0060184;DO-sim: lymphocytic colitis distance_simhash£∫0
+Mesh:D046730;Mesh-sim: Lymphocytic Colitis;  DOID: 0060184;DO-sim: lymphocytic colitis distance_simhash£∫0
+Mesh:D046728;Mesh-sim: Microscopic Colitis;  DOID: 0060182;DO-sim: microscopic colitis distance_simhash£∫0
+Mesh:D046728;Mesh-sim: Colitis, Microscopic;  DOID: 0060182;DO-sim: microscopic colitis distance_simhash£∫0
+Mesh:D052016;Mesh-sim: Mucositis;  DOID: 0080178;DO-sim: mucositis distance_simhash£∫0
+Mesh:D054243;Mesh-sim: Vesicular Stomatitis;  DOID: 9673;DO-sim: ulcerative stomatitis distance_simhash£∫9
+Mesh:D054243;Mesh-sim: Stomatitis, Vesicular;  DOID: 9673;DO-sim: ulcerative stomatitis distance_simhash£∫9
+Mesh:D055093;Mesh-sim: Periodontal Atrophy;  DOID: 823;DO-sim: periapical periodontitis distance_simhash£∫9
+Mesh:D055496;Mesh-sim: Neurogenic Bowel;  DOID: 13419;DO-sim: neurogenic bowel distance_simhash£∫0
+Mesh:D056486;Mesh-sim: Hepatitis, Drug-Induced;  DOID: 2044;DO-sim: drug-induced hepatitis distance_simhash£∫0
+Mesh:D056486;Mesh-sim: Drug-Induced Liver Disease;  DOID: 409;DO-sim: liver disease distance_simhash£∫7
+Mesh:D057045;Mesh-sim: Regurgitation, Gastric;  DOID: 3229;DO-sim: gastric dilatation distance_simhash£∫7
+Mesh:D057765;Mesh-sim: Esophagitis, Eosinophilic;  DOID: 13922;DO-sim: eosinophilic esophagitis distance_simhash£∫0
+Mesh:D057765;Mesh-sim: Esophagitis, Eosinophilic;  DOID: 4031;DO-sim: Eosinophilic gastroenteritis distance_simhash£∫7
+Mesh:D057765;Mesh-sim: Esophagitis, Eosinophilic;  DOID: 4031;DO-sim: Eosinophilic Gastroenteritis distance_simhash£∫7
+Mesh:D057765;Mesh-sim: Esophagitis, Eosinophilic;  DOID: 4031;DO-sim: eosinophilic gastroenteritis distance_simhash£∫7
+Mesh:D057765;Mesh-sim: Eosinophilic Esophagitis;  DOID: 13922;DO-sim: eosinophilic esophagitis distance_simhash£∫0
+Mesh:D057765;Mesh-sim: Eosinophilic Esophagitis;  DOID: 4031;DO-sim: Eosinophilic gastroenteritis distance_simhash£∫7
+Mesh:D057765;Mesh-sim: Eosinophilic Esophagitis;  DOID: 4031;DO-sim: Eosinophilic Gastroenteritis distance_simhash£∫7
+Mesh:D057765;Mesh-sim: Eosinophilic Esophagitis;  DOID: 4031;DO-sim: eosinophilic gastroenteritis distance_simhash£∫7
+Mesh:D057831;Mesh-sim: Lemierre's Disease;  DOID: 893;DO-sim: Wilson's disease distance_simhash£∫8
+Mesh:D057831;Mesh-sim: Lemierre Disease;  DOID: 76;DO-sim: stomach disease distance_simhash£∫9
+Mesh:D058625;Mesh-sim: End Stage Liver Disease;  DOID: 409;DO-sim: liver disease distance_simhash£∫8
+Mesh:D065290;Mesh-sim: Liver Failure, Acute-On-Chronic;  DOID: 2237;DO-sim: acute/subac. necrosis of liver distance_simhash£∫8
+Mesh:D065290;Mesh-sim: Acute-On-Chronic Liver Failure;  DOID: 2237;DO-sim: acute/subac. necrosis of liver distance_simhash£∫8
+DA00;ICD-sim: Disorders of lips;  DOID: 5330;DO-sim: pulp disorder distance_simhash£∫8
+DA00;ICD-sim: Disorders of lips;  DOID: 5330;DO-sim: disorder of pulp of tooth (disorder) distance_simhash£∫9
+DA00.0;ICD-sim: Cheilitis;  DOID: 1762;DO-sim: cheilitis distance_simhash£∫0
+DA01.00;ICD-sim: Leukoplakia;  DOID: 0060315;DO-sim: hairy leukoplakia distance_simhash£∫9
+DA01.01;ICD-sim: Hairy leukoplakia;  DOID: 0060315;DO-sim: hairy leukoplakia distance_simhash£∫0
+DA01.10;ICD-sim: Oral aphthae or aphtha-like ulceration;  DOID: 9663;DO-sim: Aphtha distance_simhash£∫7
+DA01.41;ICD-sim: Denture hyperplasia;  DOID: 12733;DO-sim: Cementation hyperplasia distance_simhash£∫9
+DA02.2;ICD-sim: Oral submucous fibrosis;  DOID: 5773;DO-sim: oral submucous fibrosis distance_simhash£∫0
+DA03;ICD-sim: Diseases of tongue;  DOID: 10944;DO-sim: tongue disease distance_simhash£∫0
+DA03.0;ICD-sim: Glossitis;  DOID: 1456;DO-sim: glossitis distance_simhash£∫0
+DA03.1;ICD-sim: Geographic tongue;  DOID: 11514;DO-sim: geographic tongue and fissured tongue distance_simhash£∫4
+DA03.1;ICD-sim: Geographic tongue;  DOID: 11514;DO-sim: Tongue, Fissured distance_simhash£∫9
+DA03.1;ICD-sim: Geographic tongue;  DOID: 11514;DO-sim: Fissure of tongue distance_simhash£∫9
+DA03.1;ICD-sim: Geographic tongue;  DOID: 11514;DO-sim: fissured tongue distance_simhash£∫9
+DA03.1;ICD-sim: Geographic tongue;  DOID: 1455;DO-sim: geographic tongue distance_simhash£∫0
+DA03.2;ICD-sim: Atrophy of tongue papillae;  DOID: 1453;DO-sim: Atrophy of tongue papillae distance_simhash£∫0
+DA03.3;ICD-sim: Median rhomboid glossitis;  DOID: 14111;DO-sim: median rhomboid glossitis distance_simhash£∫0
+DA03.4;ICD-sim: Hypertrophy of tongue papillae;  DOID: 13333;DO-sim: hypertrophy of tongue papillae distance_simhash£∫0
+DA04;ICD-sim: Diseases of salivary glands;  DOID: 10854;DO-sim: salivary gland disease distance_simhash£∫0
+DA04;ICD-sim: Diseases of salivary glands;  DOID: 10854;DO-sim: Salivary gland disease distance_simhash£∫0
+DA04.2;ICD-sim: Sialoadenitis;  DOID: 10303;DO-sim: Sialoadenitis distance_simhash£∫0
+DA04.4;ICD-sim: Sialolithiasis;  DOID: 12905;DO-sim: sialolithiasis distance_simhash£∫0
+DA04.5;ICD-sim: Mucocele of salivary gland;  DOID: 12904;DO-sim: mucocele of salivary gland distance_simhash£∫0
+DA04.5;ICD-sim: Mucocele of salivary gland;  DOID: 12904;DO-sim: Salivary gland mucocele distance_simhash£∫0
+DA04.Z;ICD-sim: Diseases of salivary glands, unspecified;  DOID: 10854;DO-sim: salivary gland disease distance_simhash£∫8
+DA04.Z;ICD-sim: Diseases of salivary glands, unspecified;  DOID: 10854;DO-sim: Salivary gland disease distance_simhash£∫8
+DA07.2;ICD-sim: Enamel hypoplasia;  DOID: 693;DO-sim: Enamel hypoplasia distance_simhash£∫0
+DA07.2;ICD-sim: Enamel hypoplasia;  DOID: 693;DO-sim: Enamel Hypoplasia distance_simhash£∫0
+DA07.2;ICD-sim: Enamel hypoplasia;  DOID: 0110059;DO-sim: X-linked enamel hypoplasia distance_simhash£∫7
+DA07.2;ICD-sim: Enamel hypoplasia;  DOID: 0110052;DO-sim: hereditary localized enamel hypoplasia distance_simhash£∫6
+DA07.2;ICD-sim: Enamel hypoplasia;  DOID: 0110058;DO-sim: X-linked enamel hypoplasia distance_simhash£∫7
+DA07.5;ICD-sim: Cementum dysplasia;  DOID: 14268;DO-sim: fibrosing cholangitis distance_simhash£∫9
+DA07.61;ICD-sim: Ankylosis of teeth;  DOID: 12661;DO-sim: Ankylosis of teeth distance_simhash£∫0
+DA08;ICD-sim: Diseases of hard tissues of teeth;  DOID: 214;DO-sim: teeth hard tissue disease distance_simhash£∫0
+DA08.0;ICD-sim: Dental caries;  DOID: 216;DO-sim: dental caries distance_simhash£∫0
+DA08.1;ICD-sim: Certain specified diseases of hard tissues of teeth;  DOID: 214;DO-sim: teeth hard tissue disease distance_simhash£∫7
+DA08.Y;ICD-sim: Other specified diseases of hard tissues of teeth;  DOID: 214;DO-sim: teeth hard tissue disease distance_simhash£∫7
+DA09.0;ICD-sim: Pulpitis;  DOID: 11121;DO-sim: pulpitis distance_simhash£∫0
+DA09.1;ICD-sim: Necrosis of pulp;  DOID: 2237;DO-sim: acute and subacute liver necrosis distance_simhash£∫9
+DA09.1;ICD-sim: Necrosis of pulp;  DOID: 11623;DO-sim: necrosis of the pulp distance_simhash£∫0
+DA09.1;ICD-sim: Necrosis of pulp;  DOID: 11623;DO-sim: pulp necrosis distance_simhash£∫0
+DA09.4;ICD-sim: Pulp degeneration;  DOID: 11189;DO-sim: pulp degeneration distance_simhash£∫0
+DA09.7;ICD-sim: Periapical periodontitis;  DOID: 823;DO-sim: periapical periodontitis distance_simhash£∫0
+DA09.70;ICD-sim: Acute apical periodontitis of pulpal origin;  DOID: 11693;DO-sim: acute apical periodontitis distance_simhash£∫9
+DA09.70;ICD-sim: Acute apical periodontitis of pulpal origin;  DOID: 11693;DO-sim: acute apical periodontitis of pulpal origin distance_simhash£∫0
+DA09.71;ICD-sim: Chronic apical periodontitis;  DOID: 11269;DO-sim: chronic apical periodontitis (disorder) distance_simhash£∫9
+DA09.71;ICD-sim: Chronic apical periodontitis;  DOID: 11269;DO-sim: chronic apical periodontitis distance_simhash£∫0
+DA0B;ICD-sim: Gingival diseases;  DOID: 1483;DO-sim: gingival disease distance_simhash£∫0
+DA0B.6;ICD-sim: Pericoronitis;  DOID: 3671;DO-sim: pericoronitis distance_simhash£∫0
+DA0C;ICD-sim: Periodontal disease;  DOID: 3388;DO-sim: periodontal disease distance_simhash£∫0
+DA0C;ICD-sim: Periodontal disease;  DOID: 3388;DO-sim: Periodontal disease distance_simhash£∫0
+DA0C.0;ICD-sim: Acute periodontitis;  DOID: 10423;DO-sim: acute periodontitis distance_simhash£∫0
+DA0C.0;ICD-sim: Acute periodontitis;  DOID: 10423;DO-sim: acute Periodontitis distance_simhash£∫0
+DA0C.1;ICD-sim: Aggressive periodontitis;  DOID: 1474;DO-sim: aggressive periodontitis distance_simhash£∫0
+DA0C.2;ICD-sim: Periodontosis;  DOID: 9893;DO-sim: periodontosis distance_simhash£∫0
+DA0C.30;ICD-sim: Necrotising ulcerative periodontitis;  DOID: 824;DO-sim: periodontitis distance_simhash£∫9
+DA0C.31;ICD-sim: Noma;  DOID: 9672;DO-sim: noma distance_simhash£∫0
+DA0C.5;ICD-sim: Linear gingival erythema;  DOID: 3087;DO-sim: gingivitis distance_simhash£∫8
+DA0D.0;ICD-sim: Gingival recession;  DOID: 1134;DO-sim: gingival recession distance_simhash£∫0
+DA0D.0;ICD-sim: Gingival recession;  DOID: 1134;DO-sim: Gingival recession distance_simhash£∫0
+DA0F.0;ICD-sim: Burning mouth syndrome;  DOID: 4331;DO-sim: burning mouth syndrome distance_simhash£∫0
+DA21.0;ICD-sim: Achalasia;  DOID: 9164;DO-sim: achalasia distance_simhash£∫0
+DA24.0;ICD-sim: Infectious oesophagitis;  DOID: 2326;DO-sim: infectious colitis, enteritis and gastroenteritis distance_simhash£∫9
+DA25;ICD-sim: Oesophageal ulcer;  DOID: 8577;DO-sim: ulcerative colitis distance_simhash£∫9
+BlockL2-DA4;ICD-sim: Diseases of stomach;  DOID: 76;DO-sim: stomach disease distance_simhash£∫0
+BlockL2-DA4;ICD-sim: Diseases of stomach;  DOID: 4370;DO-sim: stomach diverticulosis distance_simhash£∫9
+DA40.0;ICD-sim: Gastric outlet obstruction;  DOID: 3122;DO-sim: gastric outlet obstruction distance_simhash£∫0
+DA40.4;ICD-sim: Hourglass stricture and stenosis of stomach;  DOID: 12234;DO-sim: Hourglass stricture or stenosis of stomach distance_simhash£∫0
+DA41.00;ICD-sim: Gastroparesis;  DOID: 11914;DO-sim: gastroparesis distance_simhash£∫0
+DA42;ICD-sim: Gastritis;  DOID: 4029;DO-sim: gastritis distance_simhash£∫0
+DA42.2;ICD-sim: Eosinophilic gastritis;  DOID: 4030;DO-sim: eosinophilic gastritis distance_simhash£∫0
+DA42.3;ICD-sim: Lymphocytic gastritis;  DOID: 4035;DO-sim: lymphocytic gastritis distance_simhash£∫0
+DA42.6;ICD-sim: Menetrier disease;  DOID: 8757;DO-sim: MENETRIER DISEASE distance_simhash£∫0
+DA42.75;ICD-sim: Granulomatous gastritis of unknown aetiology;  DOID: 4038;DO-sim: granulomatous gastritis distance_simhash£∫8
+DA42.76;ICD-sim: Hypertrophic gastritis of unknown aetiology;  DOID: 8757;DO-sim: hypertrophic gastritis distance_simhash£∫7
+DA42.80;ICD-sim: Alcoholic gastritis;  DOID: 8680;DO-sim: Alcoholic Gastritis distance_simhash£∫0
+DA42.80;ICD-sim: Alcoholic gastritis;  DOID: 8680;DO-sim: alcoholic gastritis distance_simhash£∫0
+DA42.82;ICD-sim: Chemical gastritis;  DOID: 8680;DO-sim: Alcoholic Gastritis distance_simhash£∫9
+DA42.82;ICD-sim: Chemical gastritis;  DOID: 8680;DO-sim: alcoholic gastritis distance_simhash£∫9
+DA43.Y;ICD-sim: Other specified vascular disorders of the stomach;  DOID: 76;DO-sim: stomach disorder distance_simhash£∫9
+BlockL2-DA5;ICD-sim: Diseases of duodenum;  DOID: 77;DO-sim: GIT disease distance_simhash£∫7
+DA51;ICD-sim: Duodenitis;  DOID: 8643;DO-sim: duodenitis distance_simhash£∫0
+DA60;ICD-sim: Gastric ulcer;  DOID: 10808;DO-sim: gastric ulcer distance_simhash£∫0
+DA60.60;ICD-sim: Alcohol-induced gastric ulcer;  DOID: 10808;DO-sim: gastric ulcer distance_simhash£∫8
+DA62;ICD-sim: Anastomotic ulcer;  DOID: 3128;DO-sim: Ulcer of anus distance_simhash£∫8
+DA63;ICD-sim: Duodenal ulcer;  DOID: 1724;DO-sim: duodenal ulcer distance_simhash£∫0
+DA63.0;ICD-sim: Duodenal erosion;  DOID: 4072;DO-sim: duodenal disease distance_simhash£∫9
+DA63.50;ICD-sim: Drug-induced duodenal ulcer;  DOID: 1724;DO-sim: duodenal ulcer distance_simhash£∫5
+DA90.0;ICD-sim: Syndromic diarrhoea;  DOID: 13250;DO-sim: diarrhoea distance_simhash£∫9
+DA93.0;ICD-sim: Paralytic ileus;  DOID: 8442;DO-sim: paralytic ileus distance_simhash£∫0
+DA95;ICD-sim: Coeliac disease;  DOID: 3118;DO-sim: hepatobiliary disease distance_simhash£∫8
+DA95;ICD-sim: Coeliac disease;  DOID: 3128;DO-sim: anal disease distance_simhash£∫9
+DA96.01;ICD-sim: Tropical sprue;  DOID: 10607;DO-sim: tropical sprue distance_simhash£∫0
+DA96.01;ICD-sim: Tropical sprue;  DOID: 10607;DO-sim: Sprue - tropical distance_simhash£∫0
+DA96.1;ICD-sim: Protein-losing enteropathy;  DOID: 10611;DO-sim: protein-losing enteropathy distance_simhash£∫0
+DA96.1;ICD-sim: Protein-losing enteropathy;  DOID: 10611;DO-sim: Protein-losing enteropathy (disorder) distance_simhash£∫9
+DA98;ICD-sim: Polyps of small intestine;  DOID: 3852;DO-sim: Peutz-Jeghers polyp of small Intestine distance_simhash£∫9
+BlockL1-DB1;ICD-sim: Diseases of appendix;  DOID: 60000;DO-sim: appendix disease distance_simhash£∫0
+BlockL1-DB1;ICD-sim: Diseases of appendix;  DOID: 893;DO-sim: Wilson disease distance_simhash£∫8
+BlockL1-DB1;ICD-sim: Diseases of appendix;  DOID: 8476;DO-sim: Whipple disease distance_simhash£∫9
+BlockL1-DB1;ICD-sim: Diseases of appendix;  DOID: 13248;DO-sim: mucocele of appendix distance_simhash£∫8
+DB10;ICD-sim: Appendicitis;  DOID: 8337;DO-sim: appendicitis distance_simhash£∫0
+DB10.0;ICD-sim: Acute appendicitis;  DOID: 8337;DO-sim: acute appendicitis distance_simhash£∫0
+DB10.00;ICD-sim: Acute appendicitis with generalised peritonitis;  DOID: 8337;DO-sim: acute appendicitis distance_simhash£∫9
+DB10.01;ICD-sim: Acute appendicitis with localised peritonitis;  DOID: 8337;DO-sim: acute appendicitis distance_simhash£∫7
+DB10.01;ICD-sim: Acute appendicitis with localised peritonitis;  DOID: 8337;DO-sim: acute appendicitis with generalized peritonitis distance_simhash£∫8
+DB10.1;ICD-sim: Chronic appendicitis;  DOID: 76;DO-sim: stomach disease distance_simhash£∫9
+DB11;ICD-sim: Certain specified diseases of appendix;  DOID: 60000;DO-sim: appendix disease distance_simhash£∫9
+DB11.4;ICD-sim: Fistula of appendix;  DOID: 13248;DO-sim: mucocele of appendix distance_simhash£∫7
+DB11.6;ICD-sim: Mucocele of appendix;  DOID: 60000;DO-sim: appendix disease distance_simhash£∫8
+DB11.6;ICD-sim: Mucocele of appendix;  DOID: 13248;DO-sim: mucocele of appendix distance_simhash£∫0
+DB31.2;ICD-sim: Rectal prolapse;  DOID: 9307;DO-sim: rectal prolapse distance_simhash£∫0
+DB32.0;ICD-sim: Pseudo-obstruction of colon;  DOID: 3876;DO-sim: colonic pseudo-obstruction distance_simhash£∫0
+DB32.0;ICD-sim: Pseudo-obstruction of colon;  DOID: 3876;DO-sim: colonic pseudo-obstruction distance_simhash£∫0
+DB32.2;ICD-sim: Megacolon;  DOID: 11372;DO-sim: megacolon distance_simhash£∫0
+DB32.20;ICD-sim: Toxic megacolon;  DOID: 1770;DO-sim: toxic megacolon distance_simhash£∫0
+DB33.1;ICD-sim: Microscopic colitis;  DOID: 0060182;DO-sim: microscopic colitis distance_simhash£∫0
+DB33.10;ICD-sim: Collagenous colitis;  DOID: 0060183;DO-sim: collagenous colitis distance_simhash£∫0
+DB33.11;ICD-sim: Lymphocytic colitis;  DOID: 0060184;DO-sim: lymphocytic colitis distance_simhash£∫0
+DB33.3;ICD-sim: Diversion colitis;  DOID: 0060187;DO-sim: diversion colitis distance_simhash£∫0
+DB50;ICD-sim: Fissure or fistula of anal regions;  DOID: 3128;DO-sim: anal fissure distance_simhash£∫8
+DB50.0;ICD-sim: Anal fissure;  DOID: 3128;DO-sim: anal fissure distance_simhash£∫0
+DB50.1;ICD-sim: Anal fistula;  DOID: 0060328;DO-sim: anal fistula distance_simhash£∫0
+DB52;ICD-sim: Ulcer of anus;  DOID: 3128;DO-sim: Ulcer of anus distance_simhash£∫0
+DB52;ICD-sim: Ulcer of anus;  DOID: 3128;DO-sim: anus disease distance_simhash£∫9
+DB72.0;ICD-sim: Anal spasm;  DOID: 11374;DO-sim: anal spasm distance_simhash£∫0
+BlockL1-DB9;ICD-sim: Diseases of liver;  DOID: 409;DO-sim: liver disease distance_simhash£∫0
+BlockL1-DB9;ICD-sim: Diseases of liver;  DOID: 12351;DO-sim: acute alcoholic liver disease distance_simhash£∫8
+BlockL1-DB9;ICD-sim: Diseases of liver;  DOID: 5082;DO-sim: cirrhosis of liver distance_simhash£∫9
+BlockL1-DB9;ICD-sim: Diseases of liver;  DOID: 5082;DO-sim: liver cirrhosis distance_simhash£∫9
+DB90.0;ICD-sim: Abscess of liver;  DOID: 409;DO-sim: liver disease distance_simhash£∫8
+DB94;ICD-sim: Alcoholic liver disease;  DOID: 12351;DO-sim: acute alcoholic liver disease distance_simhash£∫9
+DB94;ICD-sim: Alcoholic liver disease;  DOID: 0110896;DO-sim: inflammatory bowel disease 16 distance_simhash£∫9
+DB94;ICD-sim: Alcoholic liver disease;  DOID: 0110900;DO-sim: inflammatory bowel disease 2 distance_simhash£∫9
+DB94.1;ICD-sim: Alcoholic hepatitis;  DOID: 12351;DO-sim: Alcoholic Hepatitis distance_simhash£∫0
+DB94.1;ICD-sim: Alcoholic hepatitis;  DOID: 12351;DO-sim: Alcoholic hepatitis distance_simhash£∫0
+DB94.1;ICD-sim: Alcoholic hepatitis;  DOID: 12351;DO-sim: alcoholic hepatitis distance_simhash£∫0
+DB94.10;ICD-sim: Alcoholic hepatitis with cirrhosis;  DOID: 12351;DO-sim: Alcoholic hepatitis (disorder) distance_simhash£∫9
+DB94.Y;ICD-sim: Other specified alcoholic liver disease;  DOID: 409;DO-sim: liver disease distance_simhash£∫9
+DB94.Y;ICD-sim: Other specified alcoholic liver disease;  DOID: 12351;DO-sim: acute alcoholic liver disease distance_simhash£∫7
+DB94.Z;ICD-sim: Alcoholic liver disease, unspecified;  DOID: 12351;DO-sim: acute alcoholic liver disease distance_simhash£∫8
+DB94.Z;ICD-sim: Alcoholic liver disease, unspecified;  DOID: 0110896;DO-sim: inflammatory bowel disease 16 distance_simhash£∫8
+DB94.Z;ICD-sim: Alcoholic liver disease, unspecified;  DOID: 0110890;DO-sim: inflammatory bowel disease (Crohn disease) 19 distance_simhash£∫9
+DB94.Z;ICD-sim: Alcoholic liver disease, unspecified;  DOID: 0110901;DO-sim: inflammatory bowel disease 26 distance_simhash£∫9
+DB95.2;ICD-sim: Drug-induced or toxic liver disease with cholestasis;  DOID: 0070228;DO-sim: intrahepatic cholestasis of pregnancy 1 distance_simhash£∫9
+DB95.3Y;ICD-sim: Other specified drug-induced or toxic liver disease with fatty liver;  DOID: 409;DO-sim: liver disease distance_simhash£∫9
+DB95.3Z;ICD-sim: Drug-induced or toxic liver disease with fatty liver, unspecified;  DOID: 409;DO-sim: liver disease distance_simhash£∫9
+DB95.5;ICD-sim: Drug-induced or toxic liver disease with fibrosis or cirrhosis of liver;  DOID: 409;DO-sim: liver disease distance_simhash£∫8
+DB96.0;ICD-sim: Autoimmune hepatitis;  DOID: 1884;DO-sim: viral hepatitis distance_simhash£∫9
+DB96.2;ICD-sim: Primary sclerosing cholangitis;  DOID: 0060643;DO-sim: primary sclerosing cholangitis distance_simhash£∫0
+DB96.2Z;ICD-sim: Primary sclerosing cholangitis, unspecified;  DOID: 0060643;DO-sim: primary sclerosing cholangitis distance_simhash£∫9
+DB96.Y;ICD-sim: Other specified autoimmune liver disease;  DOID: 409;DO-sim: liver disease distance_simhash£∫9
+DB96.Z;ICD-sim: Autoimmune liver disease, unspecified;  DOID: 409;DO-sim: liver disease distance_simhash£∫9
+DB97.Z;ICD-sim: Inflammatory liver disease, unspecified;  DOID: 0110896;DO-sim: inflammatory bowel disease 16 distance_simhash£∫7
+DB97.Z;ICD-sim: Inflammatory liver disease, unspecified;  DOID: 0110889;DO-sim: inflammatory bowel disease 5 distance_simhash£∫9
+DB98;ICD-sim: Vascular disorders of the liver;  DOID: 409;DO-sim: disorder of liver (disorder) distance_simhash£∫9
+DB98;ICD-sim: Vascular disorders of the liver;  DOID: 1518;DO-sim: disorder of cecum (disorder) distance_simhash£∫9
+DB98;ICD-sim: Vascular disorders of the liver;  DOID: 8438;DO-sim: Afferent loop syndrome (disorder) distance_simhash£∫9
+DB98;ICD-sim: Vascular disorders of the liver;  DOID: 5330;DO-sim: disorder of pulp of tooth (disorder) distance_simhash£∫9
+DB98;ICD-sim: Vascular disorders of the liver;  DOID: 8438;DO-sim: Afferent loop syndrome (disorder) distance_simhash£∫9
+DB98.2;ICD-sim: Nodular regenerative hyperplasia of liver;  DOID: 5082;DO-sim: cirrhosis of liver distance_simhash£∫9
+DB98.2;ICD-sim: Nodular regenerative hyperplasia of liver;  DOID: 5082;DO-sim: liver cirrhosis distance_simhash£∫9
+DB99;ICD-sim: Certain specified diseases of liver;  DOID: 409;DO-sim: liver disease distance_simhash£∫4
+DB99.2;ICD-sim: Hepatorenal syndrome;  DOID: 11823;DO-sim: hepatorenal syndrome distance_simhash£∫0
+DB99.4;ICD-sim: Hepatopulmonary syndrome;  DOID: 900;DO-sim: hepatopulmonary syndrome distance_simhash£∫0
+DB99.Y;ICD-sim: Other diseases of liver;  DOID: 409;DO-sim: liver disease distance_simhash£∫0
+DB99.Y;ICD-sim: Other diseases of liver;  DOID: 12351;DO-sim: acute alcoholic liver disease distance_simhash£∫8
+DB99.Y;ICD-sim: Other diseases of liver;  DOID: 5082;DO-sim: cirrhosis of liver distance_simhash£∫9
+DB99.Y;ICD-sim: Other diseases of liver;  DOID: 5082;DO-sim: liver cirrhosis distance_simhash£∫9
+BlockL1-DC1;ICD-sim: Diseases of gallbladder or biliary tract;  DOID: 0060262;DO-sim: gallbladder disease distance_simhash£∫8
+DC10.02;ICD-sim: Obstruction of bile duct;  DOID: 13580;DO-sim: Obstruction of bile duct distance_simhash£∫0
+DC10.1;ICD-sim: Hydrops of gallbladder;  DOID: 9717;DO-sim: hydrops of gallbladder distance_simhash£∫0
+DC10.2;ICD-sim: Fistula of gallbladder or bile duct;  DOID: 13608;DO-sim: Atresia of bile duct distance_simhash£∫9
+DC10.3;ICD-sim: Polyp of gallbladder;  DOID: 10254;DO-sim: strawberry gallbladder distance_simhash£∫9
+DC10.4;ICD-sim: Cholesterolosis of gallbladder;  DOID: 10254;DO-sim: Cholesterolosis of gallbladder distance_simhash£∫0
+DC11;ICD-sim: Cholelithiasis;  DOID: 10211;DO-sim: cholelithiasis distance_simhash£∫0
+DC12;ICD-sim: Cholecystitis;  DOID: 1949;DO-sim: cholecystitis distance_simhash£∫0
+DC12.0;ICD-sim: Acute cholecystitis;  DOID: 1949;DO-sim: acute cholecystitis distance_simhash£∫0
+DC12.0;ICD-sim: Acute cholecystitis;  DOID: 1949;DO-sim: acute cholecystitis unspecified (disorder) distance_simhash£∫8
+DC12.0;ICD-sim: Acute cholecystitis;  DOID: 1949;DO-sim: acute and chronic cholecystitis (disorder) distance_simhash£∫9
+DC12.00;ICD-sim: Acute on chronic cholecystitis;  DOID: 1949;DO-sim: acute on chronic cholecystitis distance_simhash£∫0
+DC12.00;ICD-sim: Acute on chronic cholecystitis;  DOID: 1949;DO-sim: acute and chronic cholecystitis distance_simhash£∫0
+DC12.0Z;ICD-sim: Acute cholecystitis, unspecified;  DOID: 1949;DO-sim: acute on chronic cholecystitis distance_simhash£∫9
+DC12.0Z;ICD-sim: Acute cholecystitis, unspecified;  DOID: 1949;DO-sim: acute and chronic cholecystitis distance_simhash£∫9
+DC12.1;ICD-sim: Chronic cholecystitis;  DOID: 1949;DO-sim: acute and chronic cholecystitis (disorder) distance_simhash£∫9
+DC12.1;ICD-sim: Chronic cholecystitis;  DOID: 1949;DO-sim: chronic cholecystitis distance_simhash£∫0
+DC12.Y;ICD-sim: Other specified cholecystitis;  DOID: 2828;DO-sim: acalculous cholecystitis distance_simhash£∫8
+DC13;ICD-sim: Cholangitis;  DOID: 9446;DO-sim: cholangitis distance_simhash£∫0
+DC14.1;ICD-sim: Postcholecystectomy syndrome;  DOID: 9740;DO-sim: postcholecystectomy syndrome distance_simhash£∫0
+DC14.Y;ICD-sim: Other biliary diseases;  DOID: 5353;DO-sim: colonic disease distance_simhash£∫9
+DC14.Y;ICD-sim: Other biliary diseases;  DOID: 9297;DO-sim: disease of lips distance_simhash£∫9
+DC14.Y;ICD-sim: Other biliary diseases;  DOID: 9297;DO-sim: lip disease distance_simhash£∫9
+DC1Y;ICD-sim: Other specified diseases of gallbladder or biliary tract;  DOID: 9741;DO-sim: biliary tract disease distance_simhash£∫8
+DC1Z;ICD-sim: Diseases of gallbladder or biliary tract, unspecified;  DOID: 9741;DO-sim: biliary tract disease distance_simhash£∫9
+DC32.5;ICD-sim: Tropical pancreatitis;  DOID: 10607;DO-sim: tropical sprue distance_simhash£∫8
+DC32.5;ICD-sim: Tropical pancreatitis;  DOID: 10607;DO-sim: Sprue - tropical distance_simhash£∫8
+DC32.5;ICD-sim: Tropical pancreatitis;  DOID: 10607;DO-sim: Tropical steatorrhea distance_simhash£∫8
+DC34;ICD-sim: Obstructive pancreatitis;  DOID: 8437;DO-sim: intestinal obstruction distance_simhash£∫9
+DC50;ICD-sim: Peritonitis;  DOID: 8283;DO-sim: peritonitis distance_simhash£∫0
+DC50.0;ICD-sim: Primary peritonitis;  DOID: 8283;DO-sim: primary bacterial peritonitis (disorder) distance_simhash£∫7
+DC70;ICD-sim: Diverticulitis of small intestine;  DOID: 11223;DO-sim: small intestine diverticulitis distance_simhash£∫0
+DC70.0;ICD-sim: Diverticulitis of small intestine with complication;  DOID: 11223;DO-sim: small intestine diverticulitis distance_simhash£∫7
+DC71;ICD-sim: Diverticulosis of small intestine;  DOID: 3852;DO-sim: Peutz-Jeghers polyp of small Intestine distance_simhash£∫9
+DC71.1;ICD-sim: Diverticulosis of small intestine without haemorrhage;  DOID: 3852;DO-sim: Peutz-Jeghers polyp of small Intestine distance_simhash£∫9
+DD51;ICD-sim: Inguinal hernia;  DOID: 0060320;DO-sim: inguinal hernia distance_simhash£∫0
+DD53;ICD-sim: Umbilical hernia;  DOID: 0060321;DO-sim: umbilical hernia distance_simhash£∫0
+BlockL1-DD7;ICD-sim: Inflammatory bowel diseases;  DOID: 0050589;DO-sim: inflammatory bowel disease distance_simhash£∫0
+BlockL1-DD7;ICD-sim: Inflammatory bowel diseases;  DOID: 0110893;DO-sim: inflammatory bowel disease 13 distance_simhash£∫9
+BlockL1-DD7;ICD-sim: Inflammatory bowel diseases;  DOID: 0110895;DO-sim: inflammatory bowel disease 14 distance_simhash£∫9
+BlockL1-DD7;ICD-sim: Inflammatory bowel diseases;  DOID: 0110897;DO-sim: inflammatory bowel disease 15 distance_simhash£∫9
+BlockL1-DD7;ICD-sim: Inflammatory bowel diseases;  DOID: 0110896;DO-sim: inflammatory bowel disease 16 distance_simhash£∫9
+BlockL1-DD7;ICD-sim: Inflammatory bowel diseases;  DOID: 0110890;DO-sim: inflammatory bowel disease (Crohn disease) 19 distance_simhash£∫8
+BlockL1-DD7;ICD-sim: Inflammatory bowel diseases;  DOID: 0110890;DO-sim: inflammatory bowel disease 19 distance_simhash£∫7
+BlockL1-DD7;ICD-sim: Inflammatory bowel diseases;  DOID: 0110909;DO-sim: inflammatory bowel disease 25 distance_simhash£∫9
+BlockL1-DD7;ICD-sim: Inflammatory bowel diseases;  DOID: 110907;DO-sim: inflammatory bowel disease 6 distance_simhash£∫8
+BlockL1-DD7;ICD-sim: Inflammatory bowel diseases;  DOID: 0110886;DO-sim: inflammatory bowel disease 9 distance_simhash£∫7
+DD70;ICD-sim: Crohn disease;  DOID: 8778;DO-sim: Crohn disease distance_simhash£∫0
+DD70;ICD-sim: Crohn disease;  DOID: 8778;DO-sim: Crohn's disease distance_simhash£∫9
+DD70;ICD-sim: Crohn disease;  DOID: 8778;DO-sim: Pediatric Crohn's disease distance_simhash£∫3
+DD70;ICD-sim: Crohn disease;  DOID: 0060191;DO-sim: gastroduodenal Crohn's disease distance_simhash£∫9
+DD70;ICD-sim: Crohn disease;  DOID: 0110885;DO-sim: inflammatory bowel disease (Crohn disease) 10 distance_simhash£∫9
+DD70.4;ICD-sim: Crohn disease of anal region;  DOID: 8778;DO-sim: Crohn disease distance_simhash£∫8
+DD70.4;ICD-sim: Crohn disease of anal region;  DOID: 3128;DO-sim: anal disease distance_simhash£∫8
+DD71;ICD-sim: Ulcerative colitis;  DOID: 8577;DO-sim: Left-sided ulcerative colitis distance_simhash£∫9
+DD71;ICD-sim: Ulcerative colitis;  DOID: 8577;DO-sim: ulcerative colitis distance_simhash£∫0
+DD71.1;ICD-sim: Left sided ulcerative colitis;  DOID: 8577;DO-sim: Left-sided ulcerative colitis distance_simhash£∫0
+DD71.1;ICD-sim: Left sided ulcerative colitis;  DOID: 8577;DO-sim: ulcerative colitis distance_simhash£∫9
+DD7Y;ICD-sim: Other specified inflammatory bowel diseases;  DOID: 0110893;DO-sim: inflammatory bowel disease 13 distance_simhash£∫8
+DD7Y;ICD-sim: Other specified inflammatory bowel diseases;  DOID: 0110898;DO-sim: inflammatory bowel disease 20 distance_simhash£∫8
+DD7Y;ICD-sim: Other specified inflammatory bowel diseases;  DOID: 0110906;DO-sim: inflammatory bowel disease 21 distance_simhash£∫8
+DD7Y;ICD-sim: Other specified inflammatory bowel diseases;  DOID: 0110884;DO-sim: inflammatory bowel disease 23 distance_simhash£∫8
+DD7Y;ICD-sim: Other specified inflammatory bowel diseases;  DOID: 0110908;DO-sim: inflammatory bowel disease 24 distance_simhash£∫9
+DD7Y;ICD-sim: Other specified inflammatory bowel diseases;  DOID: 0110903;DO-sim: inflammatory bowel disease 4 distance_simhash£∫9
+DD7Y;ICD-sim: Other specified inflammatory bowel diseases;  DOID: 110907;DO-sim: inflammatory bowel disease 6 distance_simhash£∫7
+DD7Z;ICD-sim: Inflammatory bowel diseases, unspecified;  DOID: 0050589;DO-sim: inflammatory bowel disease distance_simhash£∫8
+DD7Z;ICD-sim: Inflammatory bowel diseases, unspecified;  DOID: 0110895;DO-sim: inflammatory bowel disease 14 distance_simhash£∫9
+DD7Z;ICD-sim: Inflammatory bowel diseases, unspecified;  DOID: 0110902;DO-sim: inflammatory bowel disease 27 distance_simhash£∫9
+DD7Z;ICD-sim: Inflammatory bowel diseases, unspecified;  DOID: 0110889;DO-sim: inflammatory bowel disease 5 distance_simhash£∫7
+BlockL1-DD9;ICD-sim: Functional gastrointestinal disorders;  DOID: 409;DO-sim: disorder of liver (disorder) distance_simhash£∫8
+BlockL1-DD9;ICD-sim: Functional gastrointestinal disorders;  DOID: 1518;DO-sim: disorder of cecum (disorder) distance_simhash£∫8
+DD93.0;ICD-sim: Infant regurgitation;  DOID: 14268;DO-sim: fibrosing cholangitis distance_simhash£∫9
+DD93.0;ICD-sim: Infant regurgitation;  DOID: 11875;DO-sim: denture stomatitis distance_simhash£∫9
+DE11;ICD-sim: Dumping syndrome;  DOID: 14495;DO-sim: dumping syndrome distance_simhash£∫0
+DE11;ICD-sim: Dumping syndrome;  DOID: 14495;DO-sim: dumping syndrome distance_simhash£∫0
+KB86.Z;ICD-sim: Postnatal intestinal perforation, unspecified;  DOID: 2074;DO-sim: intestinal perforation distance_simhash£∫7
+KB86.Z;ICD-sim: Postnatal intestinal perforation, unspecified;  DOID: 2074;DO-sim: Perforation of intestine distance_simhash£∫7
+KB89.1;ICD-sim: Short bowel syndrome;  DOID: 10605;DO-sim: short bowel syndrome distance_simhash£∫0
+Mesh:D000074270;Mesh-sim: Meconium Ileus;  KB87.2;ICD-sim: Meconium ileus without perforation distance_simhash£∫8
+Mesh:D000076385;Mesh-sim: Diverticular Diseases;  BlockL1-DB1;ICD-sim: Diseases of appendix distance_simhash£∫8
+Mesh:D000126;Mesh-sim: Achlorhydria;  DA41.3;ICD-sim: Achlorhydria distance_simhash£∫0
+Mesh:D001004;Mesh-sim: Anus Diseases;  DB52;ICD-sim: Ulcer of anus distance_simhash£∫9
+Mesh:D001064;Mesh-sim: Appendicitis;  DB10;ICD-sim: Appendicitis distance_simhash£∫0
+Mesh:D001063;Mesh-sim: Appendix Cancer;  DB11.4;ICD-sim: Fistula of appendix distance_simhash£∫8
+Mesh:D001063;Mesh-sim: Cancer of the Appendix;  DB11.4;ICD-sim: Fistula of appendix distance_simhash£∫8
+Mesh:D001063;Mesh-sim: Cancer of Appendix;  DB11.4;ICD-sim: Fistula of appendix distance_simhash£∫8
+Mesh:D001471;Mesh-sim: Barrett Epithelium;  DA23.0;ICD-sim: Barrett epithelium distance_simhash£∫0
+Mesh:D001528;Mesh-sim: Behcet Disease;  BlockL2-DA4;ICD-sim: Diseases of stomach distance_simhash£∫8
+Mesh:D001528;Mesh-sim: Behcet Disease;  DA50;ICD-sim: Acquired anatomical alterations of the duodenum distance_simhash£∫9
+Mesh:D001652;Mesh-sim: Bile Ducts;  DC11.4;ICD-sim: Calculus of bile duct with cholangitis distance_simhash£∫9
+Mesh:D001652;Mesh-sim: Bile Ducts;  DC14.0;ICD-sim: Haemorrhage of bile duct distance_simhash£∫9
+Mesh:D001660;Mesh-sim: Biliary Tract Diseases;  DC1Y;ICD-sim: Other specified diseases of gallbladder or biliary tract distance_simhash£∫8
+Mesh:D001660;Mesh-sim: Biliary Tract Diseases;  DC1Z;ICD-sim: Diseases of gallbladder or biliary tract, unspecified distance_simhash£∫9
+Mesh:D001765;Mesh-sim: Bacterial Overgrowth Syndrome;  DA96.00;ICD-sim: Bacterial overgrowth syndrome distance_simhash£∫0
+Mesh:D002054;Mesh-sim: Burning Mouth Syndrome;  DA0F.0;ICD-sim: Burning mouth syndrome distance_simhash£∫0
+Mesh:D002613;Mesh-sim: Cheilitis;  DA00.0;ICD-sim: Cheilitis distance_simhash£∫0
+Mesh:D002761;Mesh-sim: Cholangitis;  DC13;ICD-sim: Cholangitis distance_simhash£∫0
+Mesh:D002764;Mesh-sim: Cholecystitis;  DC12;ICD-sim: Cholecystitis distance_simhash£∫0
+Mesh:D002769;Mesh-sim: Cholelithiasis;  DC11;ICD-sim: Cholelithiasis distance_simhash£∫0
+Mesh:D002779;Mesh-sim: Bile Duct Obstruction;  DC10.02;ICD-sim: Obstruction of bile duct distance_simhash£∫0
+Mesh:D002915;Mesh-sim: Chylous Ascites;  DC51.0;ICD-sim: Chylous ascites distance_simhash£∫0
+Mesh:D002915;Mesh-sim: Ascites, Chylous;  DC51.0;ICD-sim: Chylous ascites distance_simhash£∫0
+Mesh:D003093;Mesh-sim: Ulcerative Colitis;  DA25;ICD-sim: Oesophageal ulcer distance_simhash£∫9
+Mesh:D003093;Mesh-sim: Ulcerative Colitis;  DD71;ICD-sim: Ulcerative colitis distance_simhash£∫0
+Mesh:D003093;Mesh-sim: Ulcerative Colitis;  DD71.1;ICD-sim: Left sided ulcerative colitis distance_simhash£∫9
+Mesh:D003093;Mesh-sim: Colitis, Ulcerative;  DA25;ICD-sim: Oesophageal ulcer distance_simhash£∫9
+Mesh:D003093;Mesh-sim: Colitis, Ulcerative;  DD71;ICD-sim: Ulcerative colitis distance_simhash£∫0
+Mesh:D003093;Mesh-sim: Colitis, Ulcerative;  DD71.1;ICD-sim: Left sided ulcerative colitis distance_simhash£∫9
+Mesh:D003106;Mesh-sim: Appendix Epiploica;  DB11.6;ICD-sim: Mucocele of appendix distance_simhash£∫9
+Mesh:D003106;Mesh-sim: Omental Appendix;  DB11.4;ICD-sim: Fistula of appendix distance_simhash£∫9
+Mesh:D003108;Mesh-sim: Colonic Diseases;  DC14.Y;ICD-sim: Other biliary diseases distance_simhash£∫9
+Mesh:D003112;Mesh-sim: Pseudo-Obstruction, Colonic;  DB32.0;ICD-sim: Pseudo-obstruction of colon distance_simhash£∫0
+Mesh:D003112;Mesh-sim: Colonic Pseudo-Obstruction;  DB32.0;ICD-sim: Pseudo-obstruction of colon distance_simhash£∫0
+Mesh:D003424;Mesh-sim: Crohn's Disease;  DD70;ICD-sim: Crohn disease distance_simhash£∫9
+Mesh:D003424;Mesh-sim: Crohn Disease;  DD70;ICD-sim: Crohn disease distance_simhash£∫0
+Mesh:D003424;Mesh-sim: Crohn Disease;  DD70.4;ICD-sim: Crohn disease of anal region distance_simhash£∫8
+Mesh:D003699;Mesh-sim: Labrea Disease;  DA0C;ICD-sim: Periodontal disease distance_simhash£∫9
+Mesh:D003731;Mesh-sim: Dental Caries;  DA08.0;ICD-sim: Dental caries distance_simhash£∫0
+Mesh:D003731;Mesh-sim: Caries, Dental;  DA08.0;ICD-sim: Dental caries distance_simhash£∫0
+Mesh:D003744;Mesh-sim: Enamel Hypoplasia;  DA07.2;ICD-sim: Enamel hypoplasia distance_simhash£∫0
+Mesh:D003763;Mesh-sim: Dental Leakages;  DA08.0;ICD-sim: Dental caries distance_simhash£∫9
+Mesh:D003763;Mesh-sim: Leakage, Dental;  DA08.0;ICD-sim: Dental caries distance_simhash£∫9
+Mesh:D003763;Mesh-sim: Dental Leakage;  DA08.0;ICD-sim: Dental caries distance_simhash£∫9
+Mesh:D003763;Mesh-sim: Leakages, Dental;  DA08.0;ICD-sim: Dental caries distance_simhash£∫9
+Mesh:D003784;Mesh-sim: Pulp Stones;  DA09.2;ICD-sim: Pulp abscess distance_simhash£∫9
+Mesh:D003790;Mesh-sim: Pulp Necrosis;  DA09.1;ICD-sim: Necrosis of pulp distance_simhash£∫0
+Mesh:D004066;Mesh-sim: Digestive System Diseases;  13.0;ICD-sim: Diseases of the digestive system distance_simhash£∫0
+Mesh:D004066;Mesh-sim: Digestive System Diseases;  DE2Y;ICD-sim: Other specified diseases of the digestive system distance_simhash£∫8
+Mesh:D004066;Mesh-sim: Digestive System Diseases;  DE2Z;ICD-sim: Diseases of the digestive system, unspecified distance_simhash£∫8
+Mesh:D004377;Mesh-sim: Dumping Syndrome;  DE11;ICD-sim: Dumping syndrome distance_simhash£∫0
+Mesh:D004378;Mesh-sim: Duodenal Diseases;  DA63.0;ICD-sim: Duodenal erosion distance_simhash£∫9
+Mesh:D004379;Mesh-sim: Duodenal Neoplasms;  DA51.Z;ICD-sim: Duodenitis, unspecified distance_simhash£∫8
+Mesh:D004381;Mesh-sim: Duodenal Ulcer;  DA63;ICD-sim: Duodenal ulcer distance_simhash£∫0
+Mesh:D004381;Mesh-sim: Duodenal Ulcer;  DA63.50;ICD-sim: Drug-induced duodenal ulcer distance_simhash£∫5
+Mesh:D004382;Mesh-sim: Duodenitis;  DA51;ICD-sim: Duodenitis distance_simhash£∫0
+Mesh:D004382;Mesh-sim: Erosive Duodenitis;  DA63.0;ICD-sim: Duodenal erosion distance_simhash£∫0
+Mesh:D004931;Mesh-sim: Achalasia;  DA21.0;ICD-sim: Achalasia distance_simhash£∫0
+Mesh:D004932;Mesh-sim: Gastric Varices;  DA43.0;ICD-sim: Gastric varices distance_simhash£∫0
+Mesh:D005234;Mesh-sim: Liver Steatosis;  DB90.0;ICD-sim: Abscess of liver distance_simhash£∫8
+Mesh:D005234;Mesh-sim: Liver Steatosis;  DB98.2;ICD-sim: Nodular regenerative hyperplasia of liver distance_simhash£∫8
+Mesh:D005234;Mesh-sim: Steatosis of Liver;  DB90.0;ICD-sim: Abscess of liver distance_simhash£∫8
+Mesh:D005234;Mesh-sim: Steatosis of Liver;  DB98.2;ICD-sim: Nodular regenerative hyperplasia of liver distance_simhash£∫8
+Mesh:D005234;Mesh-sim: Fatty Liver;  BlockL1-DB9;ICD-sim: Diseases of liver distance_simhash£∫9
+Mesh:D005234;Mesh-sim: Fatty Liver;  DB90.0;ICD-sim: Abscess of liver distance_simhash£∫7
+Mesh:D005234;Mesh-sim: Fatty Liver;  DB98.0;ICD-sim: Infarction of liver distance_simhash£∫7
+Mesh:D005234;Mesh-sim: Fatty Liver;  DB99;ICD-sim: Certain specified diseases of liver distance_simhash£∫9
+Mesh:D005234;Mesh-sim: Fatty Liver;  DB99.Y;ICD-sim: Other diseases of liver distance_simhash£∫9
+Mesh:D005235;Mesh-sim: Alcoholic Fatty Liver;  DB92;ICD-sim: Non-alcoholic fatty liver disease distance_simhash£∫8
+Mesh:D005235;Mesh-sim: Alcoholic Fatty Liver;  DB94.0;ICD-sim: Alcoholic fatty liver distance_simhash£∫0
+Mesh:D005235;Mesh-sim: Fatty Liver, Alcoholic;  DB92;ICD-sim: Non-alcoholic fatty liver disease distance_simhash£∫8
+Mesh:D005235;Mesh-sim: Fatty Liver, Alcoholic;  DB94.0;ICD-sim: Alcoholic fatty liver distance_simhash£∫0
+Mesh:D005401;Mesh-sim: Anal Fissure;  DB50;ICD-sim: Fissure or fistula of anal regions distance_simhash£∫8
+Mesh:D005401;Mesh-sim: Anal Fissure;  DB50.0;ICD-sim: Anal fissure distance_simhash£∫0
+Mesh:D005705;Mesh-sim: Gallbladder Diseases;  BlockL1-DC1;ICD-sim: Diseases of gallbladder or biliary tract distance_simhash£∫8
+Mesh:D005706;Mesh-sim: Gall Bladder Cancer;  DC10.01;ICD-sim: Obstruction of gall bladder distance_simhash£∫7
+Mesh:D005753;Mesh-sim: Cardiac Glands;  DA04.Y;ICD-sim: Other specified diseases of salivary glands distance_simhash£∫7
+Mesh:D005756;Mesh-sim: Gastritis;  DA42;ICD-sim: Gastritis distance_simhash£∫0
+Mesh:D005758;Mesh-sim: Gastritis, Hypertrophic;  DA42.76;ICD-sim: Hypertrophic gastritis of unknown aetiology distance_simhash£∫7
+Mesh:D005758;Mesh-sim: Menetrier Disease;  DA42.6;ICD-sim: Menetrier disease distance_simhash£∫0
+Mesh:D005764;Mesh-sim: Gastro-oesophageal Reflux;  KB80;ICD-sim: Gastro-oesophageal reflux disease in newborn distance_simhash£∫9
+Mesh:D005767;Mesh-sim: Functional Gastrointestinal Disorders;  BlockL1-DD9;ICD-sim: Functional gastrointestinal disorders distance_simhash£∫0
+Mesh:D005767;Mesh-sim: Gastrointestinal Disorders, Functional;  BlockL1-DD9;ICD-sim: Functional gastrointestinal disorders distance_simhash£∫0
+Mesh:D005882;Mesh-sim: Gingival Diseases;  DA0B;ICD-sim: Gingival diseases distance_simhash£∫0
+Mesh:D005885;Mesh-sim: Gingival Hyperplasia;  DB11.1;ICD-sim: Hyperplasia of appendix distance_simhash£∫8
+Mesh:D005889;Mesh-sim: Gingival Recession;  DA0D.0;ICD-sim: Gingival recession distance_simhash£∫0
+Mesh:D005891;Mesh-sim: Gingivitis;  DA0C.5;ICD-sim: Linear gingival erythema distance_simhash£∫8
+Mesh:D005928;Mesh-sim: Glossitis;  DA03.0;ICD-sim: Glossitis distance_simhash£∫0
+Mesh:D005929;Mesh-sim: Geographic Tongue;  DA03.1;ICD-sim: Geographic tongue distance_simhash£∫0
+Mesh:D005929;Mesh-sim: Tongue, Geographic;  DA03.1;ICD-sim: Geographic tongue distance_simhash£∫0
+Mesh:D006502;Mesh-sim: Budd-Chiari Syndrome;  DB98.5;ICD-sim: Budd-Chiari syndrome distance_simhash£∫0
+Mesh:D006501;Mesh-sim: Encephalopathy, Hepatic;  DB99.5;ICD-sim: Hepatic encephalopathy distance_simhash£∫0
+Mesh:D006501;Mesh-sim: Hepatic Encephalopathy;  DB99.5;ICD-sim: Hepatic encephalopathy distance_simhash£∫0
+Mesh:D006504;Mesh-sim: Veno-Occlusive Disease, Hepatic;  DB98.6;ICD-sim: Hepatic veno-occlusive disease distance_simhash£∫0
+Mesh:D006504;Mesh-sim: Hepatic Veno Occlusive Disease;  DB98.6;ICD-sim: Hepatic veno-occlusive disease distance_simhash£∫0
+Mesh:D006504;Mesh-sim: Hepatic Veno-Occlusive Disease;  DB98.6;ICD-sim: Hepatic veno-occlusive disease distance_simhash£∫0
+Mesh:D006519;Mesh-sim: Alcoholic Hepatitis;  DB94.1;ICD-sim: Alcoholic hepatitis distance_simhash£∫0
+Mesh:D006519;Mesh-sim: Hepatitis, Alcoholic;  DB94.1;ICD-sim: Alcoholic hepatitis distance_simhash£∫0
+Mesh:D006519;Mesh-sim: Chronic Alcoholic Hepatitis;  DB94.1Z;ICD-sim: Alcoholic hepatitis, unspecified distance_simhash£∫9
+Mesh:D006519;Mesh-sim: Hepatitis, Alcoholic, Chronic;  DB94.1Z;ICD-sim: Alcoholic hepatitis, unspecified distance_simhash£∫9
+Mesh:D006527;Mesh-sim: Wilson Disease;  BlockL1-DB1;ICD-sim: Diseases of appendix distance_simhash£∫8
+Mesh:D006529;Mesh-sim: Enlarged Liver;  DB98.2;ICD-sim: Nodular regenerative hyperplasia of liver distance_simhash£∫8
+Mesh:D006528;Mesh-sim: Liver Cell Carcinoma, Adult;  DB95.6;ICD-sim: Drug-induced or toxic liver disease with vascular disorders of the liver distance_simhash£∫9
+Mesh:D006530;Mesh-sim: Hepatorenal Syndrome;  DB99.2;ICD-sim: Hepatorenal syndrome distance_simhash£∫0
+Mesh:D006975;Mesh-sim: Hypertension, Portal;  DB98.7;ICD-sim: Portal hypertension distance_simhash£∫0
+Mesh:D007415;Mesh-sim: Intestinal Obstruction;  DC34;ICD-sim: Obstructive pancreatitis distance_simhash£∫9
+Mesh:D007416;Mesh-sim: Intestinal Perforation;  KB86.Z;ICD-sim: Postnatal intestinal perforation, unspecified distance_simhash£∫7
+Mesh:D007418;Mesh-sim: Paralytic Ileus;  DA93.0;ICD-sim: Paralytic ileus distance_simhash£∫0
+Mesh:D007420;Mesh-sim: Intestine, Large;  DB30.2;ICD-sim: Adhesions of large intestine with obstruction distance_simhash£∫6
+Mesh:D007420;Mesh-sim: Intestine, Large;  DB30.Y;ICD-sim: Other specified obstruction of large intestine distance_simhash£∫9
+Mesh:D007420;Mesh-sim: Intestine, Large;  DB30.Z;ICD-sim: Obstruction of large intestine, unspecified distance_simhash£∫4
+Mesh:D007420;Mesh-sim: Intestine, Large;  DB34.2;ICD-sim: Vasculitis of large intestine distance_simhash£∫8
+Mesh:D007420;Mesh-sim: Intestine, Large;  BlockL2-DC8;ICD-sim: Diverticular disease of large intestine distance_simhash£∫8
+Mesh:D007420;Mesh-sim: Intestine, Large;  DC80.0;ICD-sim: Diverticulitis of large intestine with complication distance_simhash£∫9
+Mesh:D007420;Mesh-sim: Intestine, Large;  DC82.Z;ICD-sim: Diverticulum of large intestine, unspecified distance_simhash£∫8
+Mesh:D007420;Mesh-sim: Large Intestine;  DB30.2;ICD-sim: Adhesions of large intestine with obstruction distance_simhash£∫6
+Mesh:D007420;Mesh-sim: Large Intestine;  DB30.Y;ICD-sim: Other specified obstruction of large intestine distance_simhash£∫9
+Mesh:D007420;Mesh-sim: Large Intestine;  DB30.Z;ICD-sim: Obstruction of large intestine, unspecified distance_simhash£∫4
+Mesh:D007420;Mesh-sim: Large Intestine;  DB34.2;ICD-sim: Vasculitis of large intestine distance_simhash£∫8
+Mesh:D007420;Mesh-sim: Large Intestine;  BlockL2-DC8;ICD-sim: Diverticular disease of large intestine distance_simhash£∫8
+Mesh:D007420;Mesh-sim: Large Intestine;  DC80.0;ICD-sim: Diverticulitis of large intestine with complication distance_simhash£∫9
+Mesh:D007420;Mesh-sim: Large Intestine;  DC82.Z;ICD-sim: Diverticulum of large intestine, unspecified distance_simhash£∫8
+Mesh:D007421;Mesh-sim: Small Intestine;  DA91;ICD-sim: Obstruction of small intestine distance_simhash£∫8
+Mesh:D007421;Mesh-sim: Small Intestine;  DA91.2;ICD-sim: Intestinal adhesions or bands of small intestine with obstruction distance_simhash£∫6
+Mesh:D007421;Mesh-sim: Small Intestine;  DA91.Z;ICD-sim: Obstruction of small intestine, unspecified distance_simhash£∫5
+Mesh:D007421;Mesh-sim: Small Intestine;  DA94.31;ICD-sim: Enteritis or ulcer of small intestine due to radiation distance_simhash£∫8
+Mesh:D007421;Mesh-sim: Small Intestine;  DA94.Z;ICD-sim: Noninfectious enteritis or ulcer of small intestine, unspecified distance_simhash£∫8
+Mesh:D007421;Mesh-sim: Small Intestine;  DA98.3;ICD-sim: Lymphoid hyperplasia of small intestine distance_simhash£∫9
+Mesh:D007421;Mesh-sim: Small Intestine;  DA98.Z;ICD-sim: Polyps of small intestine, unspecified distance_simhash£∫9
+Mesh:D007421;Mesh-sim: Intestine, Small;  DA91;ICD-sim: Obstruction of small intestine distance_simhash£∫8
+Mesh:D007421;Mesh-sim: Intestine, Small;  DA91.2;ICD-sim: Intestinal adhesions or bands of small intestine with obstruction distance_simhash£∫6
+Mesh:D007421;Mesh-sim: Intestine, Small;  DA91.Z;ICD-sim: Obstruction of small intestine, unspecified distance_simhash£∫5
+Mesh:D007421;Mesh-sim: Intestine, Small;  DA94.31;ICD-sim: Enteritis or ulcer of small intestine due to radiation distance_simhash£∫8
+Mesh:D007421;Mesh-sim: Intestine, Small;  DA94.Z;ICD-sim: Noninfectious enteritis or ulcer of small intestine, unspecified distance_simhash£∫8
+Mesh:D007421;Mesh-sim: Intestine, Small;  DA98.3;ICD-sim: Lymphoid hyperplasia of small intestine distance_simhash£∫9
+Mesh:D007421;Mesh-sim: Intestine, Small;  DA98.Z;ICD-sim: Polyps of small intestine, unspecified distance_simhash£∫9
+Mesh:D007422;Mesh-sim: Intestines;  DA91;ICD-sim: Obstruction of small intestine distance_simhash£∫9
+Mesh:D007422;Mesh-sim: Intestines;  DA91.2;ICD-sim: Intestinal adhesions or bands of small intestine with obstruction distance_simhash£∫9
+Mesh:D007422;Mesh-sim: Intestines;  DA96.0Y;ICD-sim: Other specified intestinal malabsorption distance_simhash£∫9
+Mesh:D007422;Mesh-sim: Intestines;  KB86.2;ICD-sim: Postnatal intestinal perforation due to intestinal atresia or stenosis distance_simhash£∫9
+Mesh:D007422;Mesh-sim: Intestines;  KB86.Z;ICD-sim: Postnatal intestinal perforation, unspecified distance_simhash£∫9
+Mesh:D007571;Mesh-sim: Jaw Diseases;  DA06;ICD-sim: Certain specified diseases of jaws distance_simhash£∫9
+Mesh:D007571;Mesh-sim: Jaw Diseases;  BlockL1-DC3;ICD-sim: Diseases of pancreas distance_simhash£∫9
+Mesh:D007579;Mesh-sim: Jejunal Diseases;  BlockL1-DC5;ICD-sim: Diseases of peritoneum distance_simhash£∫9
+Mesh:D007579;Mesh-sim: Jejunal Diseases;  DD70;ICD-sim: Crohn disease distance_simhash£∫9
+Mesh:D008047;Mesh-sim: Lip Diseases;  DC14.Y;ICD-sim: Other biliary diseases distance_simhash£∫9
+Mesh:D008061;Mesh-sim: Whipple Disease;  BlockL1-DB1;ICD-sim: Diseases of appendix distance_simhash£∫9
+Mesh:D008099;Mesh-sim: Livers;  BlockL1-DB9;ICD-sim: Diseases of liver distance_simhash£∫8
+Mesh:D008099;Mesh-sim: Livers;  DB90;ICD-sim: Infectious liver disease distance_simhash£∫9
+Mesh:D008099;Mesh-sim: Livers;  DB90.0;ICD-sim: Abscess of liver distance_simhash£∫8
+Mesh:D008099;Mesh-sim: Livers;  DB95.3;ICD-sim: Drug-induced or toxic liver disease with fatty liver distance_simhash£∫8
+Mesh:D008099;Mesh-sim: Livers;  DB95.3Y;ICD-sim: Other specified drug-induced or toxic liver disease with fatty liver distance_simhash£∫9
+Mesh:D008099;Mesh-sim: Livers;  DB95.3Z;ICD-sim: Drug-induced or toxic liver disease with fatty liver, unspecified distance_simhash£∫9
+Mesh:D008099;Mesh-sim: Livers;  DB95.7;ICD-sim: Drug-induced or toxic liver disease with liver tumours distance_simhash£∫6
+Mesh:D008099;Mesh-sim: Livers;  DB99;ICD-sim: Certain specified diseases of liver distance_simhash£∫8
+Mesh:D008099;Mesh-sim: Livers;  DB99.Y;ICD-sim: Other diseases of liver distance_simhash£∫8
+Mesh:D008099;Mesh-sim: Liver;  BlockL1-DB9;ICD-sim: Diseases of liver distance_simhash£∫8
+Mesh:D008099;Mesh-sim: Liver;  DB90;ICD-sim: Infectious liver disease distance_simhash£∫9
+Mesh:D008099;Mesh-sim: Liver;  DB90.0;ICD-sim: Abscess of liver distance_simhash£∫8
+Mesh:D008099;Mesh-sim: Liver;  DB95.3;ICD-sim: Drug-induced or toxic liver disease with fatty liver distance_simhash£∫8
+Mesh:D008099;Mesh-sim: Liver;  DB95.3Y;ICD-sim: Other specified drug-induced or toxic liver disease with fatty liver distance_simhash£∫9
+Mesh:D008099;Mesh-sim: Liver;  DB95.3Z;ICD-sim: Drug-induced or toxic liver disease with fatty liver, unspecified distance_simhash£∫9
+Mesh:D008099;Mesh-sim: Liver;  DB95.7;ICD-sim: Drug-induced or toxic liver disease with liver tumours distance_simhash£∫6
+Mesh:D008099;Mesh-sim: Liver;  DB99;ICD-sim: Certain specified diseases of liver distance_simhash£∫8
+Mesh:D008099;Mesh-sim: Liver;  DB99.Y;ICD-sim: Other diseases of liver distance_simhash£∫8
+Mesh:D008100;Mesh-sim: Liver Abscess;  BlockL1-DB9;ICD-sim: Diseases of liver distance_simhash£∫8
+Mesh:D008100;Mesh-sim: Liver Abscess;  DB90.0;ICD-sim: Abscess of liver distance_simhash£∫0
+Mesh:D008100;Mesh-sim: Liver Abscess;  DB96.Y;ICD-sim: Other specified autoimmune liver disease distance_simhash£∫9
+Mesh:D008100;Mesh-sim: Liver Abscess;  DB99;ICD-sim: Certain specified diseases of liver distance_simhash£∫8
+Mesh:D008100;Mesh-sim: Liver Abscess;  DB99.Y;ICD-sim: Other diseases of liver distance_simhash£∫8
+Mesh:D008103;Mesh-sim: Cirrhosis, Liver;  BlockL1-DB9;ICD-sim: Diseases of liver distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Cirrhosis, Liver;  DB98.2;ICD-sim: Nodular regenerative hyperplasia of liver distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Cirrhosis, Liver;  DB99.Y;ICD-sim: Other diseases of liver distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Liver Cirrhosis;  BlockL1-DB9;ICD-sim: Diseases of liver distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Liver Cirrhosis;  DB98.2;ICD-sim: Nodular regenerative hyperplasia of liver distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Liver Cirrhosis;  DB99.Y;ICD-sim: Other diseases of liver distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Fibrosis, Liver;  BlockL1-DB9;ICD-sim: Diseases of liver distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Fibrosis, Liver;  DB90.Y;ICD-sim: Other specified infectious liver disease distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Fibrosis, Liver;  DB98.2;ICD-sim: Nodular regenerative hyperplasia of liver distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Fibrosis, Liver;  DB99.Y;ICD-sim: Other diseases of liver distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Liver Fibrosis;  BlockL1-DB9;ICD-sim: Diseases of liver distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Liver Fibrosis;  DB90.Y;ICD-sim: Other specified infectious liver disease distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Liver Fibrosis;  DB98.2;ICD-sim: Nodular regenerative hyperplasia of liver distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Liver Fibrosis;  DB99.Y;ICD-sim: Other diseases of liver distance_simhash£∫9
+Mesh:D008103;Mesh-sim: Hepatic Cirrhosis;  DB93.1;ICD-sim: Hepatic cirrhosis distance_simhash£∫0
+Mesh:D008104;Mesh-sim: Hepatic Cirrhosis, Alcoholic;  DB94.10;ICD-sim: Alcoholic hepatitis with cirrhosis distance_simhash£∫0
+Mesh:D008107;Mesh-sim: Liver Diseases;  BlockL1-DB9;ICD-sim: Diseases of liver distance_simhash£∫0
+Mesh:D008107;Mesh-sim: Liver Diseases;  DB90.0;ICD-sim: Abscess of liver distance_simhash£∫8
+Mesh:D008107;Mesh-sim: Liver Diseases;  DB94.Y;ICD-sim: Other specified alcoholic liver disease distance_simhash£∫9
+Mesh:D008107;Mesh-sim: Liver Diseases;  DB95.3Y;ICD-sim: Other specified drug-induced or toxic liver disease with fatty liver distance_simhash£∫9
+Mesh:D008107;Mesh-sim: Liver Diseases;  DB95.3Z;ICD-sim: Drug-induced or toxic liver disease with fatty liver, unspecified distance_simhash£∫9
+Mesh:D008107;Mesh-sim: Liver Diseases;  DB95.5;ICD-sim: Drug-induced or toxic liver disease with fibrosis or cirrhosis of liver distance_simhash£∫8
+Mesh:D008107;Mesh-sim: Liver Diseases;  DB96.Y;ICD-sim: Other specified autoimmune liver disease distance_simhash£∫9
+Mesh:D008107;Mesh-sim: Liver Diseases;  DB96.Z;ICD-sim: Autoimmune liver disease, unspecified distance_simhash£∫9
+Mesh:D008107;Mesh-sim: Liver Diseases;  DB99;ICD-sim: Certain specified diseases of liver distance_simhash£∫4
+Mesh:D008107;Mesh-sim: Liver Diseases;  DB99.Y;ICD-sim: Other diseases of liver distance_simhash£∫0
+Mesh:D008108;Mesh-sim: Liver Diseases, Alcoholic;  DB92;ICD-sim: Non-alcoholic fatty liver disease distance_simhash£∫8
+Mesh:D008108;Mesh-sim: Liver Diseases, Alcoholic;  DB92.Y;ICD-sim: Other specified non-alcoholic fatty liver disease distance_simhash£∫9
+Mesh:D008108;Mesh-sim: Liver Diseases, Alcoholic;  DB92.Z;ICD-sim: Non-alcoholic fatty liver disease, unspecified distance_simhash£∫9
+Mesh:D008108;Mesh-sim: Liver Diseases, Alcoholic;  DB94;ICD-sim: Alcoholic liver disease distance_simhash£∫0
+Mesh:D008108;Mesh-sim: Liver Diseases, Alcoholic;  DB94.Y;ICD-sim: Other specified alcoholic liver disease distance_simhash£∫8
+Mesh:D008108;Mesh-sim: Liver Diseases, Alcoholic;  DB94.Z;ICD-sim: Alcoholic liver disease, unspecified distance_simhash£∫3
+Mesh:D008108;Mesh-sim: Liver Diseases, Alcoholic;  DB97.Z;ICD-sim: Inflammatory liver disease, unspecified distance_simhash£∫8
+Mesh:D008108;Mesh-sim: Liver Diseases, Alcoholic;  DB9Z;ICD-sim: Diseases of liver, unspecified distance_simhash£∫8
+Mesh:D008108;Mesh-sim: Alcoholic Liver Diseases;  DB92;ICD-sim: Non-alcoholic fatty liver disease distance_simhash£∫8
+Mesh:D008108;Mesh-sim: Alcoholic Liver Diseases;  DB92.Y;ICD-sim: Other specified non-alcoholic fatty liver disease distance_simhash£∫9
+Mesh:D008108;Mesh-sim: Alcoholic Liver Diseases;  DB92.Z;ICD-sim: Non-alcoholic fatty liver disease, unspecified distance_simhash£∫9
+Mesh:D008108;Mesh-sim: Alcoholic Liver Diseases;  DB94;ICD-sim: Alcoholic liver disease distance_simhash£∫0
+Mesh:D008108;Mesh-sim: Alcoholic Liver Diseases;  DB94.Y;ICD-sim: Other specified alcoholic liver disease distance_simhash£∫8
+Mesh:D008108;Mesh-sim: Alcoholic Liver Diseases;  DB94.Z;ICD-sim: Alcoholic liver disease, unspecified distance_simhash£∫3
+Mesh:D008108;Mesh-sim: Alcoholic Liver Diseases;  DB97.Z;ICD-sim: Inflammatory liver disease, unspecified distance_simhash£∫8
+Mesh:D008108;Mesh-sim: Alcoholic Liver Diseases;  DB9Z;ICD-sim: Diseases of liver, unspecified distance_simhash£∫8
+Mesh:D008109;Mesh-sim: Liver Diseases, Parasitic;  DB90;ICD-sim: Infectious liver disease distance_simhash£∫6
+Mesh:D008109;Mesh-sim: Liver Diseases, Parasitic;  DB95.30;ICD-sim: Drug-induced or toxic liver disease with chronic fatty liver disease distance_simhash£∫8
+Mesh:D008109;Mesh-sim: Liver Diseases, Parasitic;  DB99.0;ICD-sim: Chronic liver disease distance_simhash£∫8
+Mesh:D008109;Mesh-sim: Parasitic Liver Diseases;  DB90;ICD-sim: Infectious liver disease distance_simhash£∫6
+Mesh:D008109;Mesh-sim: Parasitic Liver Diseases;  DB95.30;ICD-sim: Drug-induced or toxic liver disease with chronic fatty liver disease distance_simhash£∫8
+Mesh:D008109;Mesh-sim: Parasitic Liver Diseases;  DB99.0;ICD-sim: Chronic liver disease distance_simhash£∫8
+Mesh:D008113;Mesh-sim: Cancer of Liver;  DB90.0;ICD-sim: Abscess of liver distance_simhash£∫8
+Mesh:D008113;Mesh-sim: Cancer of Liver;  DB95.6;ICD-sim: Drug-induced or toxic liver disease with vascular disorders of the liver distance_simhash£∫9
+Mesh:D008113;Mesh-sim: Cancer of Liver;  DB96.Y;ICD-sim: Other specified autoimmune liver disease distance_simhash£∫9
+Mesh:D008113;Mesh-sim: Cancer of the Liver;  DB90.0;ICD-sim: Abscess of liver distance_simhash£∫8
+Mesh:D008113;Mesh-sim: Cancer of the Liver;  DB95.6;ICD-sim: Drug-induced or toxic liver disease with vascular disorders of the liver distance_simhash£∫9
+Mesh:D008113;Mesh-sim: Cancer of the Liver;  DB96.Y;ICD-sim: Other specified autoimmune liver disease distance_simhash£∫9
+Mesh:D008113;Mesh-sim: Liver Cancer;  DB90.0;ICD-sim: Abscess of liver distance_simhash£∫8
+Mesh:D008113;Mesh-sim: Liver Cancer;  DB95.6;ICD-sim: Drug-induced or toxic liver disease with vascular disorders of the liver distance_simhash£∫9
+Mesh:D008113;Mesh-sim: Liver Cancer;  DB96.Y;ICD-sim: Other specified autoimmune liver disease distance_simhash£∫9
+Mesh:D008260;Mesh-sim: Macroglossia;  DA03.5;ICD-sim: Macroglossia distance_simhash£∫0
+Mesh:D008311;Mesh-sim: Malocclusion, Angle Class I;  DA0E.51;ICD-sim: Angle class I malocclusion distance_simhash£∫0
+Mesh:D008310;Mesh-sim: Malocclusion;  DA0E.5;ICD-sim: Malocclusion distance_simhash£∫0
+Mesh:D008312;Mesh-sim: Class II Malocclusion, Division 1;  DA0E.50;ICD-sim: Class II division 2 malocclusion distance_simhash£∫8
+Mesh:D008312;Mesh-sim: Class II Malocclusion, Division 2;  DA0E.50;ICD-sim: Class II division 2 malocclusion distance_simhash£∫0
+Mesh:D008312;Mesh-sim: Malocclusion, Angle Class II, Division 2;  DA0E.50;ICD-sim: Class II division 2 malocclusion distance_simhash£∫9
+Mesh:D008531;Mesh-sim: Megacolon;  DB32.2;ICD-sim: Megacolon distance_simhash£∫0
+Mesh:D008532;Mesh-sim: Toxic Megacolon;  DB32.20;ICD-sim: Toxic megacolon distance_simhash£∫0
+Mesh:D008532;Mesh-sim: Megacolon, Toxic;  DB32.20;ICD-sim: Toxic megacolon distance_simhash£∫0
+Mesh:D008844;Mesh-sim: Micrognathia;  DA0E.00;ICD-sim: Micrognathia distance_simhash£∫0
+Mesh:D008882;Mesh-sim: Mikulicz Disease;  BlockL1-DB9;ICD-sim: Diseases of liver distance_simhash£∫9
+Mesh:D008882;Mesh-sim: Mikulicz Disease;  DB99.Y;ICD-sim: Other diseases of liver distance_simhash£∫9
+Mesh:D008882;Mesh-sim: Mikulicz' Disease;  BlockL1-DB9;ICD-sim: Diseases of liver distance_simhash£∫9
+Mesh:D008882;Mesh-sim: Mikulicz' Disease;  DB99.Y;ICD-sim: Other diseases of liver distance_simhash£∫9
+Mesh:D009057;Mesh-sim: Stomatognathic Diseases;  BlockL1-DB1;ICD-sim: Diseases of appendix distance_simhash£∫9
+Mesh:D009625;Mesh-sim: Noma;  DA0C.31;ICD-sim: Noma distance_simhash£∫0
+Mesh:D009914;Mesh-sim: Oral Submucous Fibrosis;  DA02.2;ICD-sim: Oral submucous fibrosis distance_simhash£∫0
+Mesh:D010382;Mesh-sim: Peliosis Hepatis;  DB98.1;ICD-sim: Peliosis hepatis distance_simhash£∫0
+Mesh:D010482;Mesh-sim: Abscess, Periapical;  DA09.6;ICD-sim: Periapical abscess distance_simhash£∫0
+Mesh:D010482;Mesh-sim: Periapical Abscess;  DA09.6;ICD-sim: Periapical abscess distance_simhash£∫0
+Mesh:D010485;Mesh-sim: Periapical Periodontitis;  DA09.7;ICD-sim: Periapical periodontitis distance_simhash£∫0
+Mesh:D010497;Mesh-sim: Pericoronitis;  DA0B.6;ICD-sim: Pericoronitis distance_simhash£∫0
+Mesh:D010510;Mesh-sim: Periodontal Diseases;  DA0C;ICD-sim: Periodontal disease distance_simhash£∫0
+Mesh:D010518;Mesh-sim: Periodontitis;  DA0C.30;ICD-sim: Necrotising ulcerative periodontitis distance_simhash£∫9
+Mesh:D010520;Mesh-sim: Periodontosis;  DA0C.2;ICD-sim: Periodontosis distance_simhash£∫0
+Mesh:D010520;Mesh-sim: Aggressive Periodontitis;  DA0C.1;ICD-sim: Aggressive periodontitis distance_simhash£∫0
+Mesh:D010534;Mesh-sim: Peritoneal Carcinomatosis;  DC50.10;ICD-sim: Eosinophilic peritonitis distance_simhash£∫9
+Mesh:D010538;Mesh-sim: Secondary Peritonitis;  DC50.1;ICD-sim: Secondary peritonitis distance_simhash£∫0
+Mesh:D010538;Mesh-sim: Primary Peritonitis;  DC50.0;ICD-sim: Primary peritonitis distance_simhash£∫0
+Mesh:D010538;Mesh-sim: Primary Peritonitis;  DC50.01;ICD-sim: Other specified primary peritonitis distance_simhash£∫9
+Mesh:D010538;Mesh-sim: Peritonitis;  DC50;ICD-sim: Peritonitis distance_simhash£∫0
+Mesh:D011504;Mesh-sim: Protein-Losing Enteropathy;  DA96.1;ICD-sim: Protein-losing enteropathy distance_simhash£∫0
+Mesh:D011504;Mesh-sim: Protein-Losing Enteropathies;  DA96.1;ICD-sim: Protein-losing enteropathy distance_simhash£∫0
+Mesh:D011504;Mesh-sim: Enteropathy, Protein-Losing;  DA96.1;ICD-sim: Protein-losing enteropathy distance_simhash£∫0
+Mesh:D011671;Mesh-sim: Pulpitis;  DA09.0;ICD-sim: Pulpitis distance_simhash£∫0
+Mesh:D011842;Mesh-sim: Radicular Cyst;  DA09.8;ICD-sim: Radicular cyst distance_simhash£∫0
+Mesh:D012003;Mesh-sim: Anal Fistula;  DB50.1;ICD-sim: Anal fistula distance_simhash£∫0
+Mesh:D012002;Mesh-sim: Anorectal Disorders;  DD92.Y;ICD-sim: Other specified functional anorectal disorders distance_simhash£∫7
+Mesh:D012005;Mesh-sim: Rectal Prolapse;  DB31.2;ICD-sim: Rectal prolapse distance_simhash£∫0
+Mesh:D012466;Mesh-sim: Salivary Gland Diseases;  DA04;ICD-sim: Diseases of salivary glands distance_simhash£∫0
+Mesh:D012466;Mesh-sim: Salivary Gland Diseases;  DA04.Z;ICD-sim: Diseases of salivary glands, unspecified distance_simhash£∫8
+Mesh:D012778;Mesh-sim: Short Bowel Syndrome;  KB89.1;ICD-sim: Short bowel syndrome distance_simhash£∫0
+Mesh:D012793;Mesh-sim: Sialoadenitis;  DA04.2;ICD-sim: Sialoadenitis distance_simhash£∫0
+Mesh:D013182;Mesh-sim: Sprue, Tropical;  DA96.01;ICD-sim: Tropical sprue distance_simhash£∫0
+Mesh:D013182;Mesh-sim: Sprue, Tropical;  DC32.5;ICD-sim: Tropical pancreatitis distance_simhash£∫8
+Mesh:D013272;Mesh-sim: Stomach Diseases;  BlockL2-DA4;ICD-sim: Diseases of stomach distance_simhash£∫0
+Mesh:D013272;Mesh-sim: Stomach Diseases;  DB10.1;ICD-sim: Chronic appendicitis distance_simhash£∫9
+Mesh:D013273;Mesh-sim: Diverticulum, Gastric;  DA40.3;ICD-sim: Gastric diverticulum distance_simhash£∫0
+Mesh:D013274;Mesh-sim: Gastric Cancer;  DA44;ICD-sim: Gastric polyp distance_simhash£∫9
+Mesh:D013276;Mesh-sim: Gastric Ulcer;  DA60;ICD-sim: Gastric ulcer distance_simhash£∫0
+Mesh:D013276;Mesh-sim: Gastric Ulcer;  DA60.60;ICD-sim: Alcohol-induced gastric ulcer distance_simhash£∫8
+Mesh:D013277;Mesh-sim: Gastric Volvulus;  DA40.2;ICD-sim: Gastric volvulus distance_simhash£∫0
+Mesh:D013280;Mesh-sim: Mucositis, Oral;  DA01.11;ICD-sim: Oral mucositis distance_simhash£∫0
+Mesh:D013280;Mesh-sim: Oral Mucositis;  DA01.11;ICD-sim: Oral mucositis distance_simhash£∫0
+Mesh:D013281;Mesh-sim: Aphthae;  DA01.10;ICD-sim: Oral aphthae or aphtha-like ulceration distance_simhash£∫7
+Mesh:D013282;Mesh-sim: Stomatitis, Denture;  DD93.0;ICD-sim: Infant regurgitation distance_simhash£∫9
+Mesh:D013705;Mesh-sim: Temporomandibular Joint Disorders;  DA0E.8;ICD-sim: Temporomandibular joint disorders distance_simhash£∫0
+Mesh:D014060;Mesh-sim: Tongue Diseases;  DA03;ICD-sim: Diseases of tongue distance_simhash£∫0
+Mesh:D014063;Mesh-sim: Tongue, Fissured;  DA03.1;ICD-sim: Geographic tongue distance_simhash£∫9
+Mesh:D014085;Mesh-sim: Tooth Drifting;  DB30.4;ICD-sim: Stenosis of the rectum distance_simhash£∫9
+Mesh:D014085;Mesh-sim: Tooth Drift;  DB30.4;ICD-sim: Stenosis of the rectum distance_simhash£∫9
+Mesh:D014095;Mesh-sim: Teeth, Impacted;  DA07.8;ICD-sim: Impacted teeth distance_simhash£∫0
+Mesh:D014987;Mesh-sim: Xerostomia;  DA02.1;ICD-sim: Xerostomia distance_simhash£∫0
+Mesh:D015209;Mesh-sim: Cholangitis, Primary Sclerosing;  DB96.2;ICD-sim: Primary sclerosing cholangitis distance_simhash£∫0
+Mesh:D015209;Mesh-sim: Cholangitis, Primary Sclerosing;  DB96.2Z;ICD-sim: Primary sclerosing cholangitis, unspecified distance_simhash£∫9
+Mesh:D015209;Mesh-sim: Primary Sclerosing Cholangitis;  DB96.2;ICD-sim: Primary sclerosing cholangitis distance_simhash£∫0
+Mesh:D015209;Mesh-sim: Primary Sclerosing Cholangitis;  DB96.2Z;ICD-sim: Primary sclerosing cholangitis, unspecified distance_simhash£∫9
+Mesh:D015212;Mesh-sim: Bowel Diseases, Inflammatory;  BlockL1-DD7;ICD-sim: Inflammatory bowel diseases distance_simhash£∫0
+Mesh:D015212;Mesh-sim: Bowel Diseases, Inflammatory;  DD7Z;ICD-sim: Inflammatory bowel diseases, unspecified distance_simhash£∫8
+Mesh:D015212;Mesh-sim: Inflammatory Bowel Diseases;  BlockL1-DD7;ICD-sim: Inflammatory bowel diseases distance_simhash£∫0
+Mesh:D015212;Mesh-sim: Inflammatory Bowel Diseases;  DD7Z;ICD-sim: Inflammatory bowel diseases, unspecified distance_simhash£∫8
+Mesh:D015211;Mesh-sim: Zellweger Disease;  DC14.Y;ICD-sim: Other biliary diseases distance_simhash£∫9
+Mesh:D015494;Mesh-sim: Sialolithiasis;  DA04.4;ICD-sim: Sialolithiasis distance_simhash£∫0
+Mesh:D016672;Mesh-sim: Pharyngoesophageal Diverticulum;  DA40.3;ICD-sim: Gastric diverticulum distance_simhash£∫9
+Mesh:D016738;Mesh-sim: Arteriohepatic Dysplasia;  DA21.21;ICD-sim: Hypotensive peristalsis distance_simhash£∫8
+Mesh:D016738;Mesh-sim: Dysplasia, Arteriohepatic;  DA21.21;ICD-sim: Hypotensive peristalsis distance_simhash£∫8
+Mesh:D017093;Mesh-sim: Liver Failure;  DB96.Y;ICD-sim: Other specified autoimmune liver disease distance_simhash£∫9
+Mesh:D017093;Mesh-sim: Liver Failure;  DB98.0;ICD-sim: Infarction of liver distance_simhash£∫8
+Mesh:D017219;Mesh-sim: Gastric Outlet Obstruction;  DA40.0;ICD-sim: Gastric outlet obstruction distance_simhash£∫0
+Mesh:D017562;Mesh-sim: Postcholecystectomy Syndrome;  DC14.1;ICD-sim: Postcholecystectomy syndrome distance_simhash£∫0
+Mesh:D017733;Mesh-sim: Leukoplakia, Hairy;  DA01.00;ICD-sim: Leukoplakia distance_simhash£∫9
+Mesh:D017733;Mesh-sim: Leukoplakia, Hairy;  DA01.01;ICD-sim: Hairy leukoplakia distance_simhash£∫0
+Mesh:D018589;Mesh-sim: Gastroparesis;  DA41.00;ICD-sim: Gastroparesis distance_simhash£∫0
+Mesh:D019226;Mesh-sim: Mouth Ulcer;  DA01.15;ICD-sim: Mouth ulcers distance_simhash£∫0
+Mesh:D019693;Mesh-sim: Hepatitis, Autoimmune;  DB96.0;ICD-sim: Autoimmune hepatitis distance_simhash£∫0
+Mesh:D019693;Mesh-sim: Autoimmune Hepatitis;  DB96.0;ICD-sim: Autoimmune hepatitis distance_simhash£∫0
+Mesh:D020065;Mesh-sim: Hepatopulmonary Syndrome;  DB99.4;ICD-sim: Hepatopulmonary syndrome distance_simhash£∫0
+Mesh:D020254;Mesh-sim: Ankylosis of Teeth;  DA07.61;ICD-sim: Ankylosis of teeth distance_simhash£∫0
+Mesh:D041881;Mesh-sim: Cholecystitis, Acute;  DC12.0;ICD-sim: Acute cholecystitis distance_simhash£∫0
+Mesh:D041881;Mesh-sim: Acute Cholecystitis;  DC12.0;ICD-sim: Acute cholecystitis distance_simhash£∫0
+Mesh:D042101;Mesh-sim: Acalculous Cholecystitis;  DC12.Y;ICD-sim: Other specified cholecystitis distance_simhash£∫8
+Mesh:D042101;Mesh-sim: Cholecystitis, Acalculous;  DC12.Y;ICD-sim: Other specified cholecystitis distance_simhash£∫8
+Mesh:D043183;Mesh-sim: Irritable Bowel Syndrome;  DD91.0;ICD-sim: Irritable bowel syndrome distance_simhash£∫0
+Mesh:D043183;Mesh-sim: Irritable Bowel Syndrome;  DD91.00;ICD-sim: Irritable bowel syndrome, constipation predominant distance_simhash£∫8
+Mesh:D045724;Mesh-sim: Stomach Diverticulosis;  BlockL2-DA4;ICD-sim: Diseases of stomach distance_simhash£∫9
+Mesh:D045724;Mesh-sim: Diverticulosis, Stomach;  BlockL2-DA4;ICD-sim: Diseases of stomach distance_simhash£∫9
+Mesh:D046628;Mesh-sim: Sphincter of Oddi Dyskinesia;  DC14.2;ICD-sim: Dyskinesia of sphincter of Oddi distance_simhash£∫0
+Mesh:D046729;Mesh-sim: Collagenous Colitis;  DB33.10;ICD-sim: Collagenous colitis distance_simhash£∫0
+Mesh:D046729;Mesh-sim: Colitis, Collagenous;  DB33.10;ICD-sim: Collagenous colitis distance_simhash£∫0
+Mesh:D046730;Mesh-sim: Colitis, Lymphocytic;  DB33.11;ICD-sim: Lymphocytic colitis distance_simhash£∫0
+Mesh:D046730;Mesh-sim: Lymphocytic Colitis;  DB33.11;ICD-sim: Lymphocytic colitis distance_simhash£∫0
+Mesh:D046728;Mesh-sim: Microscopic Colitis;  DB33.1;ICD-sim: Microscopic colitis distance_simhash£∫0
+Mesh:D046728;Mesh-sim: Colitis, Microscopic;  DB33.1;ICD-sim: Microscopic colitis distance_simhash£∫0
+Mesh:D048550;Mesh-sim: Liver Insufficiency;  DB90.0;ICD-sim: Abscess of liver distance_simhash£∫9
+Mesh:D050500;Mesh-sim: Pancreatitis, Chronic;  DC32;ICD-sim: Chronic pancreatitis distance_simhash£∫0
+Mesh:D050500;Mesh-sim: Chronic Pancreatitis;  DC32;ICD-sim: Chronic pancreatitis distance_simhash£∫0
+Mesh:D051261;Mesh-sim: Granulomatosis, Orofacial;  DA01.21;ICD-sim: Orofacial granulomatosis distance_simhash£∫0
+Mesh:D051261;Mesh-sim: Orofacial Granulomatosis;  DA01.21;ICD-sim: Orofacial granulomatosis distance_simhash£∫0
+Mesh:D055093;Mesh-sim: Periodontal Atrophy;  DA09.7;ICD-sim: Periapical periodontitis distance_simhash£∫9
+Mesh:D056486;Mesh-sim: Drug-Induced Liver Disease;  BlockL1-DB9;ICD-sim: Diseases of liver distance_simhash£∫7
+Mesh:D056486;Mesh-sim: Drug-Induced Liver Disease;  DB95.3Y;ICD-sim: Other specified drug-induced or toxic liver disease with fatty liver distance_simhash£∫8
+Mesh:D056486;Mesh-sim: Drug-Induced Liver Disease;  DB95.3Z;ICD-sim: Drug-induced or toxic liver disease with fatty liver, unspecified distance_simhash£∫8
+Mesh:D056486;Mesh-sim: Drug-Induced Liver Disease;  DB95.7;ICD-sim: Drug-induced or toxic liver disease with liver tumours distance_simhash£∫9
+Mesh:D056486;Mesh-sim: Drug-Induced Liver Disease;  DB99;ICD-sim: Certain specified diseases of liver distance_simhash£∫9
+Mesh:D056486;Mesh-sim: Drug-Induced Liver Disease;  DB99.Y;ICD-sim: Other diseases of liver distance_simhash£∫7
+Mesh:D056486;Mesh-sim: Chemically-Induced Liver Toxicity;  DB95.3Y;ICD-sim: Other specified drug-induced or toxic liver disease with fatty liver distance_simhash£∫8
+Mesh:D057831;Mesh-sim: Lemierre Disease;  BlockL2-DA4;ICD-sim: Diseases of stomach distance_simhash£∫9
+Mesh:D058625;Mesh-sim: End Stage Liver Disease;  BlockL1-DB9;ICD-sim: Diseases of liver distance_simhash£∫8
+Mesh:D058625;Mesh-sim: End Stage Liver Disease;  DB99.Y;ICD-sim: Other diseases of liver distance_simhash£∫8
+Mesh:D063169;Mesh-sim: Dentofacial Dyplasia;  DA0E;ICD-sim: Dentofacial anomalies distance_simhash£∫9
+Mesh:D065626;Mesh-sim: Non-alcoholic Fatty Liver Disease;  DB92;ICD-sim: Non-alcoholic fatty liver disease distance_simhash£∫0
+Mesh:D065626;Mesh-sim: Non-alcoholic Fatty Liver Disease;  DB92.Y;ICD-sim: Other specified non-alcoholic fatty liver disease distance_simhash£∫9
+Mesh:D065626;Mesh-sim: Non-alcoholic Fatty Liver Disease;  DB92.Z;ICD-sim: Non-alcoholic fatty liver disease, unspecified distance_simhash£∫5
+Mesh:D065626;Mesh-sim: Non-alcoholic Fatty Liver Disease;  DB94;ICD-sim: Alcoholic liver disease distance_simhash£∫8
+Mesh:D065626;Mesh-sim: Non-alcoholic Fatty Liver Disease;  DB94.0;ICD-sim: Alcoholic fatty liver distance_simhash£∫8
