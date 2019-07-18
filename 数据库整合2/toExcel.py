@@ -70,7 +70,7 @@ def ICD1toEXCEL(path):
 
     df['ids'] = ('["' + df['dms_ids.0.db']+':'+df['dms_ids.0.id'] + '","' + df['dms_ids_extend.0.db'] + ':' + df['dms_ids_extend.0.id']+\
            '","' + df['dms_ids_extend.1.db'] + ':' + df['dms_ids_extend.1.id']+\
-        '","' + df['dms_ids_extend.2.db'] + ':' + df['dms_ids_extend.2.db'] + '"]')
+        '","' + df['dms_ids_extend.2.db'] + ':' + df['dms_ids_extend.2.id'] + '"]')
     ids=df['ids'].values
     for index,i in enumerate(ids):
         templist=eval(i)
@@ -238,3 +238,4 @@ def filesToExcel():
     d.to_excel(pdWriter, sheet_name="MeSH", index=False)
     pdWriter.save()
     pdWriter.close()
+#filesToExcel()

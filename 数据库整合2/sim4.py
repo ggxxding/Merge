@@ -121,13 +121,12 @@ DO.extend(MeSH) #delete?
 #print(DO)
 def contrast(threshold):
     SimIndex=SimhashIndex(SimhashObjs,k=threshold)
-    print(SimIndex.get_near_dups(Simhash(['Erysipeloid'])))
     df=pd.DataFrame({"ID":[],"Syn":[]})
     #a,adoc_set,aid,sheet_name,from
     dict={}         #ID：同义词表
     IDPairList=[]   #两两匹配的ID
     unMerged=[]     #未匹配的ID
-    flags=[0 for i in range(len(DO))]
+    flags=[0 for i in range(len(DO))]   #1已配对 0未配对
     for i in range(len(DO)):
         print('\r'+str(i),end='',flush=True)
         if flags[i]==0:
@@ -141,7 +140,10 @@ def contrast(threshold):
                     for id2 in DO[j][3]:
                         if idMatch==1:
                             break
+
                         if id1==id2:
+                            #print(id1, id2)
+                            #print(DO[i][3],DO[j][3])
                             idMatch=1
                             idMatched=1
                             break
@@ -195,6 +197,7 @@ def contrast(threshold):
     flags=[0 for i in range(len(IDPairList))]
     diseases=[] #疾病类列表
     for i in range(len(IDPairList)):
+        #print(i)
         if flags[i]==0:
             temp=[]
             for ii in IDPairList[i]:
@@ -231,7 +234,7 @@ def contrast(threshold):
 
 
     #df.to_csv('sim'+str(threshold)+'.csv',index=False)
-    OriginalFile = pd.read_excel("base.xlsx", None)
+    OriginalFile = pd.read_excel(filename, None)
     pdWriter = pd.ExcelWriter("merged"+str(threshold)+".xlsx")
     OriginalFile['DO'].to_excel(pdWriter, sheet_name="DO", index=False)
     OriginalFile['ICD10CM'].to_excel(pdWriter, sheet_name="ICD10CM", index=False)

@@ -202,7 +202,7 @@ def contrast(threshold):
                 df=df.append(pd1)'''
 
     #df.to_csv('sim'+str(threshold)+'.csv',index=False)
-    OriginalFile = pd.read_excel("base.xlsx", None)
+    OriginalFile = pd.read_excel(filename, None)
     pdWriter = pd.ExcelWriter("merged"+str(threshold)+".xlsx")
     OriginalFile['DO'].to_excel(pdWriter, sheet_name="DO", index=False)
     OriginalFile['ICD10CM'].to_excel(pdWriter, sheet_name="ICD10CM", index=False)
