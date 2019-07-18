@@ -138,16 +138,12 @@ def contrast(threshold):
                     if idMatch==1:
                         break
                     for id2 in DO[j][3]:
-                        if idMatch==1:
-                            break
-
                         if id1==id2:
                             #print(id1, id2)
                             #print(DO[i][3],DO[j][3])
                             idMatch=1
                             idMatched=1
                             break
-                            #print(1)
                 #distance_simhash=Simhash(DO[i][0]).distance(Simhash(DO[j][0]))
                 if idMatch==1:
                     idMatch=0
@@ -170,7 +166,7 @@ def contrast(threshold):
                     #df1=pd.DataFrame({"ID":[ID],"Syn":[Syn]})
                     #df=df.append(df1)
 
-            if len(near)==1 and near[0]==str(i) and idMatched==0:    #
+            if len(near)==1 and near[0]==str(i) and idMatched==0:    #未匹配
                 str1= '['
                 for k in DO[i][1]:
                     str1 = str1 + '"""' + str(k) + '""",'
@@ -209,7 +205,9 @@ def contrast(threshold):
                     for k in IDPairList[j]:
                         if k in diseases[-1]:
                             flags[j]=1
-                            diseases[-1].append(str(k))
+                            for l in IDPairList[j]:
+                                diseases[-1].append(str(l))
+                            break
         else:
             continue
     for i in diseases:
@@ -245,7 +243,7 @@ def contrast(threshold):
     pdWriter.close()
 
 start=time.perf_counter()
-contrast(0)
+contrast(7)
 dur1=time.perf_counter()
 print("time:",dur1-start)
 contrast(3)
