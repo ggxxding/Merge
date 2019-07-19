@@ -1,8 +1,8 @@
 from nltk.tokenize import RegexpTokenizer
 from stop_words import get_stop_words
 from nltk.stem.porter import PorterStemmer
-from gensim import corpora, models
-import gensim
+#from gensim import corpora, models
+#import gensim
 from simhash import Simhash,SimhashIndex
 import re
 import xlrd
@@ -15,7 +15,7 @@ import toExcel
 #OriginalFile = pd.read_excel("test1.xls", None)
 #print(type(OriginalFile['merged']['Syn'][1]))
 
-filename = "base2.xlsx"
+filename = "base.xlsx"
 workbook = xlrd.open_workbook(filename)
 def get_simhash_topics(sheet_name):
     sheet = workbook.sheet_by_name(sheet_name)
@@ -243,7 +243,7 @@ def contrast(threshold):
     pdWriter.close()
 
 start=time.perf_counter()
-contrast(7)
+contrast(0)
 dur1=time.perf_counter()
 print("time:",dur1-start)
 contrast(3)
@@ -266,4 +266,11 @@ dur7=time.perf_counter()
 print("time:",dur7-dur6)
 contrast(10)
 dur8=time.perf_counter()
-print("time:",dur8-dur7)
+print("time:",dur1-start,'\n',
+      dur2-dur1,'\n',
+      dur3-dur2,'\n',
+      dur4-dur3,'\n',
+      dur5-dur4,'\n',
+      dur6-dur5,'\n',
+      dur7-dur6,'\n',
+      dur8-dur7)
