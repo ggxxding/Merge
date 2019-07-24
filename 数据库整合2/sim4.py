@@ -15,7 +15,7 @@ import toExcel
 #OriginalFile = pd.read_excel("test1.xls", None)
 #print(type(OriginalFile['merged']['Syn'][1]))
 
-filename = "base.xlsx"
+filename = "base2.xlsx"
 workbook = xlrd.open_workbook(filename)
 def get_simhash_topics(sheet_name):
     sheet = workbook.sheet_by_name(sheet_name)
@@ -122,50 +122,52 @@ DO.extend(MeSH) #delete?
 def contrast(threshold):
     SimIndex=SimhashIndex(SimhashObjs,k=threshold)
     df=pd.DataFrame({"ID":[],"Syn":[]})
+    df2=pd.DataFrame({"ID":[],"Syn":[]})
     #a,adoc_set,aid,sheet_name,from
     dict={}         #ID：同义词表
+    xref=[]         #id匹配
     IDPairList=[]   #两两匹配的ID
     unMerged=[]     #未匹配的ID
     flags=[0 for i in range(len(DO))]   #1已配对 0未配对
     for i in range(len(DO)):
         print('\r'+str(i),end='',flush=True)
+        idMatched = 0
+        for j in range(i + 1, len(DO)):
+            idMatch = 0
+            for id1 in DO[i][3]:
+                if idMatch == 1:
+                    break
+                for id2 in DO[j][3]:
+                    if id1 == id2:
+                        # print(id1, id2)
+                        # print(DO[i][3],DO[j][3])
+                        idMatch = 1
+                        idMatched = 1
+                        break
+            # distance_simhash=Simhash(DO[i][0]).distance(Simhash(DO[j][0]))
+            if idMatch == 1:
+                idMatch = 0
+                # flags[i]=1
+                # flags[j]=1
+                # print(i,j)
+                str1 = '['
+                for k in DO[i][1]:  # DO[i][1]=syn
+                    str1 = str1 + '"""' + str(k) + '""",'
+                str1 = str1[:-1] + ']'
+                str2 = '['
+                for k in DO[j][1]:
+                    str2 = str2 + '"""' + str(k) + '""",'
+                str2 = str2[:-1] + ']'
+                # print(str1,str2)
+                dict[str(DO[i][2])] = str1  # DO[i][2]=id
+                dict[str(DO[j][2])] = str2
+                IDPair = [str(DO[i][2]), str(DO[j][2])]
+                # IDPairList.append(IDPair)
+                xref.append(IDPair)
+                # df1=pd.DataFrame({"ID":[ID],"Syn":[Syn]})
+                # df=df.append(df1)
         if flags[i]==0:
             near=SimIndex.get_near_dups(Simhash(DO[i][0]))
-            idMatched=0
-            for j in range(i+1,len(DO)):
-                idMatch=0
-                for id1 in DO[i][3]:
-                    if idMatch==1:
-                        break
-                    for id2 in DO[j][3]:
-                        if id1==id2:
-                            #print(id1, id2)
-                            #print(DO[i][3],DO[j][3])
-                            idMatch=1
-                            idMatched=1
-                            break
-                #distance_simhash=Simhash(DO[i][0]).distance(Simhash(DO[j][0]))
-                if idMatch==1:
-                    idMatch=0
-                    flags[i]=1
-                    flags[j]=1
-                    #print(i,j)
-                    str1='['
-                    for k in DO[i][1]:  #DO[i][1]=syn
-                        str1=str1+'"""'+str(k)+'""",'
-                    str1=str1[:-1]+']'
-                    str2 = '['
-                    for k in DO[j][1]:
-                        str2 = str2 + '"""' + str(k) + '""",'
-                    str2 = str2[:-1] + ']'
-                    #print(str1,str2)
-                    dict[str(DO[i][2])]=str1    #DO[i][2]=id
-                    dict[str(DO[j][2])]=str2
-                    IDPair=[str(DO[i][2]),str(DO[j][2])]
-                    IDPairList.append(IDPair)
-                    #df1=pd.DataFrame({"ID":[ID],"Syn":[Syn]})
-                    #df=df.append(df1)
-
             if len(near)==1 and near[0]==str(i) and idMatched==0:    #未匹配
                 str1= '['
                 for k in DO[i][1]:
@@ -173,7 +175,7 @@ def contrast(threshold):
                 str1 = str1[:-1] + ']'
                 dict[str(DO[i][2])]=str1
                 unMerged.append(str(DO[i][2]))
-            elif len(near)>1:
+            elif len(near)>1 and idMatched==0:
                 IDPair=[]
                 if len(near)>1:
                     while len(near)>0:
@@ -190,6 +192,32 @@ def contrast(threshold):
 
 
     #二次查找实体对
+    flagChanged = 1
+    while flagChanged == 1:
+        xrefs = []
+        flags = [0 for i in range(len(xref))]
+        for i in range(len(xref)):
+            # print(i)
+            if flags[i] == 0:
+                temp = []
+                for ii in xref[i]:
+                    temp.append(str(ii))
+                xrefs.append(temp)
+                flags[i] = 1
+                for j in range(i + 1, len(xref)):
+                    if flags[j] == 0:
+                        for k in xref[j]:
+                            if k in xrefs[-1]:
+                                flags[j] = 1
+                                for l in xref[j]:
+                                    xrefs[-1].append(str(l))
+                                break
+                                # IDPairList[j]=[]
+        if len(xrefs) == len(xref):
+            flagChanged = 0
+            break
+        xref= xrefs
+
     flagChanged=1
     while flagChanged==1:
         diseases=[]
@@ -236,13 +264,25 @@ def contrast(threshold):
                             break
         else:
             continue'''
+    for i in xrefs:
+        IDs=list(set(i))
+        str1= ','.join(IDs)
+        str1=str(len(IDs))+','+'xref'+','+str1 #id数：所有id
+        SynList = []
+        for id in IDs:
+            SynList.append(dict[id])
+
+        str2 = ','.join(SynList)
+        #print(str2)
+        df1 = pd.DataFrame({"ID": [str1], "Syn": [str2]})
+        df2 = df2.append(df1)
 
     for i in diseases:
         IDs = list(set(i))
         '''if len(IDs)==1:
             continue'''
         str1 = ','.join(IDs)
-        str1=str(len(IDs))+':'+str1 #id数：所有id
+        str1=str(len(IDs))+','+str1 #id数：所有id
         SynList = []
         for id in IDs:
             SynList.append(dict[id])
@@ -266,6 +306,7 @@ def contrast(threshold):
     OriginalFile['ICD10'].to_excel(pdWriter, sheet_name="ICD10", index=False)
     OriginalFile['MeSH'].to_excel(pdWriter, sheet_name="MeSH", index=False)
     df.to_excel(pdWriter, sheet_name="merged", index=False)
+    df2.to_excel(pdWriter,sheet_name="xref",index=False)
     pdWriter.save()
     pdWriter.close()
 
