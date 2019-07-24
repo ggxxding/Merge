@@ -15,7 +15,7 @@ import toExcel
 #OriginalFile = pd.read_excel("test1.xls", None)
 #print(type(OriginalFile['merged']['Syn'][1]))
 
-filename = "base.xlsx"
+filename = "base2.xlsx"
 workbook = xlrd.open_workbook(filename)
 def get_simhash_topics(sheet_name):
     sheet = workbook.sheet_by_name(sheet_name)
@@ -99,22 +99,22 @@ def getObjs(objects,base):
 SimhashObjs=[]
 
 DO = get_simhash_topics("DO")
-print(len(DO))
+print('lenDOID    %d'%(len(DO)))
 getObjs(SimhashObjs,DO)
 
 ICD10CM= get_simhash_topics("ICD10CM")
-print(len(ICD10CM))
+print('lenICD10CM %d'%(len(ICD10CM)))
 getObjs(SimhashObjs,ICD10CM)
 
 ICD10=get_simhash_topics("ICD10")
-print(len(ICD10))
+print('lenICD10   %d'%(len(ICD10)))
 getObjs(SimhashObjs,ICD10)
 
 MeSH = get_simhash_topics("MeSH")
-print(len(MeSH))
+print('lenMeSH    %d'%(len(MeSH)))
 getObjs(SimhashObjs,MeSH)
 
-print(len(SimhashObjs))
+print('len        %d'%(len(SimhashObjs)))
 DO.extend(ICD10CM)
 DO.extend(ICD10)
 DO.extend(MeSH) #delete?
@@ -190,8 +190,34 @@ def contrast(threshold):
 
 
     #二次查找实体对
-    flags=[0 for i in range(len(IDPairList))]
-    diseases=[] #疾病类列表
+    flagChanged=1
+    while flagChanged==1:
+        diseases=[]
+        flags = [0 for i in range(len(IDPairList))]
+        for i in range(len(IDPairList)):
+            # print(i)
+            if flags[i] == 0:
+                temp = []
+                for ii in IDPairList[i]:
+                    temp.append(str(ii))
+                diseases.append(temp)
+                flags[i] = 1
+                for j in range(i + 1, len(IDPairList)):
+                    if flags[j] == 0:
+                        for k in IDPairList[j]:
+                            if k in diseases[-1]:
+                                flags[j] = 1
+                                for l in IDPairList[j]:
+                                    diseases[-1].append(str(l))
+                                break
+                                #IDPairList[j]=[]
+        if len(diseases)==len(IDPairList):
+            flagChanged=0
+            break
+        IDPairList=diseases
+
+
+    '''diseases=[] #疾病类列表
     for i in range(len(IDPairList)):
         #print(i)
         if flags[i]==0:
@@ -209,11 +235,12 @@ def contrast(threshold):
                                 diseases[-1].append(str(l))
                             break
         else:
-            continue
+            continue'''
+
     for i in diseases:
         IDs = list(set(i))
-        if len(IDs)==1:
-            continue
+        '''if len(IDs)==1:
+            continue'''
         str1 = ','.join(IDs)
         str1=str(len(IDs))+':'+str1 #id数：所有id
         SynList = []
@@ -233,7 +260,7 @@ def contrast(threshold):
 
     #df.to_csv('sim'+str(threshold)+'.csv',index=False)
     OriginalFile = pd.read_excel(filename, None)
-    pdWriter = pd.ExcelWriter("merged"+str(threshold)+".xlsx")
+    pdWriter = pd.ExcelWriter("merged2"+str(threshold)+".xlsx")
     OriginalFile['DO'].to_excel(pdWriter, sheet_name="DO", index=False)
     OriginalFile['ICD10CM'].to_excel(pdWriter, sheet_name="ICD10CM", index=False)
     OriginalFile['ICD10'].to_excel(pdWriter, sheet_name="ICD10", index=False)
