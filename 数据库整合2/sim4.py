@@ -243,34 +243,22 @@ def contrast(threshold):
     pdWriter.close()
 
 start=time.perf_counter()
-contrast(0)
+contrast(11)
 dur1=time.perf_counter()
 print("time:",dur1-start)
-contrast(3)
+contrast(12)
 dur2=time.perf_counter()
 print("time:",dur2-dur1)
-contrast(5)
+contrast(13)
 dur3=time.perf_counter()
 print("time:",dur3-dur2)
-contrast(6)
+contrast(14)
 dur4=time.perf_counter()
 print("time:",dur4-dur3)
-contrast(7)
+contrast(15)
 dur5=time.perf_counter()
-print("time:",dur5-dur4)
-contrast(8)
-dur6=time.perf_counter()
-print("time:",dur6-dur5)
-contrast(9)
-dur7=time.perf_counter()
-print("time:",dur7-dur6)
-contrast(10)
-dur8=time.perf_counter()
 print("time:",dur1-start,'\n',
       dur2-dur1,'\n',
       dur3-dur2,'\n',
       dur4-dur3,'\n',
-      dur5-dur4,'\n',
-      dur6-dur5,'\n',
-      dur7-dur6,'\n',
-      dur8-dur7)
+      dur5-dur4,'\n')
