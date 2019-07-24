@@ -15,7 +15,7 @@ import toExcel
 #OriginalFile = pd.read_excel("test1.xls", None)
 #print(type(OriginalFile['merged']['Syn'][1]))
 
-filename = "base.xlsx"
+filename = "base2.xlsx"
 workbook = xlrd.open_workbook(filename)
 def get_simhash_topics(sheet_name):
     sheet = workbook.sheet_by_name(sheet_name)
@@ -163,6 +163,7 @@ def contrast(threshold):
                 dict[str(DO[j][2])] = str2
                 IDPair = [str(DO[i][2]), str(DO[j][2])]
                 # IDPairList.append(IDPair)
+                IDPairList.append(IDPair)
                 xref.append(IDPair)
                 # df1=pd.DataFrame({"ID":[ID],"Syn":[Syn]})
                 # df=df.append(df1)
@@ -175,7 +176,8 @@ def contrast(threshold):
                 str1 = str1[:-1] + ']'
                 dict[str(DO[i][2])]=str1
                 unMerged.append(str(DO[i][2]))
-            elif len(near)>1 and idMatched==0:
+            #elif len(near)>1 and idMatched==0:
+            elif len(near)>1:
                 IDPair=[]
                 if len(near)>1:
                     while len(near)>0:
