@@ -208,10 +208,10 @@ def contrast(threshold):
     pdWriter.close()
 
 start=time.perf_counter()
-contrast(12)
+contrast(15)
 dur1=time.perf_counter()
 print("time:",dur1-start)
-contrast(3)
+contrast(20)
 dur2=time.perf_counter()
 print("time:",dur2-dur1)
 contrast(5)
