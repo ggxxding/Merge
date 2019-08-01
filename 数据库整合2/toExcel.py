@@ -3,12 +3,19 @@ import numpy as np
 
 #DO
 def DOtoEXCEL(path):
-    df = pd.read_csv(path, dtype='str')  # use_cols=[] low_memory
+    df = pd.read_csv(path)  # use_cols=[] low_memory
     df = df.fillna('')
     print(df.columns)
-    df['id'] = 'DOID:' + df['dms_id']
-    id = df['id'].values.reshape(-1, 1)
 
+    #用pd.read_csv(path,dtype='str')方法会遇到比如ID：1816变为001816的问题，所以用下面循环来转换
+    for i in df.columns:
+        df[i]=df[i].astype('str')
+
+
+    df['id'] = 'DOID:' + df['dms_id']
+    #print(df['dms_id'])
+    id = df['id'].values.reshape(-1, 1)
+    print(id)
     df['ids'] = ('["' + df['dms_ids.0.db'] + ':' + df['dms_ids.0.id'] + '","' + df['dms_ids.1.db'] + ':' + df['dms_ids.1.id'] +\
                  '","'+ df['dms_ids.2.db'] + ':' + df['dms_ids.2.id'] + '","'+ df['dms_ids.3.db'] + ':' + df['dms_ids.3.id'] +\
                  '","'+ df['dms_ids.4.db'] + ':' + df['dms_ids.4.id'] + '","'+ df['dms_ids.5.db'] + ':' + df['dms_ids.5.id'] +\
@@ -65,6 +72,11 @@ def ICD1toEXCEL(path):
     df = pd.read_csv(path, dtype='str')  # use_cols=[] low_memory
     df = df.fillna('')
     print(df.columns)
+
+    #用pd.read_csv(path,dtype='str')方法会遇到比如ID：1816变为001816的问题，所以用下面循环来转换
+    for i in df.columns:
+        df[i]=df[i].astype('str')
+
     df['id'] = 'ICD10_CM:'+df['dms_id']
     id=df['id'].values.reshape(-1,1)
 
@@ -115,6 +127,11 @@ def ICD2toEXCEL(path):
     df = pd.read_csv(path, dtype='str')  # use_cols=[] low_memory
     df = df.fillna('')
     print(df.columns)
+
+    #用pd.read_csv(path,dtype='str')方法会遇到比如ID：1816变为001816的问题，所以用下面循环来转换
+    for i in df.columns:
+        df[i]=df[i].astype('str')
+
     df['id'] = 'ICD10:'+df['dms_id']
     id=df['id'].values.reshape(-1,1)
 
@@ -166,6 +183,11 @@ def MeSHtoEXCEL(path):
     df = pd.read_csv(path, dtype='str')  # use_cols=[] low_memory
     df = df.fillna('')
     print(df.columns)
+
+    #用pd.read_csv(path,dtype='str')方法会遇到比如ID：1816变为001816的问题，所以用下面循环来转换
+    for i in df.columns:
+        df[i]=df[i].astype('str')
+
     df['id'] = 'MeSH:'+df['dms_id']
     id=df['id'].values.reshape(-1,1)
 
@@ -231,11 +253,11 @@ def filesToExcel():
     c = ICD2toEXCEL(pathICD2)
     d = MeSHtoEXCEL(pathMeSH)
 
-    pdWriter = pd.ExcelWriter("base.xlsx")
+    pdWriter = pd.ExcelWriter("base3(IDfixed).xlsx")
     a.to_excel(pdWriter, sheet_name="DO", index=False)
     b.to_excel(pdWriter, sheet_name="ICD10CM", index=False)
     c.to_excel(pdWriter, sheet_name="ICD10", index=False)
     d.to_excel(pdWriter, sheet_name="MeSH", index=False)
     pdWriter.save()
     pdWriter.close()
-#filesToExcel()
+filesToExcel()

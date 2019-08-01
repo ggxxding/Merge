@@ -20,6 +20,7 @@ import toExcel
 #seg_list = jieba.cut('胃癌影像数据')
 #print(u"[默认模式]: ", "/ ".join(seg_list))
 
+
 filename = "胃癌影像数据.xlsx"
 workbook = xlrd.open_workbook(filename)
 def get_simhash_topics(sheet_name):

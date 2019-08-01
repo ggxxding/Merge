@@ -15,7 +15,7 @@ import toExcel
 #OriginalFile = pd.read_excel("test1.xls", None)
 #print(type(OriginalFile['merged']['Syn'][1]))
 
-filename = "base.xlsx"
+filename = "base3(IDfixed).xlsx"
 workbook = xlrd.open_workbook(filename)
 def get_simhash_topics(sheet_name):
     sheet = workbook.sheet_by_name(sheet_name)
@@ -302,7 +302,7 @@ def contrast(threshold):
 
     #df.to_csv('sim'+str(threshold)+'.csv',index=False)
     OriginalFile = pd.read_excel(filename, None)
-    pdWriter = pd.ExcelWriter("merged_"+str(threshold)+".xlsx")
+    pdWriter = pd.ExcelWriter("merged(IDfixed)_"+str(threshold)+".xlsx")
     OriginalFile['DO'].to_excel(pdWriter, sheet_name="DO", index=False)
     OriginalFile['ICD10CM'].to_excel(pdWriter, sheet_name="ICD10CM", index=False)
     OriginalFile['ICD10'].to_excel(pdWriter, sheet_name="ICD10", index=False)
