@@ -10,7 +10,7 @@ import os
 from xlutils.copy import copy
 import pandas as pd
 import time
-import toExcel
+#import toExcel
 #toExcel.filesToExcel()
 #OriginalFile = pd.read_excel("test1.xls", None)
 #print(type(OriginalFile['merged']['Syn'][1]))
