@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-filename='Merged_10.xlsx'
+filename='merged(IDfixed)_10_190808.xlsx'
 
 df=pd.read_excel(filename,sheet_name='merged')
 dfDO=pd.read_excel(filename,sheet_name='DO')
@@ -38,10 +38,10 @@ numlist=[]
 unmergedlist=[]
 for i in list1:
     j=i.split(',')
-    if len(j)!=1:
+    if len(j)>2:
         numlist.append(int(j[0]))
     else:
-        unmergedlist.append(j[0].split(':')[0])
+        unmergedlist.append(j[1].split(':')[0])
 
     j = i.split(',')
     bases = []
