@@ -1,3 +1,5 @@
+#寻找ID类名称并且分离
+
 from nltk.tokenize import RegexpTokenizer
 from stop_words import get_stop_words
 from nltk.stem.porter import PorterStemmer
@@ -60,6 +62,7 @@ def idProcess(name):
                     data=np.concatenate([data,temp])
                     #print(k,i,data.shape[0],data[-1])
                     break
+
     emptyList=[]
     #[DOIS:222  nsioasd]
     for i in range(data.shape[0]):
@@ -68,7 +71,8 @@ def idProcess(name):
         elif type(data[i,0])!=type([]) and type(data[i,1])!=type([]):#array的两个列表长度都为1时会自动变为长度2的列表，需要区分处理
             tempStr='1,'+data[i,0]
             data[i,0]=tempStr
-            data[i,1]=[[data[i,1]]]
+
+            data[i,1]='["""'+data[i,1]+'"""]'
             #print(data[i,1])
         else:
             tempLen=len(data[i,0])
@@ -79,6 +83,15 @@ def idProcess(name):
             data[i,0]=tempStr
             if type(data[i,1][0])!=type([]):
                 data[i,1]=[data[i,1]]
+            tempStr=''
+            for list1 in data[i,1]:
+                tempStr=tempStr+'['
+                for names in list1:
+                    tempStr=tempStr+'"""'+names+'""",'
+                tempStr=tempStr[:-1]+'],'
+            tempStr=tempStr[:-1]
+            data[i,1]=tempStr
+
     emptyList.sort(reverse=True)
     for i in emptyList:
         data=np.delete(data,i,axis=0)
@@ -86,7 +99,7 @@ def idProcess(name):
 
     data=pd.DataFrame(data,columns=['ID','Syn'])
 
-    pdWriter = pd.ExcelWriter(name[0:17]+'_190808'+".xlsx")
+    pdWriter = pd.ExcelWriter(name[0:17]+'_1908082'+".xlsx")
     df['DO'].to_excel(pdWriter, sheet_name="DO", index=False)
     df['ICD10CM'].to_excel(pdWriter, sheet_name="ICD10CM", index=False)
     df['ICD10'].to_excel(pdWriter, sheet_name="ICD10", index=False)
@@ -95,13 +108,13 @@ def idProcess(name):
     df['xref'].to_excel(pdWriter, sheet_name="xref", index=False)
     pdWriter.save()
     pdWriter.close()
-'''idProcess('merged(IDfixed)_0.xlsx')
+idProcess('merged(IDfixed)_0.xlsx')
 idProcess('merged(IDfixed)_3.xlsx')
 idProcess('merged(IDfixed)_5.xlsx')
 idProcess('merged(IDfixed)_6.xlsx')
 idProcess('merged(IDfixed)_7.xlsx')
 idProcess('merged(IDfixed)_8.xlsx')
-idProcess('merged(IDfixed)_9.xlsx')'''
+idProcess('merged(IDfixed)_9.xlsx')
 idProcess('merged(IDfixed)_10.xlsx')
 
 

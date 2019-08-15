@@ -9,6 +9,7 @@ dfICD10=pd.read_excel(filename,sheet_name='ICD10')
 dfMeSH=pd.read_excel(filename,sheet_name='MeSH')
 dfxref=pd.read_excel(filename,sheet_name='xref')
 list1=df['ID'].values
+
 lenMerged=len(df)
 lenDO=len(dfDO)
 lenICD10CM=len(dfICD10CM)

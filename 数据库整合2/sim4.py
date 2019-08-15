@@ -1,3 +1,4 @@
+#先按id匹配，后以固定阈值的SimhashIndex方法查找
 from nltk.tokenize import RegexpTokenizer
 from stop_words import get_stop_words
 from nltk.stem.porter import PorterStemmer
@@ -9,13 +10,18 @@ import xlrd
 import os
 from xlutils.copy import copy
 import pandas as pd
+import numpy as np
 import time
 #import toExcel
 #toExcel.filesToExcel()
 #OriginalFile = pd.read_excel("test1.xls", None)
 #print(type(OriginalFile['merged']['Syn'][1]))
+a=np.array([1,2])
+a=pd.DataFrame(a)
+a.columns=['AA']
+a.to_csv('test.csv',index=False)
 
-filename = "base3(IDfixed).xlsx"
+filename = "base2.xlsx"
 workbook = xlrd.open_workbook(filename)
 def get_simhash_topics(sheet_name):
     sheet = workbook.sheet_by_name(sheet_name)
@@ -300,19 +306,20 @@ def contrast(threshold):
         df = df.append(df1)
 
 
-    #df.to_csv('sim'+str(threshold)+'.csv',index=False)
-    OriginalFile = pd.read_excel(filename, None)
-    pdWriter = pd.ExcelWriter("merged(IDfixed)_"+str(threshold)+".xlsx")
-    OriginalFile['DO'].to_excel(pdWriter, sheet_name="DO", index=False)
-    OriginalFile['ICD10CM'].to_excel(pdWriter, sheet_name="ICD10CM", index=False)
-    OriginalFile['ICD10'].to_excel(pdWriter, sheet_name="ICD10", index=False)
-    OriginalFile['MeSH'].to_excel(pdWriter, sheet_name="MeSH", index=False)
-    df.to_excel(pdWriter, sheet_name="merged", index=False)
-    df2.to_excel(pdWriter,sheet_name="xref",index=False)
-    pdWriter.save()
-    pdWriter.close()
+    df.to_csv("12merged(IDfixed)_"+str(threshold)+".csv",index=False)
+    df2.to_csv("12xref_" + str(threshold) + ".csv", index=False)
+    #OriginalFile = pd.read_excel(filename, None)
+    #pdWriter = pd.ExcelWriter("merged(IDfixed)_"+str(threshold)+".xlsx")
+    #OriginalFile['DO'].to_excel(pdWriter, sheet_name="DO", index=False)
+    #OriginalFile['ICD10CM'].to_excel(pdWriter, sheet_name="ICD10CM", index=False)
+    #OriginalFile['ICD10'].to_excel(pdWriter, sheet_name="ICD10", index=False)
+    #OriginalFile['MeSH'].to_excel(pdWriter, sheet_name="MeSH", index=False)
+    #df.to_excel(pdWriter, sheet_name="merged", index=False)
+    #df2.to_excel(pdWriter,sheet_name="xref",index=False)
+    #pdWriter.save()
+    #pdWriter.close()
 
-start=time.perf_counter()
+'''start=time.perf_counter()
 contrast(0)
 dur1=time.perf_counter()
 print("time:",dur1-start)
@@ -330,17 +337,17 @@ dur5=time.perf_counter()
 print("time:",dur5-dur4)
 contrast(8)
 dur6=time.perf_counter()
-print("time:",dur6-dur5)
-contrast(9)
-dur7=time.perf_counter()
-print("time:",dur7-dur6)
-contrast(10)
-dur8=time.perf_counter()
-print("time:",dur1-start,'\n',
+print("time:",dur6-dur5)'''
+#contrast(9)
+#dur7=time.perf_counter()
+#print("time:",dur7-dur6)
+contrast(1)
+#dur8=time.perf_counter()
+'''print("time:",dur1-start,'\n',
       dur2-dur1,'\n',
       dur3-dur2,'\n',
       dur4-dur3,'\n',
       dur5-dur4,'\n',
       dur6-dur5,'\n',
       dur7-dur6,'\n',
-      dur8-dur7)
+      dur8-dur7)'''
