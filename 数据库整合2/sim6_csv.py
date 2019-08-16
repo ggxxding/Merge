@@ -32,7 +32,7 @@ def idProcess(name):
         if len(temp)>=3:
             data[i,0]=temp[1:]
         else:
-            data[i,0]=temp
+            data[i,0]=temp[1:]
 
         syns=data[i,1][1:-1]
         syns=syns.split('],[')
@@ -98,7 +98,7 @@ def idProcess(name):
 
 
     data=pd.DataFrame(data,columns=['ID','Syn'])
-    data.to_csv(name[0:17]+'_190809'+".csv",index=False)
+    data.to_csv(name[:-4]+'_ID'+".csv",index=False)
     '''pdWriter = pd.ExcelWriter(name[0:17]+'_1908082'+".xlsx")
     df['DO'].to_excel(pdWriter, sheet_name="DO", index=False)
     df['ICD10CM'].to_excel(pdWriter, sheet_name="ICD10CM", index=False)
@@ -109,13 +109,10 @@ def idProcess(name):
     pdWriter.save()
     pdWriter.close()'''
 
-'''idProcess('merged(IDfixed)_0.xlsx')
-idProcess('merged(IDfixed)_3.xlsx')
-idProcess('merged(IDfixed)_5.xlsx')
-idProcess('merged(IDfixed)_6.xlsx')
-idProcess('merged(IDfixed)_7.xlsx')
-idProcess('merged(IDfixed)_8.xlsx')'''
-idProcess('merged(IDfixed)_9.csv')
+for i in [0,3,5,6,7,8,9,10]:
+    print(i)
+    idProcess('merged190815_'+str(i)+'.csv')
+
 #idProcess('merged(IDfixed)_10.xlsx')
 
 

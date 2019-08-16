@@ -1,4 +1,4 @@
-#寻找ID类名称并且分离
+#LCS
 
 from nltk.tokenize import RegexpTokenizer
 from stop_words import get_stop_words
@@ -13,6 +13,7 @@ from xlutils.copy import copy
 import pandas as pd
 import numpy as np
 import time
+
 
 def LCS(str1,str2):
     len1=len(str1)
@@ -47,8 +48,8 @@ def idProcess(name):
         if len(temp)>=3:
             data[i,0]=temp[1:]
         else:
-            #data[i,0]=temp[1:]
-            data[i,0]=temp
+            data[i,0]=temp[1:]
+            #data[i,0]=temp     #id列ID数为1时若没写1就用这个，否则用上面一行的
         syns=data[i,1][1:-1]
         syns=syns.split('],[')
 
@@ -63,13 +64,11 @@ def idProcess(name):
         #data[i]由字符串转化为列表
         if len(data[i,0])==1:
             continue
-        elif i==1:
-            continue
         else:
             rates=np.zeros([len(data[i,1]),len(data[i,1])],dtype=float)
             for k in range(len(data[i,1])-1,0,-1):
                 for l in range(k-1,-1,-1):
-
+                    print(i,k,l)
                     if l!=k:
                         largestRate=0.
                         for disease1 in data[i,1][k]:
@@ -139,12 +138,11 @@ def idProcess(name):
 
 
     data=pd.DataFrame(data,columns=['ID','Syn'])
-    data.to_csv("test.csv",index=False)
-
+    data.to_csv(name[:-4]+'_LCS.csv',index=False)
     if len(data2)>0:
         data2 = np.array(data2, dtype=object)
         data2=pd.DataFrame(data2,columns=['List',"Syns"])
-        data2.to_csv("test2.csv",index=False)
+        data2.to_csv(name[:-4]+'_LCSlog.csv',index=False)
     '''pdWriter = pd.ExcelWriter(name[0:17]+'_1908082'+".xlsx")
     df['DO'].to_excel(pdWriter, sheet_name="DO", index=False)
     df['ICD10CM'].to_excel(pdWriter, sheet_name="ICD10CM", index=False)
@@ -154,7 +152,8 @@ def idProcess(name):
     df['xref'].to_excel(pdWriter, sheet_name="xref", index=False)
     pdWriter.save()
     pdWriter.close()'''
-idProcess('123merged(IDfixed)_1.csv')
+for iii in [0,3,5,6,7,8,9,10]:
+    idProcess('merged190815_'+str(iii)+'_ID.csv')
 
 
 

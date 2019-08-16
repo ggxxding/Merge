@@ -18,7 +18,7 @@ import time
 #print(type(OriginalFile['merged']['Syn'][1]))
 
 
-filename = "base2.xlsx"
+filename = "base.xlsx"
 workbook = xlrd.open_workbook(filename)
 def get_simhash_topics(sheet_name):
     sheet = workbook.sheet_by_name(sheet_name)
@@ -310,7 +310,7 @@ def contrast(threshold):
         df = df.append(df1)
 
     for i in unMerged:
-        str1=i
+        str1='1,'+i
         tempList=dict[i]
 
         str2 = '['
@@ -322,8 +322,8 @@ def contrast(threshold):
         df = df.append(df1)
 
 
-    df.to_csv("123merged(IDfixed)_"+str(threshold)+".csv",index=False)
-    df2.to_csv("123xref)_"+str(threshold)+".csv",index=False)
+    df.to_csv("merged190815_"+str(threshold)+".csv",index=False)
+    df2.to_csv("merged190815_"+str(threshold)+"_xref.csv",index=False)
     #OriginalFile = pd.read_excel(filename, None)
     #pdWriter = pd.ExcelWriter("merged(IDfixed)_"+str(threshold)+".xlsx")
     #OriginalFile['DO'].to_excel(pdWriter, sheet_name="DO", index=False)
@@ -335,7 +335,7 @@ def contrast(threshold):
     #pdWriter.save()
     #pdWriter.close()
 
-'''start=time.perf_counter()
+start=time.perf_counter()
 contrast(0)
 dur1=time.perf_counter()
 print("time:",dur1-start)
@@ -353,17 +353,17 @@ dur5=time.perf_counter()
 print("time:",dur5-dur4)
 contrast(8)
 dur6=time.perf_counter()
-print("time:",dur6-dur5)'''
-contrast(1)
-#dur7=time.perf_counter()
-#print("time:",dur7-dur6)
-#contrast(10)
-#dur8=time.perf_counter()
-'''print("time:",dur1-start,'\n',
+print("time:",dur6-dur5)
+contrast(9)
+dur7=time.perf_counter()
+print("time:",dur7-dur6)
+contrast(10)
+dur8=time.perf_counter()
+print("time:",dur1-start,'\n',
       dur2-dur1,'\n',
       dur3-dur2,'\n',
       dur4-dur3,'\n',
       dur5-dur4,'\n',
       dur6-dur5,'\n',
       dur7-dur6,'\n',
-      dur8-dur7)'''
+      dur8-dur7)
