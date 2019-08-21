@@ -13,6 +13,12 @@ from xlutils.copy import copy
 import pandas as pd
 import numpy as np
 import time
+a="LKL'ssdf'd'"
+a=a.lower()
+print(a)
+a=a.split(' ')
+print(a)
+print(' '.join(a))
 
 
 def LCS(str1,str2):
@@ -71,9 +77,19 @@ def idProcess(name):
                     print(i,k,l)
                     if l!=k:
                         largestRate=0.
+
                         for disease1 in data[i,1][k]:
                             for disease2 in data[i,1][l]:
-                                lcslength=LCS(disease1,disease2)
+                                temp1=disease1.lower()
+                                temp2=disease2.lower()
+                                temp1=temp1.split(' ')
+                                temp2=temp2.split(' ')
+                                temp1.sort()
+                                temp2.sort()
+                                temp1=' '.join(temp1)
+                                temp2=' '.join(temp2)
+
+                                lcslength=LCS(temp1,temp2)
                                 tempRate=max(lcslength/len(disease1),lcslength/len(disease2))
                                 if tempRate>largestRate:
                                     largestRate=tempRate
@@ -138,11 +154,11 @@ def idProcess(name):
 
 
     data=pd.DataFrame(data,columns=['ID','Syn'])
-    data.to_csv(name[:-4]+'_LCS.csv',index=False)
+    data.to_csv(name[:-4]+'_LCS2.csv',index=False)
     if len(data2)>0:
         data2 = np.array(data2, dtype=object)
         data2=pd.DataFrame(data2,columns=['List',"Syns"])
-        data2.to_csv(name[:-4]+'_LCSlog.csv',index=False)
+        data2.to_csv(name[:-4]+'_LCSlog2.csv',index=False)
     '''pdWriter = pd.ExcelWriter(name[0:17]+'_1908082'+".xlsx")
     df['DO'].to_excel(pdWriter, sheet_name="DO", index=False)
     df['ICD10CM'].to_excel(pdWriter, sheet_name="ICD10CM", index=False)

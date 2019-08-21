@@ -1,4 +1,5 @@
 #先按id匹配，根据最大类数调整阈值
+#问题：flags=1的影响
 from nltk.tokenize import RegexpTokenizer
 from stop_words import get_stop_words
 from nltk.stem.porter import PorterStemmer
@@ -18,7 +19,7 @@ import time
 #print(type(OriginalFile['merged']['Syn'][1]))
 
 
-filename = "base.xlsx"
+filename = "base2.xlsx"
 workbook = xlrd.open_workbook(filename)
 def get_simhash_topics(sheet_name):
     sheet = workbook.sheet_by_name(sheet_name)
@@ -92,6 +93,36 @@ def get_simhash_topics(sheet_name):
         #print(simhash_topics[-1])
         #提取词干后的同义词表，同义词表，ID，id列表，来自哪个库
     return simhash_topics
+
+def listProceed(inputLists):
+    #inputLists=[ [],[],...,[] ]
+    flagChanged = 1
+    while flagChanged == 1:
+        tempLists = []
+        flags = [0 for i in range(len(inputLists))]
+        for i in range(len(inputLists)):
+            if flags[i] == 0:
+                temp = []
+                for ii in inputLists[i]:
+                    temp.append(ii)
+                tempLists.append(temp)
+                flags[i] = 1
+                for j in range(i + 1, len(inputLists)):
+                    if flags[j] == 0:
+                        for k in inputLists[j]:
+                            if k in tempLists[-1]:
+                                flags[j] = 1
+                                for l in inputLists[j]:
+                                    tempLists[-1].append(str(l))
+                                break
+                                # IDPairList[j]=[]
+        if len(tempLists) == len(inputLists):
+            flagChanged = 0
+            break
+        inputLists = tempLists.copy()
+    inputLists2=[list(set(x)) for x in inputLists]
+    return inputLists2
+
 def getObjs(objects,base):
     for i,j in enumerate(base):
         if objects!=[]:
@@ -124,7 +155,7 @@ DO.extend(MeSH) #delete?
 #print(DO)
 def contrast(threshold):
     SimIndex=SimhashIndex(SimhashObjs,k=threshold)
-    df=pd.DataFrame({"ID":[],"Syn":[]})
+    df=pd.DataFrame({"ID":[],"Syn":[],"CrossReference":[]})
     df2=pd.DataFrame({"ID":[],"Syn":[]})
     #a,adoc_set,aid,sheet_name,from
     dict={}         #ID：同义词表 type:list
@@ -134,6 +165,7 @@ def contrast(threshold):
     unMerged=[]     #未匹配的ID
     unMergedSyn=[]
     flags=[0 for i in range(len(DO))]   #1已配对 0未配对
+    idflags=[0 for i in range(len(DO))]
     for i in range(len(DO)):
         print('\r'+str(i),end='',flush=True)
         idMatched = 0
@@ -144,41 +176,26 @@ def contrast(threshold):
                     break
                 for id2 in DO[j][3]:
                     if id1 == id2:
-                        # print(id1, id2)
-                        # print(DO[i][3],DO[j][3])
                         idMatch = 1
                         idMatched = 1
                         break
             # distance_simhash=Simhash(DO[i][0]).distance(Simhash(DO[j][0]))
             if idMatch == 1:
                 idMatch = 0
+                idflags[i]=1
+                idflags[j]=1
+                dict[str(i)] = DO[i][1]  # DO[i][2]=id
+                dict[str(j)] = DO[j][1]
+                IDPair = [str(i), str(j)]
 
-                '''str1 = '['
-                for k in DO[i][1]:  # DO[i][1]=syn
-                    str1 = str1 + '"""' + str(k) + '""",'
-                str1 = str1[:-1] + ']'
-                str2 = '['
-                for k in DO[j][1]:
-                    str2 = str2 + '"""' + str(k) + '""",'
-                str2 = str2[:-1] + ']' '''
-                # print(str1,str2)
-                dict[str(DO[i][2])] = DO[i][1]  # DO[i][2]=id
-                dict[str(DO[j][2])] = DO[j][1]
-                IDPair = [str(DO[i][2]), str(DO[j][2])]
-                # IDPairList.append(IDPair)
                 IDPairList.append(IDPair)
                 xref.append(IDPair)
-                # df1=pd.DataFrame({"ID":[ID],"Syn":[Syn]})
-                # df=df.append(df1)
+
         if flags[i]==0:
             near=SimIndex.get_near_dups(Simhash(DO[i][0]))
             if len(near)==1 and near[0]==str(i) and idMatched==0:    #未匹配
-                '''str1= '['
-                for k in DO[i][1]:
-                    str1 = str1 + '"""' + str(k) + '""",'
-                str1 = str1[:-1] + ']' '''
-                dict[str(DO[i][2])]=DO[i][1]
-                unMerged.append(str(DO[i][2]))
+                dict[str(i)]=DO[i][1]
+                unMerged.append(str(i))
                 unMergedSyn.append(DO[i][1])
             #elif len(near)>1 and idMatched==0:
             elif len(near)>1:
@@ -186,18 +203,14 @@ def contrast(threshold):
                 if len(near)>1:
                     while len(near)>0:
                         temp=int(near.pop())
-                        '''str1 = '['
-                        for k in DO[temp][1]:
-                            str1 = str1 + '"""' + str(k) + '""",'
-                        str1 = str1[:-1] + ']' '''
-                        dict[str(DO[temp][2])]=DO[temp][1]
-                        flags[temp]=1
-                        IDPair.append(str(DO[temp][2]))
-                    IDPairList.append(IDPair)
+                        dict[str(temp)]=DO[temp][1]
+                        #flags[temp]=1
+                        IDPair.append(str(temp))
+                    if len(IDPair)>1:
+                        IDPairList.append(IDPair)
 
 
-
-    #二次查找实体对
+    #二次查找实体对,把xref中互相关联的结果并到一起
     flagChanged = 1
     while flagChanged == 1:
         xrefs = []
@@ -224,9 +237,11 @@ def contrast(threshold):
             break
         xref= xrefs
 
+    # 二次查找实体对,把IDPairList中互相关联的结果并到一起
     flagChanged=1
     while flagChanged==1:
         diseases=[]
+
         flags = [0 for i in range(len(IDPairList))]
         for i in range(len(IDPairList)):
             # print(i)
@@ -248,35 +263,72 @@ def contrast(threshold):
         if len(diseases)==len(IDPairList):
             flagChanged=0
             break
-        IDPairList=diseases
+        IDPairList=diseases.copy()
 
 
-    '''diseases=[] #疾病类列表
-    for i in range(len(IDPairList)):
-        #print(i)
-        if flags[i]==0:
-            temp=[]
-            for ii in IDPairList[i]:
-                temp.append(str(ii))
-            diseases.append(temp)
-            flags[i]=1
-            for j in range(i + 1, len(IDPairList)):
-                if flags[j] == 0:
-                    for k in IDPairList[j]:
-                        if k in diseases[-1]:
-                            flags[j]=1
-                            for l in IDPairList[j]:
-                                diseases[-1].append(str(l))
-                            break
-        else:
-            continue'''
+    #检测最大类，对该类应用阈值减小的simhash
+    print(IDPairList)
+    IDPairListLens = [len(list(set(x))) for x in IDPairList]
+    maxLen = max(IDPairListLens)
+    #print(maxLen)
+    tempThreshold=threshold
+    while maxLen>10 and tempThreshold>0:
+        print(maxLen,tempThreshold)
+        tempThreshold=tempThreshold-1
+        indexList=[]    #记录大于10的类的index
+        for index,IDPair in enumerate(IDPairList):
+            tempIDPair=list(set(IDPair))
+            if len(tempIDPair)>10:#类内进行更小阈值计算
+                indexList.append(index)
+                tempIDPairLists = []
+                SimhashObjs2=[]
+                for x in tempIDPair:
+                    #print(x,DO[int(x)][0])
+                    SimhashObjs2.append((str(x),Simhash(DO[int(x)][0])))
+                SimIndex2 = SimhashIndex(SimhashObjs2, k=tempThreshold)
+                flags=[0 for x in range(len(tempIDPair))]
+                tempIDPairList=[]
+                for i in range(len(tempIDPair)):
+                    if flags[i]==0:
+                        #print(IDPair[i])
+                        near=SimIndex2.get_near_dups(Simhash(DO[int(tempIDPair[i])][0]))
+                        if len(near)==1 and near[0]==tempIDPair[i]:
+                            unMerged.append(str(tempIDPair[i]))
+                            #dict.append
+                            #unMergedSyn.append(DO[int(IDPair[i])][1])
+                        elif len(near)>1:
+                            tempIDPair2=[]
+                            while len(near) > 0:
+                                temp = near.pop()
+                                #dict[str(temp)] = DO[temp][1]
+                                #flags[tempIDPair.index(temp)] = 1
+                                tempIDPair2.append(str(temp))
+                                #print(tempIDPair2)
+                            if len(tempIDPair2) > 1:
+                                tempIDPairLists.append(tempIDPair2)
+                tempIDPairLists=listProceed(tempIDPairLists)
+
+                for k in tempIDPairLists:
+                    diseases.append(k)
+        indexList.sort(reverse=True)
+        for k in indexList:
+            diseases.pop(k)
+        IDPairList=diseases.copy()
+        IDPairListLens = [len(list(set(x))) for x in IDPairList]
+        maxLen = max(IDPairListLens)
+
+
+    #xref中的类转为字符串输入到dataframe中
     for i in xrefs:
         IDs=list(set(i))
-        str1= ','.join(IDs)
-        str1=str(len(IDs))+','+'xref'+','+str1 #id数：所有id
+        realIDs=[DO[int(x)][2] for x in IDs]
+        str1= ','.join(realIDs)
+        str1=str(len(realIDs))+','+'xref'+','+str1 #id数：所有id
         SynList = []
         for id in IDs:
             tempList=dict[id]
+            #print(tempList)
+            #print(DO[int(id)][1])
             str3 = '['
             for k in tempList:
                 str3 = str3 + '"""' + str(k) + '""",'
@@ -285,15 +337,17 @@ def contrast(threshold):
 
         str2 = ','.join(SynList)
         #print(str2)
-        df1 = pd.DataFrame({"ID": [str1], "Syn": [str2]})
-        df2 = df2.append(df1)
-
+        df1 = pd.DataFrame({"ID": [str1], "Syn": [str2],"CrossReference":['1']})
+        df = df.append(df1)
+        df2 = df2.append(df1[["ID","Syn"]])
+    # diseases中的类转为字符串输入到dataframe中
     for i in diseases:
         IDs = list(set(i))
+        realIDs=[DO[int(x)][2] for x in IDs]
         '''if len(IDs)==1:
             continue'''
-        str1 = ','.join(IDs)
-        str1=str(len(IDs))+','+str1 #id数：所有id
+        str1 = ','.join(realIDs)
+        str1=str(len(realIDs))+','+str1 #id数：所有id
         SynList = []
         for id in IDs:
             tempList=dict[id]
@@ -306,11 +360,11 @@ def contrast(threshold):
 
         str2 = ','.join(SynList)
         #print(str2)
-        df1 = pd.DataFrame({"ID": [str1], "Syn": [str2]})
+        df1 = pd.DataFrame({"ID": [str1], "Syn": [str2],"CrossReference":['0']})
         df = df.append(df1)
-
+    # unmerged中的类转为字符串输入到dataframe中
     for i in unMerged:
-        str1='1,'+i
+        str1='1,'+DO[int(i)][2]
         tempList=dict[i]
 
         str2 = '['
@@ -318,12 +372,12 @@ def contrast(threshold):
             str2 = str2 + '"""' + str(k) + '""",'
         str2 = str2[:-1] + ']'
 
-        df1 = pd.DataFrame({"ID": [str1], "Syn": [str2]})
+        df1 = pd.DataFrame({"ID": [str1], "Syn": [str2],"CrossReference":['0']})
         df = df.append(df1)
 
 
-    df.to_csv("merged190815_"+str(threshold)+".csv",index=False)
-    df2.to_csv("merged190815_"+str(threshold)+"_xref.csv",index=False)
+    df.to_csv("merged190821_"+str(threshold)+".csv",index=False)
+    df2.to_csv("merged190821_"+str(threshold)+"_xref.csv",index=False)
     #OriginalFile = pd.read_excel(filename, None)
     #pdWriter = pd.ExcelWriter("merged(IDfixed)_"+str(threshold)+".xlsx")
     #OriginalFile['DO'].to_excel(pdWriter, sheet_name="DO", index=False)
@@ -336,28 +390,28 @@ def contrast(threshold):
     #pdWriter.close()
 
 start=time.perf_counter()
-contrast(0)
+contrast(10)
 dur1=time.perf_counter()
 print("time:",dur1-start)
-contrast(3)
+contrast(9)
 dur2=time.perf_counter()
 print("time:",dur2-dur1)
-contrast(5)
+contrast(8)
 dur3=time.perf_counter()
 print("time:",dur3-dur2)
-contrast(6)
+contrast(7)
 dur4=time.perf_counter()
 print("time:",dur4-dur3)
-contrast(7)
+contrast(6)
 dur5=time.perf_counter()
 print("time:",dur5-dur4)
-contrast(8)
+contrast(5)
 dur6=time.perf_counter()
 print("time:",dur6-dur5)
-contrast(9)
+contrast(3)
 dur7=time.perf_counter()
 print("time:",dur7-dur6)
-contrast(10)
+contrast(0)
 dur8=time.perf_counter()
 print("time:",dur1-start,'\n',
       dur2-dur1,'\n',
