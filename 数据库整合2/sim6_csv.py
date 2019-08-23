@@ -12,6 +12,7 @@ import pandas as pd
 import numpy as np
 import time
 
+
 def idProcess(name):
     filename = name
     df = pd.read_csv(filename)
@@ -29,11 +30,13 @@ def idProcess(name):
     for i in range(length):#(0-64399)
         #print(data[i,1])
         temp=data[i,0].split(',')
-        if len(temp)>=3:
+        if int(data[i,2])==1:
+            data[i,0]=temp[2:]
+            print(data[i,0])
+        elif len(temp)>=3:
             data[i,0]=temp[1:]
         else:
             data[i,0]=temp[1:]
-
         syns=data[i,1][1:-1]
         syns=syns.split('],[')
         #print(j)
@@ -46,22 +49,22 @@ def idProcess(name):
             temp1.append(temp)
         data[i,1]=temp1
         #print(data[i,1])
-
-        for k in range(len(data[i,1])-1,-1,-1):# i行第k个syn列表
-            for disease in data[i,1][k]:
-                matched = re.match(r'[A-Za-z]+[\d]+', disease)
-                if matched:
-                    #print(disease)
-                    '''if data[i,0]==['DOID:80356']:
-                        print(data[i,0])'''
-                    ID=data[i,0].pop(k)
-                    popid=[ID]
-                    poplist=data[i,1].pop(k)
-                    #print(popid,poplist)
-                    temp=np.array([popid,poplist],dtype=object).reshape(1,2)
-                    data=np.concatenate([data,temp])
-                    #print(k,i,data.shape[0],data[-1])
-                    break
+        if int(data[i,2])==0:
+            for k in range(len(data[i,1])-1,-1,-1):# i行第k个syn列表
+                for disease in data[i,1][k]:
+                    matched = re.match(r'[A-Za-z]+[\d]+', disease)
+                    if matched:
+                        #print(disease)
+                        '''if data[i,0]==['DOID:80356']:
+                            print(data[i,0])'''
+                        ID=data[i,0].pop(k)
+                        popid=[ID]
+                        poplist=data[i,1].pop(k)
+                        #print(popid,poplist)
+                        temp=np.array([popid,poplist,0],dtype=object).reshape(1,3)
+                        data=np.concatenate([data,temp])
+                        #print(k,i,data.shape[0],data[-1])
+                        break
 
     emptyList=[]
     #[DOIS:222  nsioasd]
@@ -97,7 +100,7 @@ def idProcess(name):
         data=np.delete(data,i,axis=0)
 
 
-    data=pd.DataFrame(data,columns=['ID','Syn'])
+    data=pd.DataFrame(data,columns=['ID','Syn','CrossReference'])
     data.to_csv(name[:-4]+'_ID'+".csv",index=False)
     '''pdWriter = pd.ExcelWriter(name[0:17]+'_1908082'+".xlsx")
     df['DO'].to_excel(pdWriter, sheet_name="DO", index=False)
@@ -111,7 +114,7 @@ def idProcess(name):
 
 for i in [0,3,5,6,7,8,9,10]:
     print(i)
-    idProcess('merged190815_'+str(i)+'.csv')
+    idProcess('merged190821_'+str(i)+'.csv')
 
 #idProcess('merged(IDfixed)_10.xlsx')
 

@@ -68,7 +68,7 @@ def idProcess(name):
             temp1.append(temp)
         data[i,1]=temp1
         #data[i]由字符串转化为列表
-        if len(data[i,0])==1:
+        if len(data[i,0])==1 or int(data[i,2])==1:
             continue
         else:
             rates=np.zeros([len(data[i,1]),len(data[i,1])],dtype=float)
@@ -113,7 +113,7 @@ def idProcess(name):
                 tempID=data[i,0].pop(k)
                 popid=[tempID]
                 poplist=data[i,1].pop(k)
-                temp=np.array([popid,poplist],dtype=object).reshape(1,2)
+                temp=np.array([popid,poplist,0],dtype=object).reshape(1,3)
                 data=np.concatenate([data,temp])
 
 
@@ -153,8 +153,8 @@ def idProcess(name):
         data=np.delete(data,i,axis=0)
 
 
-    data=pd.DataFrame(data,columns=['ID','Syn'])
-    data.to_csv(name[:-4]+'_LCS2.csv',index=False)
+    data=pd.DataFrame(data,columns=['ID','Syn','CrossReference'])
+    data.to_csv(name[:-4]+'_LCS.csv',index=False)
     if len(data2)>0:
         data2 = np.array(data2, dtype=object)
         data2=pd.DataFrame(data2,columns=['List',"Syns"])
@@ -169,7 +169,7 @@ def idProcess(name):
     pdWriter.save()
     pdWriter.close()'''
 for iii in [0,3,5,6,7,8,9,10]:
-    idProcess('merged190815_'+str(iii)+'_ID.csv')
+    idProcess('merged190821_'+str(iii)+'_ID.csv')
 
 
 

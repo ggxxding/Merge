@@ -19,7 +19,7 @@ import time
 #print(type(OriginalFile['merged']['Syn'][1]))
 
 
-filename = "base2.xlsx"
+filename = "base3(IDfixed).xlsx"
 workbook = xlrd.open_workbook(filename)
 def get_simhash_topics(sheet_name):
     sheet = workbook.sheet_by_name(sheet_name)
