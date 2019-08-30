@@ -112,9 +112,9 @@ def idProcess(name):
     pdWriter.save()
     pdWriter.close()'''
 
-for i in [0,3,5,6,7,8,9,10]:
+'''for i in [0,3,5,6,7,8,9,10]:
     print(i)
-    idProcess('merged190821_'+str(i)+'.csv')
+    idProcess('merged190821_'+str(i)+'.csv')'''
 
 #idProcess('merged(IDfixed)_10.xlsx')
 

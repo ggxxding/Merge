@@ -1,5 +1,5 @@
 #先按id匹配，根据最大类数调整阈值
-#问题：flags=1的影响
+#问题：flags=1的影响 有些个数1夹杂在merge中
 from nltk.tokenize import RegexpTokenizer
 from stop_words import get_stop_words
 from nltk.stem.porter import PorterStemmer
@@ -389,7 +389,7 @@ def contrast(threshold):
     #pdWriter.save()
     #pdWriter.close()
 
-start=time.perf_counter()
+'''start=time.perf_counter()
 contrast(10)
 dur1=time.perf_counter()
 print("time:",dur1-start)
@@ -420,4 +420,4 @@ print("time:",dur1-start,'\n',
       dur5-dur4,'\n',
       dur6-dur5,'\n',
       dur7-dur6,'\n',
-      dur8-dur7)
+      dur8-dur7)'''

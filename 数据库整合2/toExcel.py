@@ -243,11 +243,11 @@ def MeSHtoEXCEL(path):
     df.columns=['id','ids','name','syn']
     df.to_excel('MeSH.xlsx',index=False)
     return df
-def filesToExcel():
-    pathDO = "DiseaseOntology_20190627.csv"
-    pathICD1 = "ICD10CM2019_20180626-USA.csv"
-    pathICD2 = "ICD102016_20180704-WHO.csv"
-    pathMeSH = "MeSH2018_20180713.csv"
+def filesToExcel(nameDO,nameICDCM,nameICD,nameMeSH):
+    pathDO = nameDO
+    pathICD1 = nameICDCM
+    pathICD2 = nameICD
+    pathMeSH = nameMeSH
     a = DOtoEXCEL(pathDO)
     b = ICD1toEXCEL(pathICD1)
     c = ICD2toEXCEL(pathICD2)
@@ -260,4 +260,4 @@ def filesToExcel():
     d.to_excel(pdWriter, sheet_name="MeSH", index=False)
     pdWriter.save()
     pdWriter.close()
-filesToExcel()
+#filesToExcel()

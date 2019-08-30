@@ -3,7 +3,7 @@ import pandas as pd
 
 
 
-filename='merged190815_0_ID_LCS.csv'
+filename='merged190821_0_ID_LCS.csv'
 
 df=pd.read_csv(filename)
 '''dfDO=pd.read_excel(filename,sheet_name='DO')
@@ -14,6 +14,7 @@ dfxref=pd.read_excel(filename,sheet_name='xref')'''
 list1=df['ID'].values
 print(list1)
 lenMerged=len(df)
+print(lenMerged)
 #lenDO=len(dfDO)
 #lenICD10CM=len(dfICD10CM)
 #lenICD10=len(dfICD10)
@@ -88,14 +89,9 @@ for i in list1:
 #print('ICD10_CM unmerged  %-6d %.2f'%(unmergedlist.count('ICD10_CM'),unmergedlist.count('ICD10_CM')/lenICD10CM))
 #print('ICD10    unmerged  %-6d %.2f'%(unmergedlist.count('ICD10'),unmergedlist.count('ICD10')/lenICD10))
 #print('MeSH     unmerged  %-6d %.2f'%(unmergedlist.count('MeSH'),unmergedlist.count('MeSH')/lenMeSH))
-lenMerge=lenMerged-(unmergedlist.count('DOID')+
-      unmergedlist.count('ICD10_CM')+
-      unmergedlist.count('ICD10')+
-      unmergedlist.count('MeSH'))
-print('sum: %d merged %d unmerged %d'%(lenMerged,lenMerge,unmergedlist.count('DOID')+
-      unmergedlist.count('ICD10_CM')+
-      unmergedlist.count('ICD10')+
-      unmergedlist.count('MeSH')))
+lenMerge=lenMerged-len(unmergedlist)
+print(set(unmergedlist))
+print('sum: %d merged %d unmerged %d'%(lenMerged,lenMerge,len(unmergedlist)))
 print('DO_',DO_,DO_/lenMerge)
 print('ICD10CM_',ICD10CM_,ICD10CM_/lenMerge)
 print('ICD10_ ',ICD10_,ICD10_/lenMerge)

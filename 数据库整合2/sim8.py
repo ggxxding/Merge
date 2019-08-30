@@ -13,12 +13,7 @@ from xlutils.copy import copy
 import pandas as pd
 import numpy as np
 import time
-a="LKL'ssdf'd'"
-a=a.lower()
-print(a)
-a=a.split(' ')
-print(a)
-print(' '.join(a))
+
 
 
 def LCS(str1,str2):
@@ -168,8 +163,8 @@ def idProcess(name):
     df['xref'].to_excel(pdWriter, sheet_name="xref", index=False)
     pdWriter.save()
     pdWriter.close()'''
-for iii in [0,3,5,6,7,8,9,10]:
-    idProcess('merged190821_'+str(iii)+'_ID.csv')
+'''for iii in [0,3,5,6,7,8,9,10]:
+    idProcess('merged190821_'+str(iii)+'_ID.csv')'''
 
 
 
