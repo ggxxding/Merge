@@ -6,6 +6,7 @@ nameICD= "ICD102016_20180704-WHO.csv",nameMeSH= "MeSH2018_20180713.csv")
 import sim7
 import time
 import sim6_csv
+import sim8
 
 start=time.perf_counter()
 dur=[]
